@@ -1,0 +1,3570 @@
+cruise_line,cruise_ship,date,score
+Princess Cruises,Dawn Princess,2/3/1990,87
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,3/19/1990,78
+Seabourn Cruise Line,Seabourn Spirit,3/6/1990,94
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,4/30/1990,100
+V. Ships Leisure U.S.A.,MV Yorktown,7/5/1990,60
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,8/24/1990,88
+V. Ships Leisure U.S.A.,MV Yorktown,8/28/1990,92
+Seabourn Cruise Line,Seabourn Spirit,10/31/1990,94
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,1/18/1991,95
+Seabourn Cruise Line,Seabourn Pride,10/6/1991,92
+Seabourn Cruise Line,Seabourn Spirit,10/17/1991,97
+Royal Caribbean International,Monarch Of The Seas,12/8/1991,87
+Seabourn Cruise Line,Seabourn Spirit,1/22/1992,93
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,3/29/1992,94
+V. Ships Leisure U.S.A.,MV Yorktown,3/26/1992,92
+Seabourn Cruise Line,Seabourn Spirit,3/10/1992,92
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,4/17/1992,93
+Royal Caribbean International,Monarch Of The Seas,4/25/1992,92
+Seabourn Cruise Line,Seabourn Pride,4/4/1992,99
+Royal Caribbean International,Majesty Of The Seas,5/10/1992,89
+Lindblad Expeditions,Sea Bird,6/14/1992,87
+Lindblad Expeditions,Sea Lion,6/14/1992,96
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,7/2/1992,96
+Lindblad Expeditions,Sea Bird,8/9/1992,95
+Lindblad Expeditions,Sea Lion,8/9/1992,93
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/23/1992,89
+Royal Caribbean International,Monarch Of The Seas,10/25/1992,96
+Royal Caribbean International,Majesty Of The Seas,12/20/1992,97
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,2/19/1993,86
+Royal Caribbean International,Monarch Of The Seas,2/14/1993,93
+Holland America Line,Statendam,2/10/1993,84
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,3/25/1993,87
+Seabourn Cruise Line,Seabourn Pride,3/10/1993,89
+Holland America Line,Statendam,3/23/1993,83
+Royal Caribbean International,Majesty Of The Seas,5/23/1993,95
+Lindblad Expeditions,Sea Bird,5/24/1993,91
+Seabourn Cruise Line,Seabourn Pride,5/1/1993,91
+Holland America Line,Statendam,5/2/1993,86
+Lindblad Expeditions,Sea Lion,6/13/1993,93
+V. Ships Leisure U.S.A.,MV Yorktown,7/10/1993,90
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,8/29/1993,99
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,8/27/1993,91
+Lindblad Expeditions,Sea Bird,8/10/1993,79
+Lindblad Expeditions,Sea Lion,8/13/1993,92
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,10/31/1993,98
+Lindblad Expeditions,Sea Bird,10/2/1993,94
+Royal Caribbean International,Majesty Of The Seas,11/21/1993,96
+Royal Caribbean International,Monarch Of The Seas,11/6/1993,92
+Holland America Line,Statendam,11/11/1993,88
+"Carnival Cruise Lines, Inc.",Carnival Sensation,12/16/1993,95
+Holland America Line,Maasdam,12/17/1993,94
+Seabourn Cruise Line,Seabourn Pride,1/27/1994,93
+Royal Caribbean International,Monarch Of The Seas,2/19/1994,97
+"Carnival Cruise Lines, Inc.",Carnival Sensation,3/24/1994,88
+Holland America Line,Maasdam,4/3/1994,81
+Holland America Line,Maasdam,5/9/1994,96
+Royal Caribbean International,Majesty Of The Seas,5/8/1994,96
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,6/10/1994,83
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,6/16/1994,84
+Royal Caribbean International,Monarch Of The Seas,7/23/1994,93
+V. Ships Leisure U.S.A.,MV Yorktown,7/9/1994,84
+Lindblad Expeditions,Sea Bird,7/6/1994,95
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,8/29/1994,94
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,8/25/1994,94
+"Carnival Cruise Lines, Inc.",Carnival Fascination,8/12/1994,90
+V. Ships Leisure U.S.A.,MV Yorktown,8/30/1994,93
+Lindblad Expeditions,Sea Lion,8/31/1994,94
+Silversea Cruises Ltd,Silver Cloud,9/20/1994,98
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,10/20/1994,96
+Royal Caribbean International,Majesty Of The Seas,10/9/1994,98
+Holland America Line,Ryndam,10/23/1994,92
+Seabourn Cruise Line,Seabourn Pride,10/24/1994,96
+"Carnival Cruise Lines, Inc.",Carnival Sensation,11/13/1994,93
+Holland America Line,Statendam,12/5/1994,93
+"Carnival Cruise Lines, Inc.",Carnival Sensation,1/11/1995,85
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,2/3/1995,91
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/5/1995,94
+Holland America Line,Maasdam,2/15/1995,97
+Royal Caribbean International,Monarch Of The Seas,2/18/1995,96
+Holland America Line,Ryndam,2/19/1995,91
+Seabourn Cruise Line,Seabourn Pride,2/19/1995,74
+Silversea Cruises Ltd,Silver Cloud,2/3/1995,97
+Holland America Line,Statendam,2/14/1995,93
+Royal Caribbean International,Majesty Of The Seas,3/19/1995,96
+Seabourn Cruise Line,Seabourn Pride,3/21/1995,94
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,5/18/1995,91
+"Carnival Cruise Lines, Inc.",Carnival Fascination,5/14/1995,95
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,6/30/1995,87
+"Crystal Cruises , Inc.",Crystal Symphony,6/15/1995,95
+Royal Caribbean International,Legend Of The Seas,6/16/1995,98
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,6/9/1995,48
+Lindblad Expeditions,Sea Bird,6/17/1995,93
+"Carnival Cruise Lines, Inc.",Carnival Imagination,7/8/1995,95
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/9/1995,90
+V. Ships Leisure U.S.A.,MV Yorktown,7/8/1995,93
+Lindblad Expeditions,Sea Lion,7/9/1995,95
+Royal Caribbean International,Majesty Of The Seas,8/27/1995,98
+Seabourn Cruise Line,Seabourn Spirit,9/29/1995,94
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,10/31/1995,90
+"Carnival Cruise Lines, Inc.",Carnival Fascination,10/28/1995,96
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,10/8/1995,94
+Royal Caribbean International,Monarch Of The Seas,10/8/1995,99
+V. Ships Leisure U.S.A.,MV Yorktown,10/25/1995,96
+Holland America Line,Ryndam,10/21/1995,89
+Holland America Line,Statendam,10/22/1995,97
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,11/30/1995,88
+Holland America Line,Maasdam,11/12/1995,90
+"Carnival Cruise Lines, Inc.",Carnival Imagination,12/16/1995,94
+Royal Caribbean International,Legend Of The Seas,12/6/1995,90
+Celebrity Cruises,Celebrity Century,1/13/1996,100
+"Crystal Cruises , Inc.",Crystal Symphony,1/17/1996,100
+P&O Cruises,Oriana,1/30/1996,86
+"Carnival Cruise Lines, Inc.",Carnival Imagination,2/3/1996,95
+Royal Caribbean International,Majesty Of The Seas,2/18/1996,98
+Royal Caribbean International,Monarch Of The Seas,2/24/1996,94
+Holland America Line,Ryndam,2/2/1996,92
+Holland America Line,Statendam,2/13/1996,86
+Princess Cruises,Sun Princess,2/3/1996,97
+Holland America Line,Maasdam,3/29/1996,94
+Seabourn Cruise Line,Seabourn Spirit,3/28/1996,92
+Silversea Cruises Ltd,Silver Wind,3/31/1996,89
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,4/15/1996,91
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,4/11/1996,91
+"Carnival Cruise Lines, Inc.",Carnival Fascination,4/21/1996,97
+"Carnival Cruise Lines, Inc.",Carnival Sensation,4/17/1996,93
+Royal Caribbean International,Legend Of The Seas,4/11/1996,98
+P&O Cruises,Oriana,4/18/1996,99
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,5/19/1996,97
+V. Ships Leisure U.S.A.,MV Yorktown,5/28/1996,96
+Lindblad Expeditions,Sea Lion,5/26/1996,95
+Princess Cruises,Sun Princess,6/17/1996,91
+Holland America Line,Veendam,6/22/1996,94
+Celebrity Cruises,Celebrity Century,7/27/1996,90
+Lindblad Expeditions,Sea Bird,7/3/1996,94
+Seabourn Cruise Line,Seabourn Pride,7/2/1996,90
+"Carnival Cruise Lines, Inc.",Carnival Imagination,8/3/1996,95
+Royal Caribbean International,Majesty Of The Seas,8/25/1996,91
+Holland America Line,Ryndam,8/20/1996,93
+"Carnival Cruise Lines, Inc.",Carnival Fascination,9/22/1996,88
+Royal Caribbean International,Monarch Of The Seas,9/21/1996,82
+V. Ships Leisure U.S.A.,MV Yorktown,9/13/1996,97
+Lindblad Expeditions,Sea Lion,9/11/1996,96
+Seabourn Cruise Line,Seabourn Legend,9/27/1996,88
+Holland America Line,Statendam,9/5/1996,97
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,10/18/1996,87
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,10/7/1996,95
+Royal Caribbean International,Monarch Of The Seas,10/27/1996,95
+Holland America Line,Veendam,10/8/1996,94
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,11/10/1996,88
+Holland America Line,Maasdam,11/3/1996,94
+Silversea Cruises Ltd,Silver Cloud,11/19/1996,93
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,12/16/1996,93
+"Carnival Cruise Lines, Inc.",Carnival Sensation,12/7/1996,94
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,12/15/1996,93
+"Crystal Cruises , Inc.",Crystal Symphony,12/22/1996,95
+Royal Caribbean International,Grandeur Of The Seas,12/18/1996,97
+Royal Caribbean International,Legend Of The Seas,12/17/1996,93
+Seabourn Cruise Line,Seabourn Pride,12/20/1996,89
+"Carnival Cruise Lines, Inc.",Carnival Fascination,1/19/1997,96
+Celebrity Cruises,Celebrity Century,1/21/1997,95
+Royal Caribbean International,Monarch Of The Seas,1/20/1997,92
+P&O Cruises,Oriana,1/29/1997,97
+Holland America Line,Ryndam,1/22/1997,94
+Silversea Cruises Ltd,Silver Cloud,1/4/1997,92
+Holland America Line,Statendam,1/14/1997,83
+Holland America Line,Veendam,1/23/1997,92
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,2/13/1997,90
+"Carnival Cruise Lines, Inc.",Carnival Imagination,2/1/1997,93
+Holland America Line,Maasdam,2/11/1997,81
+Royal Caribbean International,Majesty Of The Seas,2/16/1997,85
+Seabourn Cruise Line,Seabourn Legend,2/12/1997,92
+Princess Cruises,Sun Princess,2/1/1997,96
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,3/2/1997,94
+"Carnival Cruise Lines, Inc.",Carnival Sensation,3/25/1997,91
+Holland America Line,Maasdam,3/23/1997,97
+Seabourn Cruise Line,Seabourn Pride,3/21/1997,97
+Holland America Line,Statendam,3/5/1997,98
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,4/4/1997,92
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,4/16/1997,94
+Royal Caribbean International,Grandeur Of The Seas,4/9/1997,93
+Royal Caribbean International,Majesty Of The Seas,4/13/1997,86
+"Crystal Cruises , Inc.",Crystal Symphony,5/1/1997,95
+Royal Caribbean International,Legend Of The Seas,5/23/1997,94
+Lindblad Expeditions,Sea Lion,5/20/1997,91
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/15/1997,74
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,6/28/1997,95
+Princess Cruises,Dawn Princess,6/2/1997,96
+Royal Caribbean International,Monarch Of The Seas,6/16/1997,98
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,7/10/1997,88
+"Carnival Cruise Lines, Inc.",Carnival Fascination,7/20/1997,98
+"Carnival Cruise Lines, Inc.",Carnival Imagination,7/19/1997,91
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,7/21/1997,97
+V. Ships Leisure U.S.A.,MV Yorktown,7/7/1997,90
+Royal Caribbean International,Rhapsody Of The Seas,7/2/1997,94
+Holland America Line,Ryndam,7/27/1997,93
+Lindblad Expeditions,Sea Bird,7/1/1997,96
+Princess Cruises,Sun Princess,7/26/1997,97
+Holland America Line,Veendam,7/23/1997,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,8/31/1997,90
+Royal Caribbean International,Majesty Of The Seas,8/24/1997,93
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,9/29/1997,93
+"Carnival Cruise Lines, Inc.",Carnival Sensation,9/27/1997,94
+Princess Cruises,Dawn Princess,9/23/1997,93
+Silversea Cruises Ltd,Silver Cloud,9/30/1997,94
+Holland America Line,Statendam,9/9/1997,95
+"Crystal Cruises , Inc.",Crystal Symphony,10/20/1997,97
+Royal Caribbean International,Enchantment Of The Seas,10/23/1997,94
+V. Ships Leisure U.S.A.,MV Yorktown,10/28/1997,94
+Royal Caribbean International,Rhapsody Of The Seas,10/24/1997,91
+Lindblad Expeditions,Sea Bird,10/23/1997,97
+Lindblad Expeditions,Sea Lion,10/24/1997,97
+Celebrity Cruises,Celebrity Century,11/22/1997,93
+Holland America Line,Maasdam,11/4/1997,94
+Royal Caribbean International,Grandeur Of The Seas,12/16/1997,87
+Royal Caribbean International,Legend Of The Seas,12/17/1997,97
+Holland America Line,Rotterdam,12/29/1997,98
+Seabourn Cruise Line,Seabourn Pride,12/4/1997,93
+"Carnival Cruise Lines, Inc.",Carnival Imagination,1/31/1998,95
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,1/11/1998,93
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,1/22/1998,87
+"Crystal Cruises , Inc.",Crystal Symphony,1/7/1998,97
+Princess Cruises,Dawn Princess,1/23/1998,93
+Royal Caribbean International,Monarch Of The Seas,1/25/1998,95
+P&O Cruises,Oriana,1/28/1998,98
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,2/5/1998,93
+"Carnival Cruise Lines, Inc.",Carnival Fascination,2/15/1998,98
+Royal Caribbean International,Enchantment Of The Seas,2/12/1998,87
+Royal Caribbean International,Majesty Of The Seas,2/15/1998,96
+Royal Caribbean International,Rhapsody Of The Seas,2/13/1998,99
+Holland America Line,Ryndam,2/12/1998,97
+Holland America Line,Statendam,2/11/1998,91
+Princess Cruises,Sun Princess,2/21/1998,99
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,3/27/1998,95
+Seabourn Cruise Line,Seabourn Legend,3/31/1998,95
+Seabourn Cruise Line,Seabourn Pride,4/21/1998,86
+Holland America Line,Veendam,4/19/1998,97
+"Carnival Cruise Lines, Inc.",Carnival Elation,5/3/1998,90
+Celebrity Cruises,Celebrity Century,5/9/1998,95
+Holland America Line,Maasdam,5/21/1998,95
+V. Ships Leisure U.S.A.,MV Yorktown,5/24/1998,91
+Lindblad Expeditions,Sea Bird,5/13/1998,92
+Lindblad Expeditions,Sea Lion,5/15/1998,97
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/27/1998,93
+"Carnival Cruise Lines, Inc.",Carnival Sensation,6/13/1998,92
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,6/14/1998,87
+Princess Cruises,Dawn Princess,6/16/1998,86
+Royal Caribbean International,Grandeur Of The Seas,6/23/1998,94
+Royal Caribbean International,Legend Of The Seas,6/17/1998,99
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,7/20/1998,93
+"Carnival Cruise Lines, Inc.",Carnival Imagination,7/18/1998,87
+Blount Small Ship Adventures,Grande Caribe,7/13/1998,61
+Blount Small Ship Adventures,Grande Mariner,7/15/1998,87
+Royal Caribbean International,Monarch Of The Seas,7/19/1998,96
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,7/4/1998,36
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,8/2/1998,93
+Disney Cruise Lines,Disney Magic,8/7/1998,88
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,8/8/1998,62
+Royal Caribbean International,Majesty Of The Seas,8/23/1998,93
+Holland America Line,Ryndam,8/9/1998,93
+Holland America Line,Statendam,8/6/1998,92
+Princess Cruises,Sun Princess,8/5/1998,86
+"Carnival Cruise Lines, Inc.",Carnival Elation,9/6/1998,92
+"Carnival Cruise Lines, Inc.",Carnival Sensation,9/12/1998,86
+Blount Small Ship Adventures,Grande Caribe,9/14/1998,95
+Silversea Cruises Ltd,Silver Cloud,9/29/1998,97
+Holland America Line,Veendam,9/16/1998,91
+Royal Caribbean International,Vision Of The Seas,9/30/1998,96
+Royal Caribbean International,Enchantment Of The Seas,10/25/1998,97
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,10/5/1998,93
+Holland America Line,Maasdam,10/19/1998,96
+Royal Caribbean International,Rhapsody Of The Seas,10/6/1998,93
+Lindblad Expeditions,Sea Bird,10/29/1998,89
+Celebrity Cruises,Celebrity Century,11/7/1998,96
+Princess Cruises,Grand Princess,11/8/1998,94
+"Carnival Cruise Lines, Inc.",Carnival Imagination,12/5/1998,91
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,12/14/1998,91
+"Carnival Cruise Lines, Inc.",Carnival Paradise,12/6/1998,95
+Club Med Marine,Club Med 2,12/16/1998,95
+"Crystal Cruises , Inc.",Crystal Symphony,12/22/1998,88
+Princess Cruises,Dawn Princess,12/18/1998,79
+Royal Caribbean International,Grandeur Of The Seas,12/15/1998,98
+Holland America Line,Rotterdam,12/13/1998,96
+Seabourn Cruise Line,Seabourn Legend,12/19/1998,94
+Silversea Cruises Ltd,Silver Cloud,12/28/1998,91
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,1/28/1999,87
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,1/10/1999,81
+Princess Cruises,Dawn Princess,1/30/1999,88
+Peter Deilmann Cruises,Deutschland,1/6/1999,79
+Disney Cruise Lines,Disney Magic,1/29/1999,88
+Blount Small Ship Adventures,Grande Mariner,1/15/1999,92
+Royal Caribbean International,Legend Of The Seas,1/23/1999,95
+Royal Caribbean International,Majesty Of The Seas,1/24/1999,94
+Princess Cruises,Sea Princess,1/9/1999,83
+Seabourn Cruise Line,Seabourn Pride,1/7/1999,88
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,2/8/1999,87
+"Carnival Cruise Lines, Inc.",Carnival Fascination,2/28/1999,99
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,2/21/1999,94
+Holland America Line,Ryndam,2/2/1999,95
+Princess Cruises,Sea Princess,2/20/1999,94
+Holland America Line,Statendam,2/11/1999,93
+Princess Cruises,Sun Princess,2/16/1999,93
+"Carnival Cruise Lines, Inc.",Carnival Elation,3/28/1999,96
+"Carnival Cruise Lines, Inc.",Carnival Sensation,3/7/1999,93
+Club Med Marine,Club Med 2,3/4/1999,96
+Holland America Line,Maasdam,3/18/1999,87
+P&O Cruises,Oriana,3/14/1999,93
+Silversea Cruises Ltd,Silver Wind,3/27/1999,96
+Holland America Line,Veendam,3/7/1999,87
+Royal Caribbean International,Vision Of The Seas,3/2/1999,87
+Celebrity Cruises,Celebrity Century,4/24/1999,95
+Blount Small Ship Adventures,Grande Caribe,4/24/1999,92
+Royal Caribbean International,Monarch Of The Seas,4/11/1999,98
+Royal Caribbean International,Rhapsody Of The Seas,4/26/1999,95
+Holland America Line,Rotterdam,4/26/1999,97
+Seabourn Cruise Line,Seabourn Legend,4/9/1999,91
+Seabourn Cruise Line,Seabourn Pride,4/16/1999,95
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,5/23/1999,96
+Princess Cruises,Grand Princess,5/2/1999,95
+Royal Caribbean International,Grandeur Of The Seas,5/8/1999,93
+"Japan Cruise Line, Inc",Pacific Venus,5/27/1999,77
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,6/28/1999,90
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,6/24/1999,88
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/26/1999,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,6/27/1999,90
+Disney Cruise Lines,Disney Magic,6/25/1999,95
+Royal Caribbean International,Enchantment Of The Seas,6/13/1999,96
+Holland America Line,Ryndam,6/17/1999,95
+Lindblad Expeditions,Sea Bird,6/19/1999,77
+Lindblad Expeditions,Sea Lion,6/20/1999,92
+Holland America Line,Statendam,6/16/1999,89
+Royal Caribbean International,Vision Of The Seas,6/18/1999,98
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/18/1999,91
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,7/10/1999,98
+Holland America Line,Veendam,7/7/1999,91
+"Carnival Cruise Lines, Inc.",Carnival Sensation,8/22/1999,88
+"Carnival Cruise Lines, Inc.",Carnival Triumph,8/9/1999,89
+Princess Cruises,Dawn Princess,8/11/1999,97
+Blount Small Ship Adventures,Grande Caribe,8/20/1999,90
+Royal Caribbean International,Monarch Of The Seas,8/22/1999,88
+V. Ships Leisure U.S.A.,MV Yorktown,8/14/1999,93
+Lindblad Expeditions,Sea Bird,8/14/1999,90
+Princess Cruises,Sea Princess,8/10/1999,98
+"Carnival Cruise Lines, Inc.",Carnival Imagination,9/20/1999,98
+"Carnival Cruise Lines, Inc.",Carnival Paradise,9/19/1999,94
+Peter Deilmann Cruises,Deutschland,9/5/1999,91
+Disney Cruise Lines,Disney Wonder,9/9/1999,95
+Blount Small Ship Adventures,Grande Mariner,9/4/1999,90
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,9/22/1999,97
+Royal Caribbean International,Majesty Of The Seas,9/5/1999,89
+Princess Cruises,Sun Princess,9/8/1999,97
+Holland America Line,Maasdam,10/21/1999,91
+Royal Caribbean International,Rhapsody Of The Seas,10/10/1999,92
+Silversea Cruises Ltd,Silver Cloud,10/10/1999,98
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,11/11/1999,93
+Celebrity Cruises,Celebrity Century,11/6/1999,94
+Princess Cruises,Grand Princess,11/10/1999,92
+Royal Caribbean International,Grandeur Of The Seas,11/9/1999,92
+Holland America Line,Ryndam,11/20/1999,96
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,12/10/1999,89
+"Carnival Cruise Lines, Inc.",Carnival Fascination,12/12/1999,92
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,12/13/1999,92
+Club Med Marine,Club Med 2,12/14/1999,94
+Disney Cruise Lines,Disney Magic,12/3/1999,94
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,12/11/1999,96
+Norwegian Cruise Lines,Norwegian Sky,12/12/1999,98
+Holland America Line,Rotterdam,12/6/1999,91
+Regent Seven Seas,Seven Seas Navigator,12/17/1999,76
+Holland America Line,Veendam,12/19/1999,95
+Royal Caribbean International,Voyager Of The Seas,12/19/1999,94
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,1/30/2000,94
+"Crystal Cruises , Inc.",Crystal Symphony,1/20/2000,100
+Princess Cruises,Dawn Princess,1/9/2000,94
+Royal Caribbean International,Enchantment Of The Seas,1/23/2000,93
+P&O Cruises,Oriana,1/27/2000,98
+Seabourn Cruise Line,Seabourn Legend,1/12/2000,92
+Seabourn Cruise Line,Seabourn Pride,1/8/2000,92
+Regent Seven Seas,Seven Seas Navigator,1/22/2000,96
+Holland America Line,Statendam,1/18/2000,92
+Holland America Line,Volendam,1/5/2000,96
+"Carnival Cruise Lines, Inc.",Carnival Elation,2/13/2000,100
+"Carnival Cruise Lines, Inc.",Carnival Paradise,2/20/2000,93
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/6/2000,93
+"Carnival Cruise Lines, Inc.",Carnival Triumph,2/19/2000,98
+Disney Cruise Lines,Disney Wonder,2/3/2000,95
+Holland America Line,Maasdam,2/21/2000,96
+Princess Cruises,Sun Princess,2/14/2000,93
+Japan Grace,TSS Oceanic,2/4/2000,96
+"Mitsui O.S.K. Passenger Line, Ltd",Fuji Maru,3/31/2000,92
+Royal Caribbean International,Majesty Of The Seas,3/11/2000,94
+Royal Caribbean International,Monarch Of The Seas,3/12/2000,98
+"Japan Cruise Line, Inc",Pacific Venus,3/29/2000,78
+Royal Caribbean International,Vision Of The Seas,3/1/2000,91
+Club Med Marine,Club Med 2,4/6/2000,77
+Blount Small Ship Adventures,Grande Mariner,4/25/2000,75
+"Japan Cruise Line, Inc",Pacific Venus,4/28/2000,87
+Royal Caribbean International,Rhapsody Of The Seas,4/27/2000,94
+Princess Cruises,Sea Princess,4/15/2000,97
+Seabourn Cruise Line,Seabourn Legend,4/19/2000,88
+Seabourn Cruise Line,Seabourn Pride,4/7/2000,92
+Holland America Line,Veendam,4/9/2000,94
+Holland America Line,Volendam,4/11/2000,94
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,5/22/2000,94
+"Carnival Cruise Lines, Inc.",Carnival Fascination,5/20/2000,96
+"Carnival Cruise Lines, Inc.",Carnival Imagination,5/20/2000,90
+Celebrity Cruises,Celebrity Century,5/27/2000,94
+Disney Cruise Lines,Disney Magic,5/15/2000,96
+Princess Cruises,Grand Princess,5/14/2000,97
+Blount Small Ship Adventures,Grande Caribe,5/17/2000,95
+Royal Caribbean International,Grandeur Of The Seas,5/27/2000,96
+V. Ships Leisure U.S.A.,MV Yorktown,5/30/2000,92
+Norwegian Cruise Lines,Norwegian Sky,5/11/2000,98
+Holland America Line,Ryndam,5/9/2000,97
+Lindblad Expeditions,Sea Bird,5/3/2000,92
+Lindblad Expeditions,Sea Lion,5/3/2000,89
+Holland America Line,Statendam,5/10/2000,94
+Holland America Line,Zaandam,5/27/2000,93
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,6/29/2000,93
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,6/25/2000,95
+Royal Caribbean International,Enchantment Of The Seas,6/11/2000,94
+Blount Small Ship Adventures,Grande Mariner,6/13/2000,91
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,6/12/2000,99
+Regent Seven Seas,Seven Seas Navigator,6/3/2000,98
+Royal Caribbean International,Vision Of The Seas,6/2/2000,95
+Royal Caribbean International,Voyager Of The Seas,6/11/2000,94
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/16/2000,92
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,7/29/2000,94
+Princess Cruises,Dawn Princess,7/10/2000,96
+Disney Cruise Lines,Disney Wonder,7/23/2000,95
+Princess Cruises,Sea Princess,7/13/2000,96
+Japan Grace,TSS Oceanic,7/24/2000,84
+"Carnival Cruise Lines, Inc.",Carnival Elation,8/6/2000,98
+"Carnival Cruise Lines, Inc.",Carnival Triumph,8/19/2000,97
+Royal Caribbean International,Majesty Of The Seas,8/18/2000,90
+Royal Caribbean International,Monarch Of The Seas,8/21/2000,91
+Lindblad Expeditions,Sea Lion,8/12/2000,92
+Princess Cruises,Sun Princess,8/10/2000,93
+Japan Grace,TSS Oceanic,8/28/2000,91
+"Carnival Cruise Lines, Inc.",Carnival Imagination,9/28/2000,96
+"Carnival Cruise Lines, Inc.",Carnival Paradise,9/3/2000,87
+"Carnival Cruise Lines, Inc.",Carnival Victory,9/28/2000,97
+Blount Small Ship Adventures,Grande Caribe,9/19/2000,93
+Blount Small Ship Adventures,Grande Mariner,9/17/2000,87
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,9/15/2000,97
+V. Ships Leisure U.S.A.,MV Yorktown,9/15/2000,90
+P&O Cruises,Oriana,9/20/2000,99
+Lindblad Expeditions,Sea Bird,9/19/2000,96
+Silversea Cruises Ltd,Silver Wind,9/22/2000,96
+Holland America Line,Zaandam,9/2/2000,93
+Holland America Line,Amsterdam,10/30/2000,93
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,10/20/2000,94
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/29/2000,93
+Celebrity Cruises,Celebrity Century,10/20/2000,93
+Royal Caribbean International,Grandeur Of The Seas,10/17/2000,97
+Holland America Line,Maasdam,10/18/2000,96
+Norwegian Cruise Lines,Norwegian Sky,10/19/2000,97
+Royal Caribbean International,Rhapsody Of The Seas,10/8/2000,94
+Seabourn Cruise Line,Seabourn Pride,10/16/2000,95
+Silversea Cruises Ltd,Silver Shadow,10/24/2000,97
+Holland America Line,Veendam,10/5/2000,86
+Holland America Line,Volendam,10/23/2000,98
+Costa Crociere S.P.A.,Costa Atlantica,11/19/2000,98
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,11/10/2000,96
+Royal Caribbean International,Explorer Of The Seas,11/18/2000,91
+Holland America Line,Ryndam,11/4/2000,96
+Seabourn Cruise Line,Seabourn Legend,11/28/2000,95
+Royal Caribbean International,Voyager Of The Seas,11/12/2000,92
+"Carnival Cruise Lines, Inc.",Carnival Fascination,12/2/2000,95
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,12/17/2000,98
+Princess Cruises,Dawn Princess,12/9/2000,96
+Royal Caribbean International,Enchantment Of The Seas,12/3/2000,99
+Princess Cruises,Grand Princess,12/17/2000,94
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,12/31/2000,99
+"Japan Cruise Line, Inc",Pacific Venus,12/31/2000,82
+Holland America Line,Rotterdam,12/10/2000,97
+P&O Cruises,Aurora,1/29/2001,98
+"Carnival Cruise Lines, Inc.",Carnival Elation,1/18/2001,95
+"Carnival Cruise Lines, Inc.",Carnival Sensation,1/26/2001,90
+"Carnival Cruise Lines, Inc.",Carnival Triumph,1/27/2001,98
+"Carnival Cruise Lines, Inc.",Carnival Victory,1/28/2001,83
+Celebrity Cruises,Celebrity Millennium,1/7/2001,93
+Club Med Marine,Club Med 2,1/3/2001,99
+"Crystal Cruises , Inc.",Crystal Symphony,1/19/2001,93
+Disney Cruise Lines,Disney Magic,1/20/2001,96
+Disney Cruise Lines,Disney Wonder,1/28/2001,99
+"Mitsui O.S.K. Passenger Line, Ltd",Fuji Maru,1/3/2001,91
+Princess Cruises,Sea Princess,1/13/2001,97
+Regent Seven Seas,Seven Seas Navigator,1/7/2001,98
+Holland America Line,Statendam,1/19/2001,94
+Royal Caribbean International,Vision Of The Seas,1/6/2001,92
+"Carnival Cruise Lines, Inc.",Carnival Imagination,2/10/2001,94
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,2/4/2001,96
+"Carnival Cruise Lines, Inc.",Carnival Victory,2/11/2001,97
+Royal Caribbean International,Majesty Of The Seas,2/9/2001,90
+Royal Caribbean International,Monarch Of The Seas,2/5/2001,93
+Princess Cruises,Sun Princess,2/5/2001,98
+Holland America Line,Zaandam,2/2/2001,97
+"Carnival Cruise Lines, Inc.",Carnival Paradise,3/4/2001,95
+Celebrity Cruises,Celebrity Infinity,3/27/2001,97
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,3/4/2001,99
+P&O Cruises,Oriana,3/5/2001,100
+Seabourn Cruise Line,Seabourn Legend,3/26/2001,97
+Seabourn Cruise Line,Seabourn Pride,3/27/2001,93
+Regent Seven Seas,Seven Seas Navigator,3/29/2001,100
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,4/27/2001,84
+Celebrity Cruises,Celebrity Millennium,4/22/2001,92
+Club Med Marine,Club Med 2,4/11/2001,94
+Costa Crociere S.P.A.,Costa Atlantica,4/4/2001,100
+Blount Small Ship Adventures,Grande Mariner,4/27/2001,95
+Royal Caribbean International,Grandeur Of The Seas,4/14/2001,94
+Holland America Line,Maasdam,4/1/2001,94
+Norwegian Cruise Lines,Norwegian Sky,4/29/2001,100
+Royal Caribbean International,Radiance Of The Seas,4/30/2001,90
+Regent Seven Seas,Seven Seas Mariner,4/26/2001,92
+Holland America Line,Volendam,4/3/2001,98
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,5/6/2001,96
+Royal Caribbean International,Explorer Of The Seas,5/5/2001,100
+Blount Small Ship Adventures,Grande Caribe,5/25/2001,87
+V. Ships Leisure U.S.A.,MV Yorktown,5/26/2001,95
+"Japan Cruise Line, Inc",Pacific Venus,5/11/2001,89
+Royal Caribbean International,Rhapsody Of The Seas,5/27/2001,99
+Holland America Line,Ryndam,5/28/2001,99
+Un-Cruise Adventures,Safari Quest,5/26/2001,68
+Lindblad Expeditions,Sea Lion,5/31/2001,92
+Holland America Line,Veendam,5/30/2001,99
+Royal Caribbean International,Voyager Of The Seas,5/13/2001,95
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,6/25/2001,93
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,6/3/2001,92
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/4/2001,92
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,6/24/2001,94
+"Carnival Cruise Lines, Inc.",Carnival Spirit,6/10/2001,93
+Princess Cruises,Dawn Princess,6/12/2001,100
+Disney Cruise Lines,Disney Magic,6/2/2001,95
+Royal Caribbean International,Enchantment Of The Seas,6/10/2001,96
+Princess Cruises,Grand Princess,6/3/2001,91
+Lindblad Expeditions,Sea Bird,6/16/2001,97
+Princess Cruises,Sea Princess,6/13/2001,95
+Holland America Line,Statendam,6/14/2001,95
+Holland America Line,Zaandam,6/11/2001,97
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/22/2001,98
+"Carnival Cruise Lines, Inc.",Carnival Paradise,7/15/2001,94
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/20/2001,94
+"Carnival Cruise Lines, Inc.",Carnival Triumph,7/24/2001,96
+Celebrity Cruises,Celebrity Century,7/14/2001,96
+Royal Caribbean International,Monarch Of The Seas,7/23/2001,98
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,8/12/2001,94
+Celebrity Cruises,Celebrity Infinity,8/8/2001,95
+Royal Caribbean International,Majesty Of The Seas,8/17/2001,96
+Lindblad Expeditions,Sea Bird,8/4/2001,97
+Lindblad Expeditions,Sea Lion,8/5/2001,97
+Regent Seven Seas,Seven Seas Mariner,8/13/2001,100
+Regent Seven Seas,Seven Seas Mariner,8/1/2001,83
+Silversea Cruises Ltd,Silver Discoverer,8/4/2001,98
+Princess Cruises,Sun Princess,8/10/2001,100
+Royal Caribbean International,Vision Of The Seas,8/9/2001,92
+P&O Cruises,Aurora,9/9/2001,100
+"Carnival Cruise Lines, Inc.",Carnival Imagination,9/17/2001,92
+"Carnival Cruise Lines, Inc.",Carnival Spirit,9/24/2001,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,9/9/2001,94
+"Carnival Cruise Lines, Inc.",Carnival Victory,9/29/2001,97
+Disney Cruise Lines,Disney Wonder,9/6/2001,99
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,9/24/2001,100
+Blount Small Ship Adventures,Grande Caribe,9/29/2001,91
+Blount Small Ship Adventures,Grande Mariner,9/30/2001,90
+V. Ships Leisure U.S.A.,MV Yorktown,9/11/2001,90
+Royal Caribbean International,Radiance Of The Seas,9/21/2001,95
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/25/2001,90
+Celebrity Cruises,Celebrity Summit,10/22/2001,100
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,10/23/2001,96
+Princess Cruises,Golden Princess,10/24/2001,98
+Holland America Line,Maasdam,10/25/2001,92
+Norwegian Cruise Lines,Norwegian Sky,10/11/2001,99
+Norwegian Cruise Lines,Norwegian Sun,10/22/2001,97
+Holland America Line,Ryndam,10/8/2001,95
+Seabourn Cruise Line,Seabourn Pride,10/25/2001,95
+Holland America Line,Volendam,10/6/2001,99
+Royal Caribbean International,Voyager Of The Seas,10/21/2001,92
+Royal Caribbean International,Adventure Of The Seas,11/25/2001,97
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,11/2/2001,92
+Celebrity Cruises,Celebrity Millennium,11/18/2001,91
+Club Med Marine,Club Med 2,11/27/2001,93
+Royal Caribbean International,Grandeur Of The Seas,11/19/2001,97
+Royal Caribbean International,Rhapsody Of The Seas,11/4/2001,94
+Seabourn Cruise Line,Seabourn Legend,11/17/2001,98
+Silversea Cruises Ltd,Silver Whisper,11/29/2001,98
+Holland America Line,Statendam,11/3/2001,87
+Holland America Line,Veendam,11/17/2001,92
+Holland America Line,Amsterdam,12/13/2001,98
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,12/2/2001,98
+Celebrity Cruises,Celebrity Century,12/18/2001,97
+Costa Crociere S.P.A.,Costa Atlantica,12/19/2001,91
+"Crystal Cruises , Inc.",Crystal Symphony,12/6/2001,95
+Princess Cruises,Dawn Princess,12/7/2001,95
+Disney Cruise Lines,Disney Magic,12/15/2001,99
+Royal Caribbean International,Enchantment Of The Seas,12/9/2001,96
+Royal Caribbean International,Explorer Of The Seas,12/22/2001,94
+Royal Caribbean International,Monarch Of The Seas,12/10/2001,92
+Norwegian Cruise Lines,Norwegian Star,12/16/2001,97
+Holland America Line,Rotterdam,12/6/2001,99
+Princess Cruises,Sea Princess,12/15/2001,97
+Sea Dream Yacht Club,Seadream I,12/16/2001,90
+Regent Seven Seas,Seven Seas Navigator,12/14/2001,99
+Holland America Line,Zaandam,12/17/2001,94
+P&O Cruises,Aurora,1/25/2002,97
+"Carnival Cruise Lines, Inc.",Carnival Elation,1/27/2002,93
+"Carnival Cruise Lines, Inc.",Carnival Fascination,1/4/2002,95
+"Carnival Cruise Lines, Inc.",Carnival Sensation,1/11/2002,98
+"Carnival Cruise Lines, Inc.",Carnival Triumph,1/8/2002,97
+Princess Cruises,Grand Princess,1/6/2002,97
+Royal Caribbean International,Majesty Of The Seas,1/21/2002,96
+Princess Cruises,Sun Princess,1/5/2002,96
+Royal Caribbean International,Vision Of The Seas,1/20/2002,93
+"Carnival Cruise Lines, Inc.",Carnival Paradise,2/10/2002,94
+"Carnival Cruise Lines, Inc.",Carnival Pride,2/9/2002,97
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,2/18/2002,92
+"Carnival Cruise Lines, Inc.",Carnival Victory,2/26/2002,92
+Celebrity Cruises,Celebrity Infinity,2/16/2002,95
+Disney Cruise Lines,Disney Wonder,2/7/2002,99
+Royal Caribbean International,Radiance Of The Seas,2/17/2002,99
+Seabourn Cruise Line,Seabourn Legend,2/24/2002,98
+Sea Dream Yacht Club,Seadream II,2/23/2002,81
+Sea Dream Yacht Club,Seadream II,2/4/2002,82
+Regent Seven Seas,Seven Seas Mariner,2/19/2002,97
+"Carnival Cruise Lines, Inc.",Carnival Imagination,3/28/2002,95
+"Carnival Cruise Lines, Inc.",Carnival Spirit,3/11/2002,99
+Club Med Marine,Club Med 2,3/12/2002,97
+Costa Crociere S.P.A.,Costa Atlantica,3/12/2002,97
+Royal Caribbean International,Grandeur Of The Seas,3/15/2002,99
+P&O Cruises,Oriana,3/14/2002,98
+Seabourn Cruise Line,Seabourn Pride,3/19/2002,95
+Sea Dream Yacht Club,Seadream II,3/30/2002,94
+Holland America Line,Volendam,3/13/2002,99
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,4/18/2002,97
+Princess Cruises,Golden Princess,4/6/2002,99
+Blount Small Ship Adventures,Grande Mariner,4/26/2002,95
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,4/9/2002,96
+Norwegian Cruise Lines,Norwegian Star,4/7/2002,95
+Norwegian Cruise Lines,Norwegian Sun,4/13/2002,98
+Princess Cruises,Star Princess,4/20/2002,100
+Royal Caribbean International,Voyager Of The Seas,4/14/2002,95
+Royal Caribbean International,Adventure Of The Seas,5/5/2002,98
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,5/17/2002,91
+"Carnival Cruise Lines, Inc.",Carnival Paradise,5/26/2002,96
+Celebrity Cruises,Celebrity Century,5/6/2002,94
+Celebrity Cruises,Celebrity Millennium,5/10/2002,96
+"Crystal Cruises , Inc.",Crystal Symphony,5/13/2002,97
+Royal Caribbean International,Enchantment Of The Seas,5/5/2002,92
+Royal Caribbean International,Legend Of The Seas,5/29/2002,100
+Holland America Line,Maasdam,5/5/2002,98
+V. Ships Leisure U.S.A.,MV Yorktown,5/25/2002,88
+Royal Caribbean International,Rhapsody Of The Seas,5/7/2002,99
+Holland America Line,Ryndam,5/14/2002,93
+Un-Cruise Adventures,Safari Quest,5/25/2002,86
+Seabourn Cruise Line,Seabourn Spirit,5/26/2002,94
+Holland America Line,Statendam,5/28/2002,94
+Holland America Line,Veendam,5/30/2002,97
+Holland America Line,Amsterdam,6/29/2002,96
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,6/9/2002,99
+"Carnival Cruise Lines, Inc.",Carnival Triumph,6/24/2002,93
+Celebrity Cruises,Celebrity Summit,6/25/2002,93
+Princess Cruises,Dawn Princess,6/27/2002,93
+Disney Cruise Lines,Disney Magic,6/15/2002,99
+Royal Caribbean International,Explorer Of The Seas,6/8/2002,99
+Royal Caribbean International,Monarch Of The Seas,6/6/2002,95
+Norwegian Cruise Lines,Norwegian Sky,6/30/2002,95
+Holland America Line,Rotterdam,6/28/2002,98
+Lindblad Expeditions,Sea Bird,6/22/2002,92
+Lindblad Expeditions,Sea Lion,6/23/2002,92
+Silversea Cruises Ltd,Silver Discoverer,6/25/2002,94
+Holland America Line,Zaandam,6/24/2002,94
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/28/2002,95
+"Carnival Cruise Lines, Inc.",Carnival Fascination,7/15/2002,93
+"Carnival Cruise Lines, Inc.",Carnival Pride,7/13/2002,97
+Celebrity Cruises,Celebrity Infinity,7/10/2002,90
+Disney Cruise Lines,Disney Wonder,7/14/2002,99
+Princess Cruises,Grand Princess,7/14/2002,97
+Royal Caribbean International,Majesty Of The Seas,7/12/2002,97
+Royal Caribbean International,Radiance Of The Seas,7/11/2002,95
+Princess Cruises,Sea Princess,7/8/2002,94
+Regent Seven Seas,Seven Seas Navigator,7/17/2002,100
+Princess Cruises,Sun Princess,7/15/2002,95
+Royal Caribbean International,Vision Of The Seas,7/12/2002,97
+"Carnival Cruise Lines, Inc.",Carnival Imagination,8/1/2002,97
+"Carnival Cruise Lines, Inc.",Carnival Spirit,8/12/2002,97
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,8/12/2002,92
+"Carnival Cruise Lines, Inc.",Carnival Victory,8/13/2002,96
+Blount Small Ship Adventures,Grande Mariner,8/24/2002,92
+V. Ships Leisure U.S.A.,MV Yorktown,8/10/2002,95
+Un-Cruise Adventures,Safari Quest,8/10/2002,87
+Seabourn Cruise Line,Seabourn Spirit,8/9/2002,98
+P&O Cruises,Aurora,9/19/2002,100
+"Carnival Cruise Lines, Inc.",Carnival Sensation,9/12/2002,89
+Blount Small Ship Adventures,Grande Caribe,9/6/2002,95
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,9/5/2002,95
+Royal Caribbean International,Legend Of The Seas,9/8/2002,95
+Lindblad Expeditions,Sea Bird,9/4/2002,94
+Lindblad Expeditions,Sea Lion,9/7/2002,96
+Silversea Cruises Ltd,Silver Shadow,9/18/2002,99
+Princess Cruises,Star Princess,9/11/2002,100
+ResidenSea,The World,9/7/2002,100
+Royal Caribbean International,Adventure Of The Seas,10/27/2002,99
+Fred Olsen Cruise Line,Braemar,10/7/2002,95
+Royal Caribbean International,Brilliance Of The Seas,10/2/2002,100
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,10/18/2002,94
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/10/2002,96
+"Carnival Cruise Lines, Inc.",Carnival Legend,10/30/2002,100
+Royal Caribbean International,Enchantment Of The Seas,10/29/2002,92
+Princess Cruises,Golden Princess,10/4/2002,99
+Holland America Line,Maasdam,10/27/2002,94
+Norwegian Cruise Lines,Norwegian Star,10/20/2002,100
+Seabourn Cruise Line,Seabourn Pride,10/11/2002,91
+Sea Dream Yacht Club,Seadream II,10/26/2002,96
+Aida Cruises,AIDAVITA,11/14/2002,98
+Celebrity Cruises,Celebrity Century,11/16/2002,96
+Celebrity Cruises,Celebrity Constellation,11/12/2002,98
+Celebrity Cruises,Celebrity Summit,11/8/2002,95
+Costa Crociere S.P.A.,Costa Atlantica,11/24/2002,96
+"Crystal Cruises , Inc.",Crystal Symphony,11/17/2002,93
+Princess Cruises,Dawn Princess,11/20/2002,91
+Royal Caribbean International,Explorer Of The Seas,11/9/2002,96
+Royal Caribbean International,Monarch Of The Seas,11/7/2002,87
+V. Ships Leisure U.S.A.,MV Explorer,11/25/2002,95
+P&O Cruises,Oceana,11/29/2002,95
+Royal Caribbean International,Rhapsody Of The Seas,11/10/2002,99
+Holland America Line,Rotterdam,11/20/2002,97
+Holland America Line,Ryndam,11/23/2002,91
+Sea Dream Yacht Club,Seadream I,11/16/2002,93
+Silversea Cruises Ltd,Silver Whisper,11/17/2002,92
+Holland America Line,Statendam,11/25/2002,96
+Holland America Line,Volendam,11/26/2002,97
+"Carnival Cruise Lines, Inc.",Carnival Conquest,12/15/2002,97
+Celebrity Cruises,Celebrity Millennium,12/19/2002,96
+Norwegian Cruise Lines,Norwegian Sky,12/29/2002,97
+Royal Caribbean International,Radiance Of The Seas,12/22/2002,93
+Princess Cruises,Sea Princess,12/13/2002,96
+Silversea Cruises Ltd,Silver Cloud,12/22/2002,96
+Holland America Line,Amsterdam,1/4/2003,93
+P&O Cruises,Aurora,1/27/2003,99
+"Carnival Cruise Lines, Inc.",Carnival Elation,1/5/2003,98
+"Carnival Cruise Lines, Inc.",Carnival Fascination,1/6/2003,90
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,1/12/2003,92
+"Carnival Cruise Lines, Inc.",Carnival Pride,1/19/2003,95
+"Carnival Cruise Lines, Inc.",Carnival Triumph,1/7/2003,94
+Celebrity Cruises,Celebrity Infinity,1/19/2003,93
+Club Med Marine,Club Med 2,1/27/2003,98
+Disney Cruise Lines,Disney Magic,1/25/2003,92
+Disney Cruise Lines,Disney Wonder,1/26/2003,99
+Norwegian Cruise Lines,Norwegian Sun,1/18/2003,98
+Seabourn Cruise Line,Seabourn Legend,1/4/2003,94
+Regent Seven Seas,Seven Seas Mariner,1/7/2003,100
+Princess Cruises,Star Princess,1/25/2003,98
+Holland America Line,Veendam,1/11/2003,91
+Royal Caribbean International,Vision Of The Seas,1/26/2003,94
+Royal Caribbean International,Voyager Of The Seas,1/5/2003,86
+Holland America Line,Zaandam,1/8/2003,86
+Holland America Line,Zuiderdam,1/18/2003,97
+"Carnival Cruise Lines, Inc.",Carnival Imagination,2/13/2003,95
+"Carnival Cruise Lines, Inc.",Carnival Spirit,2/12/2003,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,2/9/2003,95
+Princess Cruises,Coral Princess,2/12/2003,100
+Princess Cruises,Grand Princess,2/9/2003,96
+Royal Caribbean International,Grandeur Of The Seas,2/15/2003,97
+Royal Caribbean International,Majesty Of The Seas,2/14/2003,94
+V. Ships Leisure U.S.A.,MV Yorktown,2/7/2003,92
+Royal Caribbean International,Navigator Of The Seas,2/1/2003,95
+Norwegian Cruise Lines,Norwegian Dawn,2/11/2003,95
+Regent Seven Seas,Seven Seas Navigator,2/26/2003,99
+Princess Cruises,Sun Princess,2/24/2003,97
+"Carnival Cruise Lines, Inc.",Carnival Legend,3/2/2003,92
+"Carnival Cruise Lines, Inc.",Carnival Paradise,3/20/2003,93
+"Carnival Cruise Lines, Inc.",Carnival Sensation,3/22/2003,88
+"Carnival Cruise Lines, Inc.",Carnival Victory,3/9/2003,94
+Costa Crociere S.P.A.,Costa Atlantica,3/23/2003,99
+Royal Caribbean International,Legend Of The Seas,3/17/2003,95
+Holland America Line,Maasdam,3/9/2003,87
+P&O Cruises,Oceana,3/21/2003,97
+P&O Cruises,Oriana,3/19/2003,98
+Sea Dream Yacht Club,Seadream I,3/9/2003,96
+Sea Dream Yacht Club,Seadream II,3/16/2003,95
+Silversea Cruises Ltd,Silver Cloud,3/18/2003,91
+Silversea Cruises Ltd,Silver Whisper,3/16/2003,92
+Royal Caribbean International,Adventure Of The Seas,4/3/2003,97
+Royal Caribbean International,Brilliance Of The Seas,4/28/2003,96
+Celebrity Cruises,Celebrity Constellation,4/4/2003,96
+Celebrity Cruises,Celebrity Millennium,4/17/2003,99
+Celebrity Cruises,Celebrity Summit,4/4/2003,94
+Club Med Marine,Club Med 2,4/14/2003,96
+Princess Cruises,Golden Princess,4/16/2003,100
+Blount Small Ship Adventures,Grande Caribe,4/11/2003,95
+Blount Small Ship Adventures,Grande Mariner,4/11/2003,90
+Royal Caribbean International,Monarch Of The Seas,4/19/2003,93
+V. Ships Leisure U.S.A.,MV Explorer,4/3/2003,99
+Norwegian Cruise Lines,Norwegian Star,4/13/2003,96
+Princess Cruises,Sea Princess,4/5/2003,94
+Holland America Line,Statendam,4/13/2003,93
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,5/30/2003,90
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,5/15/2003,87
+Celebrity Cruises,Celebrity Century,5/3/2003,97
+Royal Caribbean International,Explorer Of The Seas,5/7/2003,95
+Princess Cruises,Pacific Princess,5/29/2003,96
+Holland America Line,Prinsendam,5/17/2003,95
+Royal Caribbean International,Rhapsody Of The Seas,5/11/2003,92
+Holland America Line,Rotterdam,5/6/2003,96
+Holland America Line,Ryndam,5/26/2003,95
+Holland America Line,Volendam,5/16/2003,94
+Holland America Line,Zaandam,5/27/2003,95
+"Carnival Cruise Lines, Inc.",Carnival Conquest,6/8/2003,89
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/20/2003,91
+"Carnival Cruise Lines, Inc.",Carnival Pride,6/21/2003,94
+Celebrity Cruises,Celebrity Infinity,6/22/2003,93
+Princess Cruises,Dawn Princess,6/27/2003,97
+Disney Cruise Lines,Disney Wonder,6/22/2003,98
+Royal Caribbean International,Enchantment Of The Seas,6/14/2003,95
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,6/28/2003,97
+Norwegian Cruise Lines,Norwegian Sky,6/24/2003,97
+"Japan Cruise Line, Inc",Pacific Venus,6/19/2003,90
+Royal Caribbean International,Radiance Of The Seas,6/23/2003,99
+Un-Cruise Adventures,Safari Quest,6/28/2003,89
+Lindblad Expeditions,Sea Lion,6/21/2003,91
+Royal Caribbean International,Vision Of The Seas,6/26/2003,97
+Holland America Line,Zuiderdam,6/21/2003,91
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/27/2003,92
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,7/20/2003,95
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,7/14/2003,95
+"Carnival Cruise Lines, Inc.",Carnival Triumph,7/12/2003,97
+Disney Cruise Lines,Disney Magic,7/16/2003,94
+Princess Cruises,Grand Princess,7/20/2003,96
+Princess Cruises,Island Princess,7/19/2003,95
+V. Ships Leisure U.S.A.,MV Yorktown,7/12/2003,90
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,7/3/2003,98
+Norwegian Cruise Lines,Norwegian Sun,7/1/2003,97
+Regent Seven Seas,Seven Seas Mariner,7/16/2003,98
+Silversea Cruises Ltd,Silver Discoverer,7/22/2003,90
+ResidenSea,The World,7/14/2003,98
+Holland America Line,Veendam,7/20/2003,98
+Royal Caribbean International,Voyager Of The Seas,7/27/2003,95
+"Carnival Cruise Lines, Inc.",Carnival Glory,8/2/2003,88
+"Carnival Cruise Lines, Inc.",Carnival Imagination,8/23/2003,96
+"Carnival Cruise Lines, Inc.",Carnival Paradise,8/7/2003,94
+"Carnival Cruise Lines, Inc.",Carnival Sensation,8/14/2003,94
+"Carnival Cruise Lines, Inc.",Carnival Spirit,8/29/2003,96
+"Carnival Cruise Lines, Inc.",Carnival Victory,8/14/2003,98
+Princess Cruises,Coral Princess,8/13/2003,95
+Blount Small Ship Adventures,Grande Caribe,8/5/2003,87
+Royal Caribbean International,Legend Of The Seas,8/27/2003,99
+Royal Caribbean International,Majesty Of The Seas,8/22/2003,95
+Royal Caribbean International,Navigator Of The Seas,8/6/2003,98
+Norwegian Cruise Lines,Norwegian Dawn,8/10/2003,96
+Princess Cruises,Pacific Princess,8/9/2003,96
+Lindblad Expeditions,Sea Bird,8/24/2003,94
+Princess Cruises,Star Princess,8/28/2003,100
+Princess Cruises,Sun Princess,8/15/2003,98
+Holland America Line,Amsterdam,9/4/2003,97
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,9/2/2003,95
+"Crystal Cruises , Inc.",Crystal Symphony,9/23/2003,95
+Blount Small Ship Adventures,Grande Mariner,9/15/2003,81
+Royal Caribbean International,Grandeur Of The Seas,9/21/2003,96
+P&O Cruises,Oriana,9/7/2003,96
+Holland America Line,Prinsendam,9/12/2003,90
+Un-Cruise Adventures,Safari Quest,9/6/2003,81
+Lindblad Expeditions,Sea Lion,9/3/2003,90
+Seabourn Cruise Line,Seabourn Pride,9/26/2003,95
+Royal Caribbean International,Serenade Of The Seas,9/6/2003,97
+Regent Seven Seas,Seven Seas Navigator,9/3/2003,94
+Royal Caribbean International,Adventure Of The Seas,10/25/2003,97
+"Carnival Cruise Lines, Inc.",Carnival Legend,10/16/2003,98
+Celebrity Cruises,Celebrity Summit,10/17/2003,98
+Royal Caribbean International,Explorer Of The Seas,10/20/2003,99
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,10/7/2003,92
+Royal Caribbean International,Monarch Of The Seas,10/21/2003,94
+Norwegian Cruise Lines,Norwegian Star,10/17/2003,95
+Holland America Line,Rotterdam,10/7/2003,93
+Holland America Line,Ryndam,10/20/2003,98
+Silversea Cruises Ltd,Silver Whisper,10/9/2003,100
+Holland America Line,Statendam,10/16/2003,99
+Holland America Line,Volendam,10/18/2003,97
+Holland America Line,Zaandam,10/15/2003,97
+Aida Cruises,AIDAaura,11/18/2003,99
+Royal Caribbean International,Brilliance Of The Seas,11/24/2003,100
+"Carnival Cruise Lines, Inc.",Carnival Conquest,11/2/2003,93
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,11/16/2003,87
+Celebrity Cruises,Celebrity Constellation,11/21/2003,95
+Celebrity Cruises,Celebrity Millennium,11/20/2003,99
+Costa Crociere S.P.A.,Costa Mediterranea,11/21/2003,97
+"Crystal Cruises , Inc.",Crystal Serenity,11/25/2003,98
+Princess Cruises,Golden Princess,11/15/2003,100
+Blount Small Ship Adventures,Grande Mariner,11/4/2003,93
+Holland America Line,Maasdam,11/19/2003,93
+V. Ships Leisure U.S.A.,MV Explorer,11/26/2003,97
+Norwegian Cruise Lines,Norwegian Sky,11/24/2003,90
+Oceania Cruises,Regatta,11/25/2003,99
+Sea Dream Yacht Club,Seadream I,11/23/2003,87
+Sea Dream Yacht Club,Seadream II,11/23/2003,97
+Regent Seven Seas,Seven Seas Voyager,11/23/2003,100
+Holland America Line,Zuiderdam,11/22/2003,88
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,12/22/2003,93
+"Carnival Cruise Lines, Inc.",Carnival Elation,12/21/2003,94
+"Carnival Cruise Lines, Inc.",Carnival Fascination,12/19/2003,96
+Celebrity Cruises,Celebrity Century,12/16/2003,97
+Club Med Marine,Club Med 2,12/1/2003,97
+Princess Cruises,Dawn Princess,12/15/2003,90
+Disney Cruise Lines,Disney Magic,12/6/2003,94
+Princess Cruises,Island Princess,12/16/2003,100
+Royal Caribbean International,Mariner Of The Seas,12/7/2003,97
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,12/31/2003,97
+P&O Cruises,Oceana,12/2/2003,97
+Holland America Line,Oosterdam,12/11/2003,97
+Royal Caribbean International,Radiance Of The Seas,12/9/2003,96
+Royal Caribbean International,Rhapsody Of The Seas,12/7/2003,99
+Seabourn Cruise Line,Seabourn Legend,12/20/2003,97
+Royal Caribbean International,Vision Of The Seas,12/21/2003,91
+P&O Cruises,Aurora,1/31/2004,100
+"Carnival Cruise Lines, Inc.",Carnival Imagination,1/24/2004,92
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,1/18/2004,99
+"Carnival Cruise Lines, Inc.",Carnival Paradise,1/22/2004,94
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,1/19/2004,90
+"Carnival Cruise Lines, Inc.",Carnival Triumph,1/20/2004,97
+Celebrity Cruises,Celebrity Infinity,1/4/2004,98
+Costa Crociere S.P.A.,Costa Atlantica,1/4/2004,98
+Peter Deilmann Cruises,Deutschland,1/5/2004,94
+Disney Cruise Lines,Disney Wonder,1/15/2004,94
+Royal Caribbean International,Enchantment Of The Seas,1/10/2004,99
+Princess Cruises,Grand Princess,1/11/2004,97
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,1/26/2004,98
+V. Ships Leisure U.S.A.,MV Yorktown,1/22/2004,96
+Royal Caribbean International,Navigator Of The Seas,1/21/2004,98
+Norwegian Cruise Lines,Norwegian Sun,1/25/2004,100
+Holland America Line,Prinsendam,1/20/2004,90
+Seabourn Cruise Line,Seabourn Pride,1/3/2004,93
+Silversea Cruises Ltd,Silver Whisper,1/19/2004,100
+Holland America Line,Veendam,1/17/2004,99
+Royal Caribbean International,Voyager Of The Seas,1/25/2004,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,2/21/2004,100
+"Carnival Cruise Lines, Inc.",Carnival Pride,2/1/2004,91
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/7/2004,93
+"Carnival Cruise Lines, Inc.",Carnival Spirit,2/11/2004,91
+"Carnival Cruise Lines, Inc.",Carnival Victory,2/22/2004,99
+Princess Cruises,Coral Princess,2/21/2004,98
+Royal Caribbean International,Majesty Of The Seas,2/2/2004,96
+Norwegian Cruise Lines,Norwegian Dawn,2/18/2004,100
+Royal Caribbean International,Serenade Of The Seas,2/22/2004,91
+Regent Seven Seas,Seven Seas Mariner,2/24/2004,99
+Silversea Cruises Ltd,Silver Wind,2/10/2004,95
+ResidenSea,The World,2/24/2004,92
+Royal Caribbean International,Brilliance Of The Seas,3/29/2004,99
+"Carnival Cruise Lines, Inc.",Carnival Miracle,3/6/2004,97
+Celebrity Cruises,Celebrity Millennium,3/25/2004,94
+"Crystal Cruises , Inc.",Crystal Symphony,3/22/2004,95
+Norwegian Cruise Lines,Norwegian Star,3/21/2004,99
+P&O Cruises,Oceana,3/23/2004,96
+P&O Cruises,Oriana,3/13/2004,100
+Cunard Line,Queen Mary 2,3/16/2004,89
+Oceania Cruises,Regatta,3/15/2004,97
+Holland America Line,Ryndam,3/13/2004,94
+Seabourn Cruise Line,Seabourn Legend,3/13/2004,99
+Regent Seven Seas,Seven Seas Navigator,3/30/2004,98
+Princess Cruises,Sun Princess,3/10/2004,93
+"Carnival Cruise Lines, Inc.",Carnival Legend,4/13/2004,99
+Club Med Marine,Club Med 2,4/12/2004,94
+Costa Crociere S.P.A.,Costa Atlantica,4/6/2004,98
+Costa Crociere S.P.A.,Costa Mediterranea,4/4/2004,100
+Princess Cruises,Diamond Princess,4/17/2004,99
+Royal Caribbean International,Grandeur Of The Seas,4/17/2004,96
+Royal Caribbean International,Legend Of The Seas,4/15/2004,93
+Norwegian Cruise Lines,Norwegian Sky,4/5/2004,95
+Sea Dream Yacht Club,Seadream I,4/11/2004,96
+Sea Dream Yacht Club,Seadream II,4/11/2004,94
+Regent Seven Seas,Seven Seas Voyager,4/13/2004,100
+Holland America Line,Zaandam,4/3/2004,98
+Royal Caribbean International,Adventure Of The Seas,5/3/2004,95
+Holland America Line,Amsterdam,5/23/2004,97
+Princess Cruises,Caribbean Princess,5/4/2004,100
+"Carnival Cruise Lines, Inc.",Carnival Conquest,5/23/2004,99
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,5/10/2004,89
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,5/27/2004,96
+Celebrity Cruises,Celebrity Infinity,5/18/2004,95
+"Crystal Cruises , Inc.",Crystal Serenity,5/2/2004,96
+Royal Caribbean International,Explorer Of The Seas,5/30/2004,94
+Princess Cruises,Golden Princess,5/2/2004,97
+Blount Small Ship Adventures,Grande Caribe,5/23/2004,92
+Blount Small Ship Adventures,Grande Mariner,5/25/2004,92
+Holland America Line,Maasdam,5/5/2004,89
+Royal Caribbean International,Monarch Of The Seas,5/11/2004,94
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,5/15/2004,95
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,5/4/2004,85
+V. Ships Leisure U.S.A.,MV Yorktown,5/29/2004,92
+Norwegian Cruise Lines,Norwegian Spirit,5/22/2004,92
+Princess Cruises,Pacific Princess,5/17/2004,98
+Holland America Line,Rotterdam,5/16/2004,95
+Un-Cruise Adventures,Safari Quest,5/29/2004,87
+Lindblad Expeditions,Sea Bird,5/26/2004,94
+Lindblad Expeditions,Sea Lion,5/25/2004,80
+Holland America Line,Volendam,5/14/2004,90
+Holland America Line,Zuiderdam,5/1/2004,98
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/25/2004,91
+"Carnival Cruise Lines, Inc.",Carnival Imagination,6/26/2004,94
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,6/6/2004,97
+"Carnival Cruise Lines, Inc.",Carnival Paradise,6/10/2004,98
+"Carnival Cruise Lines, Inc.",Carnival Sensation,6/7/2004,93
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,6/13/2004,95
+"Carnival Cruise Lines, Inc.",Carnival Triumph,6/8/2004,95
+Celebrity Cruises,Celebrity Century,6/14/2004,94
+Princess Cruises,Dawn Princess,6/24/2004,95
+Disney Cruise Lines,Disney Magic,6/5/2004,97
+Disney Cruise Lines,Disney Wonder,6/13/2004,98
+Royal Caribbean International,Enchantment Of The Seas,6/3/2004,97
+Princess Cruises,Island Princess,6/15/2004,99
+Royal Caribbean International,Mariner Of The Seas,6/6/2004,100
+Norwegian Cruise Lines,Norwegian Sun,6/23/2004,97
+Holland America Line,Oosterdam,6/14/2004,100
+"Japan Cruise Line, Inc",Pacific Venus,6/30/2004,77
+Cunard Line,Queen Mary 2,6/19/2004,92
+Princess Cruises,Sapphire Princess,6/22/2004,92
+Lindblad Expeditions,Sea Lion,6/26/2004,90
+Silversea Cruises Ltd,Silver Shadow,6/12/2004,99
+Royal Caribbean International,Voyager Of The Seas,6/18/2004,93
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/18/2004,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,7/24/2004,97
+"Carnival Cruise Lines, Inc.",Carnival Spirit,7/21/2004,98
+"Carnival Cruise Lines, Inc.",Carnival Victory,7/22/2004,94
+Celebrity Cruises,Celebrity Summit,7/23/2004,99
+Royal Caribbean International,Radiance Of The Seas,7/12/2004,97
+Royal Caribbean International,Rhapsody Of The Seas,7/11/2004,93
+Regent Seven Seas,Seven Seas Mariner,7/28/2004,96
+Holland America Line,Statendam,7/25/2004,99
+Princess Cruises,Sun Princess,7/14/2004,95
+Holland America Line,Veendam,7/18/2004,97
+Royal Caribbean International,Vision Of The Seas,7/30/2004,97
+"Carnival Cruise Lines, Inc.",Carnival Pride,8/15/2004,83
+Princess Cruises,Coral Princess,8/4/2004,97
+Royal Caribbean International,Majesty Of The Seas,8/6/2004,90
+Royal Caribbean International,Navigator Of The Seas,8/7/2004,97
+Un-Cruise Adventures,Safari Quest,8/7/2004,88
+Lindblad Expeditions,Sea Bird,8/8/2004,92
+Regent Seven Seas,Seven Seas Navigator,8/24/2004,94
+Holland America Line,Amsterdam,9/12/2004,95
+P&O Cruises,Aurora,9/28/2004,100
+"Carnival Cruise Lines, Inc.",Carnival Miracle,9/12/2004,97
+"Carnival Cruise Lines, Inc.",Carnival Pride,9/26/2004,100
+Celebrity Cruises,Celebrity Constellation,9/20/2004,99
+"Crystal Cruises , Inc.",Crystal Symphony,9/21/2004,96
+Peter Deilmann Cruises,Deutschland,9/30/2004,93
+Princess Cruises,Diamond Princess,9/13/2004,95
+Princess Cruises,Grand Princess,9/17/2004,94
+Blount Small Ship Adventures,Grande Caribe,9/29/2004,94
+Royal Caribbean International,Grandeur Of The Seas,9/13/2004,95
+Royal Caribbean International,Jewel Of The Seas,9/29/2004,100
+Royal Caribbean International,Legend Of The Seas,9/26/2004,97
+Norwegian Cruise Lines,Norwegian Dawn,9/1/2004,100
+Norwegian Cruise Lines,Norwegian Spirit,9/11/2004,94
+Princess Cruises,Pacific Princess,9/22/2004,100
+Princess Cruises,Sapphire Princess,9/14/2004,98
+Seabourn Cruise Line,Seabourn Pride,9/19/2004,91
+Royal Caribbean International,Serenade Of The Seas,9/15/2004,99
+Silversea Cruises Ltd,Silver Shadow,9/10/2004,92
+Princess Cruises,Caribbean Princess,10/2/2004,100
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/17/2004,83
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,10/10/2004,94
+Holland America Line,Maasdam,10/23/2004,95
+Royal Caribbean International,Monarch Of The Seas,10/29/2004,94
+V. Ships Leisure U.S.A.,MV Yorktown,10/19/2004,93
+Norwegian Cruise Lines,Norwegian Star,10/28/2004,99
+Holland America Line,Rotterdam,10/22/2004,99
+Holland America Line,Ryndam,10/30/2004,95
+Silversea Cruises Ltd,Silver Whisper,10/29/2004,100
+Princess Cruises,Star Princess,10/31/2004,99
+Holland America Line,Zaandam,10/16/2004,97
+Royal Caribbean International,Adventure Of The Seas,11/20/2004,96
+Royal Caribbean International,Brilliance Of The Seas,11/22/2004,99
+"Carnival Cruise Lines, Inc.",Carnival Conquest,11/14/2004,95
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,11/15/2004,92
+"Carnival Cruise Lines, Inc.",Carnival Elation,11/14/2004,98
+"Carnival Cruise Lines, Inc.",Carnival Fascination,11/8/2004,89
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,11/13/2004,96
+"Carnival Cruise Lines, Inc.",Carnival Legend,11/19/2004,98
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,11/21/2004,95
+Celebrity Cruises,Celebrity Century,11/16/2004,79
+Costa Crociere S.P.A.,Costa Atlantica,11/28/2004,97
+"Crystal Cruises , Inc.",Crystal Serenity,11/20/2004,100
+Royal Caribbean International,Explorer Of The Seas,11/18/2004,90
+Princess Cruises,Golden Princess,11/20/2004,98
+Royal Caribbean International,Mariner Of The Seas,11/17/2004,100
+Oceania Cruises,Regatta,11/27/2004,97
+Seabourn Cruise Line,Seabourn Legend,11/21/2004,95
+Holland America Line,Veendam,11/13/2004,96
+Holland America Line,Volendam,11/19/2004,87
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,12/9/2004,95
+"Carnival Cruise Lines, Inc.",Carnival Imagination,12/20/2004,92
+"Carnival Cruise Lines, Inc.",Carnival Paradise,12/13/2004,93
+"Carnival Cruise Lines, Inc.",Carnival Sensation,12/4/2004,87
+"Carnival Cruise Lines, Inc.",Carnival Victory,12/5/2004,80
+Celebrity Cruises,Celebrity Infinity,12/11/2004,96
+Celebrity Cruises,Celebrity Millennium,12/19/2004,97
+Costa Crociere S.P.A.,Costa Mediterranea,12/21/2004,92
+Princess Cruises,Dawn Princess,12/23/2004,95
+Disney Cruise Lines,Disney Magic,12/5/2004,94
+"Mitsui O.S.K. Passenger Line, Ltd",Fuji Maru,12/28/2004,91
+Princess Cruises,Island Princess,12/10/2004,99
+Royal Caribbean International,Legend Of The Seas,12/1/2004,90
+V. Ships Leisure U.S.A.,MV Explorer,12/8/2004,93
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,12/31/2004,97
+Holland America Line,Prinsendam,12/18/2004,94
+Cunard Line,Queen Mary 2,12/20/2004,94
+Regent Seven Seas,Seven Seas Mariner,12/3/2004,91
+Regent Seven Seas,Seven Seas Voyager,12/13/2004,99
+Holland America Line,Westerdam,12/2/2004,100
+"Carnival Cruise Lines, Inc.",Carnival Glory,1/8/2005,100
+"Carnival Cruise Lines, Inc.",Carnival Spirit,1/4/2005,95
+"Carnival Cruise Lines, Inc.",Carnival Valor,1/16/2005,95
+"Carnival Cruise Lines, Inc.",Carnival Victory,1/30/2005,100
+Celebrity Cruises,Celebrity Century,1/8/2005,97
+Celebrity Cruises,Celebrity Constellation,1/21/2005,96
+Celebrity Cruises,Celebrity Summit,1/16/2005,94
+Club Med Marine,Club Med 2,1/17/2005,89
+Princess Cruises,Coral Princess,1/7/2005,96
+Disney Cruise Lines,Disney Wonder,1/9/2005,97
+Royal Caribbean International,Enchantment Of The Seas,1/8/2005,96
+Royal Caribbean International,Majesty Of The Seas,1/7/2005,98
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,1/24/2005,98
+Norwegian Cruise Lines,Norwegian Sun,1/15/2005,95
+Holland America Line,Oosterdam,1/22/2005,100
+Royal Caribbean International,Radiance Of The Seas,1/19/2005,99
+Sea Dream Yacht Club,Seadream I,1/23/2005,97
+Silversea Cruises Ltd,Silver Shadow,1/5/2005,97
+Princess Cruises,Sun Princess,1/18/2005,98
+Royal Caribbean International,Vision Of The Seas,1/23/2005,97
+Holland America Line,Zuiderdam,1/15/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Triumph,2/5/2005,99
+Costa Crociere S.P.A.,Costa Atlantica,2/6/2005,100
+Royal Caribbean International,Grandeur Of The Seas,2/12/2005,95
+Royal Caribbean International,Jewel Of The Seas,2/14/2005,99
+Royal Caribbean International,Navigator Of The Seas,2/15/2005,97
+Norwegian Cruise Lines,Norwegian Dawn,2/23/2005,99
+P&O Cruises,Oceana,2/10/2005,98
+"Japan Cruise Line, Inc",Pacific Venus,2/28/2005,86
+Sea Dream Yacht Club,Seadream II,2/20/2005,99
+Holland America Line,Statendam,2/25/2005,96
+Royal Caribbean International,Voyager Of The Seas,2/9/2005,95
+Royal Caribbean International,Brilliance Of The Seas,3/7/2005,95
+"Carnival Cruise Lines, Inc.",Carnival Miracle,3/13/2005,99
+"Carnival Cruise Lines, Inc.",Carnival Pride,3/30/2005,98
+Celebrity Cruises,Celebrity Century,3/5/2005,96
+Club Med Marine,Club Med 2,3/21/2005,92
+Costa Crociere S.P.A.,Costa Mediterranea,3/29/2005,98
+"Crystal Cruises , Inc.",Crystal Symphony,3/27/2005,97
+Princess Cruises,Diamond Princess,3/26/2005,98
+Princess Cruises,Grand Princess,3/19/2005,96
+Oceania Cruises,Regatta,3/4/2005,92
+Royal Caribbean International,Rhapsody Of The Seas,3/9/2005,97
+Holland America Line,Rotterdam,3/20/2005,98
+"Saga Shipping Company, Ltd",SagaRuby,3/14/2005,72
+Seabourn Cruise Line,Seabourn Legend,3/20/2005,97
+Seabourn Cruise Line,Seabourn Pride,3/15/2005,99
+Royal Caribbean International,Serenade Of The Seas,3/26/2005,96
+Regent Seven Seas,Seven Seas Navigator,3/28/2005,95
+Princess Cruises,Caribbean Princess,4/12/2005,100
+"Carnival Cruise Lines, Inc.",Carnival Conquest,4/17/2005,93
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,4/14/2005,97
+"Carnival Cruise Lines, Inc.",Carnival Imagination,4/30/2005,87
+"Carnival Cruise Lines, Inc.",Carnival Victory,4/5/2005,87
+Celebrity Cruises,Celebrity Millennium,4/7/2005,99
+Princess Cruises,Golden Princess,4/10/2005,99
+Blount Small Ship Adventures,Grande Caribe,4/21/2005,95
+Royal Caribbean International,Legend Of The Seas,4/10/2005,95
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,4/22/2005,100
+Cunard Line,Queen Mary 2,4/2/2005,93
+Princess Cruises,Star Princess,4/6/2005,95
+Holland America Line,Westerdam,4/3/2005,99
+Holland America Line,Zaandam,4/13/2005,96
+Holland America Line,Amsterdam,5/16/2005,92
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,5/12/2005,95
+"Carnival Cruise Lines, Inc.",Carnival Fascination,5/16/2005,97
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,5/14/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Legend,5/21/2005,97
+"Carnival Cruise Lines, Inc.",Carnival Sensation,5/26/2005,94
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,5/9/2005,93
+Celebrity Cruises,Celebrity Infinity,5/1/2005,94
+Princess Cruises,Dawn Princess,5/14/2005,93
+Blount Small Ship Adventures,Grande Mariner,5/28/2005,90
+Royal Caribbean International,Mariner Of The Seas,5/15/2005,100
+Norwegian Cruise Lines,Norwegian Spirit,5/21/2005,98
+Princess Cruises,Pacific Princess,5/17/2005,97
+Holland America Line,Prinsendam,5/6/2005,92
+Royal Caribbean International,Radiance Of The Seas,5/19/2005,95
+Princess Cruises,Sapphire Princess,5/18/2005,97
+Lindblad Expeditions,Sea Lion,5/20/2005,92
+"Carnival Cruise Lines, Inc.",Carnival Spirit,6/24/2005,95
+Disney Cruise Lines,Disney Magic,6/4/2005,95
+Royal Caribbean International,Explorer Of The Seas,6/5/2005,98
+Royal Caribbean International,Grandeur Of The Seas,6/3/2005,97
+Holland America Line,Maasdam,6/11/2005,96
+Royal Caribbean International,Monarch Of The Seas,6/3/2005,95
+V. Ships Leisure U.S.A.,MV Yorktown,6/15/2005,91
+Royal Caribbean International,Navigator Of The Seas,6/4/2005,99
+Norwegian Cruise Lines,Norwegian Dawn,6/12/2005,97
+Norwegian Cruise Lines,Norwegian Sun,6/22/2005,99
+Holland America Line,Oosterdam,6/13/2005,95
+"Japan Cruise Line, Inc",Pacific Venus,6/11/2005,94
+Royal Caribbean International,Rhapsody Of The Seas,6/21/2005,98
+Un-Cruise Adventures,Safari Quest,6/25/2005,94
+Lindblad Expeditions,Sea Bird,6/26/2005,90
+Regent Seven Seas,Seven Seas Mariner,6/27/2005,97
+Princess Cruises,Sun Princess,6/17/2005,95
+Royal Caribbean International,Vision Of The Seas,6/14/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Miracle,7/17/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Pride,7/24/2005,96
+"Carnival Cruise Lines, Inc.",Carnival Triumph,7/21/2005,97
+Celebrity Cruises,Celebrity Summit,7/22/2005,99
+Princess Cruises,Diamond Princess,7/11/2005,99
+Disney Cruise Lines,Disney Wonder,7/14/2005,99
+Princess Cruises,Island Princess,7/13/2005,98
+Royal Caribbean International,Majesty Of The Seas,7/15/2005,92
+Norwegian Cruise Lines,Norwegian Star,7/12/2005,98
+Holland America Line,Ryndam,7/17/2005,96
+Royal Caribbean International,Serenade Of The Seas,7/14/2005,98
+Silversea Cruises Ltd,Silver Discoverer,7/20/2005,96
+Holland America Line,Statendam,7/22/2005,96
+Holland America Line,Volendam,7/15/2005,98
+Holland America Line,Zuiderdam,7/16/2005,99
+Royal Caribbean International,Adventure Of The Seas,8/7/2005,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,8/27/2005,97
+"Carnival Cruise Lines, Inc.",Carnival Paradise,8/22/2005,97
+"Carnival Cruise Lines, Inc.",Carnival Valor,8/28/2005,98
+Princess Cruises,Coral Princess,8/31/2005,97
+Royal Caribbean International,Enchantment Of The Seas,8/4/2005,94
+Blount Small Ship Adventures,Grande Caribe,8/30/2005,91
+Blount Small Ship Adventures,Grande Mariner,8/3/2005,95
+V. Ships Leisure U.S.A.,MV Explorer,8/21/2005,98
+Norwegian Cruise Lines,Norwegian Spirit,8/29/2005,93
+Lindblad Expeditions,Sea Lion,8/27/2005,93
+Holland America Line,Veendam,8/2/2005,96
+Royal Caribbean International,Voyager Of The Seas,8/12/2005,96
+Celebrity Cruises,Celebrity Constellation,9/22/2005,100
+"Crystal Cruises , Inc.",Crystal Symphony,9/21/2005,97
+Royal Caribbean International,Jewel Of The Seas,9/22/2005,100
+Norwegian Cruise Lines,Norwegian Jewel,9/20/2005,99
+P&O Cruises,Oriana,9/24/2005,100
+"Saga Shipping Company, Ltd",SagaRuby,9/12/2005,90
+Seabourn Cruise Line,Seabourn Pride,9/30/2005,98
+Regent Seven Seas,Seven Seas Navigator,9/24/2005,98
+Silversea Cruises Ltd,Silver Whisper,9/28/2005,99
+Princess Cruises,Caribbean Princess,10/18/2005,100
+"Carnival Cruise Lines, Inc.",Carnival Elation,10/22/2005,99
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,10/15/2005,90
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,10/30/2005,97
+Royal Caribbean International,Explorer Of The Seas,10/20/2005,95
+Princess Cruises,Golden Princess,10/8/2005,98
+Royal Caribbean International,Mariner Of The Seas,10/19/2005,99
+Cunard Line,Queen Mary 2,10/6/2005,98
+Royal Caribbean International,Radiance Of The Seas,10/15/2005,94
+Princess Cruises,Sea Princess,10/31/2005,98
+Princess Cruises,Star Princess,10/16/2005,98
+ResidenSea,The World,10/30/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Conquest,11/13/2005,95
+"Carnival Cruise Lines, Inc.",Carnival Imagination,11/7/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Legend,11/9/2005,100
+"Carnival Cruise Lines, Inc.",Carnival Victory,11/13/2005,99
+Celebrity Cruises,Celebrity Century,11/17/2005,99
+Princess Cruises,Dawn Princess,11/20/2005,98
+Disney Cruise Lines,Disney Magic,11/5/2005,96
+Royal Caribbean International,Legend Of The Seas,11/19/2005,96
+Royal Caribbean International,Monarch Of The Seas,11/21/2005,97
+Norwegian Cruise Lines,Norwegian Sun,11/6/2005,100
+Holland America Line,Oosterdam,11/5/2005,97
+Princess Cruises,Sapphire Princess,11/19/2005,100
+Seabourn Cruise Line,Seabourn Legend,11/20/2005,98
+Sea Dream Yacht Club,Seadream I,11/20/2005,97
+Princess Cruises,Sun Princess,11/8/2005,97
+Holland America Line,Westerdam,11/6/2005,97
+Holland America Line,Zaandam,11/21/2005,98
+Royal Caribbean International,Adventure Of The Seas,12/11/2005,98
+Holland America Line,Amsterdam,12/13/2005,99
+P&O Cruises,Arcadia,12/2/2005,94
+Royal Caribbean International,Brilliance Of The Seas,12/23/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Fascination,12/16/2005,98
+"Carnival Cruise Lines, Inc.",Carnival Liberty,12/18/2005,99
+"Carnival Cruise Lines, Inc.",Carnival Triumph,12/3/2005,97
+Celebrity Cruises,Celebrity Infinity,12/10/2005,98
+Celebrity Cruises,Celebrity Millennium,12/2/2005,98
+Club Med Marine,Club Med 2,12/12/2005,89
+Costa Crociere S.P.A.,Costa Mediterranea,12/13/2005,100
+"Crystal Cruises , Inc.",Crystal Serenity,12/6/2005,100
+Princess Cruises,Grand Princess,12/3/2005,93
+Princess Cruises,Island Princess,12/12/2005,100
+Holland America Line,Maasdam,12/7/2005,91
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,12/17/2005,99
+V. Ships Leisure U.S.A.,MV Explorer,12/7/2005,99
+Royal Caribbean International,Navigator Of The Seas,12/17/2005,92
+Holland America Line,Prinsendam,12/20/2005,88
+Oceania Cruises,Regatta,12/22/2005,98
+Royal Caribbean International,Rhapsody Of The Seas,12/4/2005,98
+Holland America Line,Ryndam,12/7/2005,92
+"Saga Shipping Company, Ltd",SagaRuby,12/23/2005,88
+Silversea Cruises Ltd,Silver Whisper,12/1/2005,97
+Phoenix Reissen Cruise Line,Artania,1/21/2006,92
+P&O Cruises,Aurora,1/26/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,1/5/2006,95
+"Carnival Cruise Lines, Inc.",Carnival Miracle,1/8/2006,99
+"Carnival Cruise Lines, Inc.",Carnival Pride,1/29/2006,95
+Celebrity Cruises,Celebrity Constellation,1/7/2006,97
+Princess Cruises,Coral Princess,1/13/2006,97
+Royal Caribbean International,Enchantment Of The Seas,1/12/2006,97
+V. Ships Leisure U.S.A.,MV Yorktown,1/11/2006,91
+Norwegian Cruise Lines,Norwegian Dawn,1/8/2006,99
+Norwegian Cruise Lines,Norwegian Jewel,1/22/2006,100
+Norwegian Cruise Lines,Norwegian Star,1/28/2006,99
+Seabourn Cruise Line,Seabourn Pride,1/3/2006,99
+Sea Dream Yacht Club,Seadream II,1/22/2006,99
+Royal Caribbean International,Vision Of The Seas,1/22/2006,99
+Holland America Line,Volendam,1/9/2006,96
+Royal Caribbean International,Voyager Of The Seas,1/10/2006,96
+P&O Cruises,Arcadia,2/16/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,2/25/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Paradise,2/14/2006,95
+"Carnival Cruise Lines, Inc.",Carnival Spirit,2/12/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Valor,2/15/2006,96
+Celebrity Cruises,Celebrity Summit,2/26/2006,94
+"Crystal Cruises , Inc.",Crystal Symphony,2/18/2006,98
+Disney Cruise Lines,Disney Wonder,2/5/2006,98
+Royal Caribbean International,Grandeur Of The Seas,2/6/2006,96
+Royal Caribbean International,Majesty Of The Seas,2/24/2006,96
+Norwegian Cruise Lines,Norwegian Spirit,2/28/2006,98
+Princess Cruises,Sea Princess,2/11/2006,93
+Royal Caribbean International,Serenade Of The Seas,2/26/2006,100
+Regent Seven Seas,Seven Seas Navigator,2/14/2006,99
+Holland America Line,Zuiderdam,2/25/2006,94
+Princess Cruises,Caribbean Princess,3/4/2006,99
+"Carnival Cruise Lines, Inc.",Carnival Liberty,3/4/2006,94
+Celebrity Cruises,Celebrity Century,3/26/2006,100
+Club Med Marine,Club Med 2,3/6/2006,95
+Royal Caribbean International,Explorer Of The Seas,3/7/2006,96
+Princess Cruises,Golden Princess,3/26/2006,100
+Royal Caribbean International,Jewel Of The Seas,3/25/2006,100
+Royal Caribbean International,Legend Of The Seas,3/18/2006,96
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,3/9/2006,99
+Holland America Line,Noordam,3/8/2006,96
+Oceania Cruises,Regatta,3/8/2006,99
+Princess Cruises,Sapphire Princess,3/11/2006,99
+Seabourn Cruise Line,Seabourn Legend,3/14/2006,91
+Princess Cruises,Star Princess,3/19/2006,99
+ResidenSea,The World,3/9/2006,97
+Holland America Line,Veendam,3/18/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,4/27/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,4/29/2006,92
+"Carnival Cruise Lines, Inc.",Carnival Legend,4/2/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,4/9/2006,97
+Celebrity Cruises,Celebrity Millennium,4/12/2006,100
+Costa Crociere S.P.A.,Costa Mediterranea,4/9/2006,100
+Princess Cruises,Grand Princess,4/1/2006,97
+Blount Small Ship Adventures,Grande Mariner,4/12/2006,89
+Royal Caribbean International,Mariner Of The Seas,4/30/2006,98
+Royal Caribbean International,Monarch Of The Seas,4/3/2006,93
+V. Ships Leisure U.S.A.,MV Explorer,4/28/2006,98
+Norwegian Cruise Lines,Norwegian Jewel,4/23/2006,97
+Sea Dream Yacht Club,Seadream I,4/9/2006,92
+Regent Seven Seas,Seven Seas Mariner,4/3/2006,100
+Regent Seven Seas,Seven Seas Voyager,4/28/2006,93
+Silversea Cruises Ltd,Silver Whisper,4/13/2006,97
+Rederij Clipper Stad Amsterdam,Stad Amsterdam,4/8/2006,62
+Royal Caribbean International,Vision Of The Seas,4/2/2006,96
+Royal Caribbean International,Voyager Of The Seas,4/22/2006,96
+Royal Caribbean International,Adventure Of The Seas,5/15/2006,95
+Holland America Line,Amsterdam,5/9/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Conquest,5/14/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,5/22/2006,96
+"Carnival Cruise Lines, Inc.",Carnival Sensation,5/11/2006,94
+"Carnival Cruise Lines, Inc.",Carnival Victory,5/18/2006,99
+Princess Cruises,Dawn Princess,5/29/2006,95
+Princess Cruises,Diamond Princess,5/16/2006,96
+Disney Cruise Lines,Disney Magic,5/17/2006,98
+Royal Caribbean International,Enchantment Of The Seas,5/4/2006,95
+Blount Small Ship Adventures,Grande Caribe,5/14/2006,88
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,5/10/2006,95
+Holland America Line,Maasdam,5/8/2006,93
+Norwegian Cruise Lines,Norwegian Sun,5/30/2006,100
+Holland America Line,Oosterdam,5/15/2006,97
+"Saga Shipping Company, Ltd",SagaRuby,5/20/2006,94
+Lindblad Expeditions,Sea Lion,5/19/2006,86
+Holland America Line,Statendam,5/17/2006,95
+Holland America Line,Westerdam,5/31/2006,95
+"NYK Cruises Co., LTD",Asuka II,6/11/2006,96
+"Carnival Cruise Lines, Inc.",Carnival Imagination,6/19/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Miracle,6/18/2006,100
+"Carnival Cruise Lines, Inc.",Carnival Triumph,6/17/2006,90
+Princess Cruises,Crown Princess,6/28/2006,97
+Royal Caribbean International,Freedom Of The Seas,6/18/2006,95
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,6/6/2006,96
+Norwegian Cruise Lines,Norwegian Spirit,6/27/2006,89
+Cunard Line,Queen Mary 2,6/4/2006,95
+Royal Caribbean International,Radiance Of The Seas,6/6/2006,95
+Un-Cruise Adventures,Safari Quest,6/3/2006,87
+Lindblad Expeditions,Sea Bird,6/4/2006,84
+"Carnival Cruise Lines, Inc.",Carnival Fascination,7/24/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,7/22/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Spirit,7/5/2006,92
+Celebrity Cruises,Celebrity Infinity,7/13/2006,98
+Celebrity Cruises,Celebrity Summit,7/8/2006,95
+Princess Cruises,Coral Princess,7/10/2006,98
+Princess Cruises,Island Princess,7/3/2006,93
+Royal Caribbean International,Majesty Of The Seas,7/10/2006,90
+V. Ships Leisure U.S.A.,MV Yorktown,7/15/2006,79
+Royal Caribbean International,Navigator Of The Seas,7/8/2006,100
+Norwegian Cruise Lines,Norwegian Star,7/18/2006,99
+Royal Caribbean International,Rhapsody Of The Seas,7/16/2006,95
+Holland America Line,Ryndam,7/9/2006,94
+Lindblad Expeditions,Sea Bird,7/16/2006,94
+Royal Caribbean International,Serenade Of The Seas,7/13/2006,98
+Regent Seven Seas,Seven Seas Mariner,7/12/2006,96
+Silversea Cruises Ltd,Silver Discoverer,7/4/2006,95
+Silversea Cruises Ltd,Silver Shadow,7/15/2006,97
+Princess Cruises,Sun Princess,7/19/2006,99
+Holland America Line,Veendam,7/20/2006,95
+Holland America Line,Volendam,7/21/2006,94
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,8/12/2006,93
+"Carnival Cruise Lines, Inc.",Carnival Paradise,8/14/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Pride,8/13/2006,91
+"Carnival Cruise Lines, Inc.",Carnival Valor,8/20/2006,93
+Disney Cruise Lines,Disney Wonder,8/3/2006,97
+Blount Small Ship Adventures,Grande Mariner,8/7/2006,90
+Royal Caribbean International,Grandeur Of The Seas,8/20/2006,96
+Norwegian Cruise Lines,Norwegian Dawn,8/5/2006,99
+Un-Cruise Adventures,Safari Quest,8/12/2006,87
+Lindblad Expeditions,Sea Bird,8/13/2006,93
+Lindblad Expeditions,Sea Lion,8/12/2006,92
+Holland America Line,Statendam,8/15/2006,92
+Holland America Line,Zaandam,8/13/2006,96
+Holland America Line,Zuiderdam,8/14/2006,93
+P&O Cruises,Aurora,9/26/2006,100
+"Carnival Cruise Lines, Inc.",Carnival Elation,9/27/2006,96
+"Carnival Cruise Lines, Inc.",Carnival Sensation,9/7/2006,97
+Celebrity Cruises,Celebrity Constellation,9/27/2006,97
+Princess Cruises,Crown Princess,9/26/2006,100
+"Crystal Cruises , Inc.",Crystal Symphony,9/28/2006,98
+Princess Cruises,Diamond Princess,9/23/2006,98
+Royal Caribbean International,Freedom Of The Seas,9/10/2006,97
+Blount Small Ship Adventures,Grande Caribe,9/3/2006,87
+Royal Caribbean International,Jewel Of The Seas,9/23/2006,100
+V. Ships Leisure U.S.A.,MV Yorktown,9/20/2006,87
+Princess Cruises,Sea Princess,9/25/2006,94
+Silversea Cruises Ltd,Silver Shadow,9/18/2006,95
+Holland America Line,Amsterdam,10/17/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Conquest,10/22/2006,94
+"Carnival Cruise Lines, Inc.",Carnival Fascination,10/30/2006,96
+"Carnival Cruise Lines, Inc.",Carnival Imagination,10/28/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,10/23/2006,96
+"Carnival Cruise Lines, Inc.",Carnival Legend,10/31/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Legend,10/14/2006,71
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,10/15/2006,95
+"Carnival Cruise Lines, Inc.",Carnival Triumph,10/28/2006,93
+"Carnival Cruise Lines, Inc.",Carnival Victory,10/15/2006,94
+Disney Cruise Lines,Disney Magic,10/22/2006,99
+Royal Caribbean International,Explorer Of The Seas,10/11/2006,89
+Holland America Line,Noordam,10/14/2006,98
+Holland America Line,Oosterdam,10/7/2006,88
+Royal Caribbean International,Adventure Of The Seas,11/5/2006,98
+Princess Cruises,Caribbean Princess,11/9/2006,100
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,11/4/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,11/11/2006,94
+Celebrity Cruises,Celebrity Century,11/27/2006,96
+Royal Caribbean International,Enchantment Of The Seas,11/2/2006,90
+Royal Caribbean International,Legend Of The Seas,11/18/2006,97
+Holland America Line,Maasdam,11/19/2006,96
+Royal Caribbean International,Mariner Of The Seas,11/12/2006,95
+Royal Caribbean International,Monarch Of The Seas,11/3/2006,97
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,11/18/2006,94
+Royal Caribbean International,Navigator Of The Seas,11/6/2006,99
+Norwegian Cruise Lines,Norwegian Jewel,11/7/2006,98
+Norwegian Cruise Lines,Norwegian Star,11/6/2006,94
+Norwegian Cruise Lines,Norwegian Sun,11/5/2006,89
+Royal Caribbean International,Radiance Of The Seas,11/11/2006,96
+Seabourn Cruise Line,Seabourn Legend,11/22/2006,94
+Sea Dream Yacht Club,Seadream II,11/26/2006,97
+Royal Caribbean International,Serenade Of The Seas,11/19/2006,97
+Regent Seven Seas,Seven Seas Navigator,11/20/2006,96
+Princess Cruises,Star Princess,11/18/2006,92
+P&O Cruises,Arcadia,12/8/2006,94
+Royal Caribbean International,Brilliance Of The Seas,12/1/2006,98
+"Carnival Cruise Lines, Inc.",Carnival Liberty,12/12/2006,96
+Princess Cruises,Coral Princess,12/12/2006,96
+Costa Crociere S.P.A.,Costa Mediterranea,12/30/2006,99
+"Crystal Cruises , Inc.",Crystal Serenity,12/15/2006,100
+Princess Cruises,Dawn Princess,12/12/2006,99
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,12/22/2006,97
+Princess Cruises,Golden Princess,12/23/2006,99
+Princess Cruises,Grand Princess,12/16/2006,95
+Royal Caribbean International,Grandeur Of The Seas,12/30/2006,96
+Princess Cruises,Island Princess,12/20/2006,100
+Norwegian Cruise Lines,Norwegian Dawn,12/13/2006,96
+Norwegian Cruise Lines,Norwegian Spirit,12/21/2006,94
+Holland America Line,Prinsendam,12/9/2006,96
+Cunard Line,Queen Mary 2,12/2/2006,99
+Oceania Cruises,Regatta,12/21/2006,100
+Regent Seven Seas,Seven Seas Mariner,12/19/2006,100
+Princess Cruises,Sun Princess,12/7/2006,98
+Holland America Line,Volendam,12/13/2006,93
+Royal Caribbean International,Voyager Of The Seas,12/16/2006,98
+Holland America Line,Westerdam,12/3/2006,97
+"Carnival Cruise Lines, Inc.",Carnival Elation,1/6/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Spirit,1/26/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Valor,1/7/2007,98
+Celebrity Cruises,Celebrity Constellation,1/26/2007,91
+Celebrity Cruises,Celebrity Summit,1/20/2007,98
+Disney Cruise Lines,Disney Wonder,1/7/2007,100
+Royal Caribbean International,Jewel Of The Seas,1/13/2007,93
+V. Ships Leisure U.S.A.,MV Explorer,1/8/2007,99
+Norwegian Cruise Lines,Norwegian Pearl,1/19/2007,98
+P&O Cruises,Oriana,1/27/2007,94
+Royal Caribbean International,Rhapsody Of The Seas,1/14/2007,99
+Holland America Line,Ryndam,1/30/2007,96
+Princess Cruises,Sea Princess,1/6/2007,97
+Regent Seven Seas,Seven Seas Voyager,1/9/2007,95
+Silversea Cruises Ltd,Silver Shadow,1/14/2007,93
+Holland America Line,Veendam,1/18/2007,97
+Royal Caribbean International,Vision Of The Seas,1/28/2007,96
+Holland America Line,Zaandam,1/27/2007,97
+Holland America Line,Zuiderdam,1/17/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,2/15/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Freedom,2/13/2007,100
+"Carnival Cruise Lines, Inc.",Carnival Miracle,2/11/2007,99
+"Carnival Cruise Lines, Inc.",Carnival Paradise,2/2/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/8/2007,98
+Celebrity Cruises,Celebrity Millennium,2/25/2007,100
+Princess Cruises,Crown Princess,2/4/2007,89
+Princess Cruises,Diamond Princess,2/3/2007,95
+Royal Caribbean International,Freedom Of The Seas,2/25/2007,97
+Royal Caribbean International,Majesty Of The Seas,2/26/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Legend,3/8/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,3/11/2007,97
+Celebrity Cruises,Celebrity Century,3/20/2007,97
+Club Med Marine,Club Med 2,3/20/2007,86
+Costa Crociere S.P.A.,Costa Mediterranea,3/19/2007,97
+"Crystal Cruises , Inc.",Crystal Symphony,3/4/2007,98
+Princess Cruises,Grand Princess,3/3/2007,95
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,3/8/2007,98
+Holland America Line,Prinsendam,3/12/2007,97
+Oceania Cruises,Regatta,3/11/2007,96
+Seabourn Cruise Line,Seabourn Legend,3/18/2007,94
+Sea Dream Yacht Club,Seadream I,3/18/2007,87
+Regent Seven Seas,Seven Seas Navigator,3/1/2007,94
+Silversea Cruises Ltd,Silver Wind,3/10/2007,94
+Rederij Clipper Stad Amsterdam,Stad Amsterdam,3/29/2007,56
+Princess Cruises,Star Princess,3/10/2007,100
+P&O Cruises,Aurora,4/2/2007,99
+Royal Caribbean International,Brilliance Of The Seas,4/6/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Conquest,4/22/2007,96
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,4/14/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Pride,4/1/2007,100
+"Carnival Cruise Lines, Inc.",Carnival Triumph,4/7/2007,96
+Royal Caribbean International,Enchantment Of The Seas,4/9/2007,95
+Royal Caribbean International,Explorer Of The Seas,4/15/2007,98
+Royal Caribbean International,Legend Of The Seas,4/14/2007,98
+Holland America Line,Noordam,4/25/2007,100
+Norwegian Cruise Lines,Norwegian Jewel,4/8/2007,99
+Norwegian Cruise Lines,Norwegian Sun,4/15/2007,99
+Royal Caribbean International,Radiance Of The Seas,4/14/2007,96
+"Saga Shipping Company, Ltd",SagaRuby,4/10/2007,96
+Holland America Line,Amsterdam,5/20/2007,95
+Princess Cruises,Caribbean Princess,5/20/2007,100
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,5/14/2007,94
+"Carnival Cruise Lines, Inc.",Carnival Fascination,5/11/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,5/19/2007,99
+"Carnival Cruise Lines, Inc.",Carnival Imagination,5/31/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Valor,5/20/2007,99
+Princess Cruises,Coral Princess,5/24/2007,100
+Princess Cruises,Golden Princess,5/19/2007,100
+Royal Caribbean International,Grandeur Of The Seas,5/13/2007,97
+Holland America Line,Maasdam,5/26/2007,96
+Holland America Line,Oosterdam,5/5/2007,95
+Princess Cruises,Sapphire Princess,5/22/2007,100
+Lindblad Expeditions,Sea Bird,5/11/2007,91
+Lindblad Expeditions,Sea Lion,5/23/2007,87
+Royal Caribbean International,Serenade Of The Seas,5/23/2007,94
+Silversea Cruises Ltd,Silver Shadow,5/24/2007,96
+Royal Caribbean International,Vision Of The Seas,5/18/2007,97
+Royal Caribbean International,Adventure Of The Seas,6/24/2007,100
+"NYK Cruises Co., LTD",Asuka II,6/3/2007,88
+Celebrity Cruises,Celebrity Infinity,6/29/2007,96
+Princess Cruises,Dawn Princess,6/14/2007,99
+Royal Caribbean International,Liberty of the Seas,6/30/2007,100
+Princess Cruises,Pacific Princess,6/16/2007,100
+Royal Caribbean International,Rhapsody Of The Seas,6/10/2007,98
+Un-Cruise Adventures,Safari Quest,6/23/2007,88
+Holland America Line,Statendam,6/20/2007,95
+Holland America Line,Volendam,6/18/2007,97
+Azamara Cruises,Azamara Journey,7/9/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/14/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/26/2007,94
+"Carnival Cruise Lines, Inc.",Carnival Spirit,7/18/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Victory,7/5/2007,95
+Celebrity Cruises,Celebrity Summit,7/9/2007,100
+Princess Cruises,Diamond Princess,7/14/2007,98
+Royal Caribbean International,Freedom Of The Seas,7/29/2007,95
+Princess Cruises,Island Princess,7/12/2007,99
+Royal Caribbean International,Monarch Of The Seas,7/13/2007,97
+Norwegian Cruise Lines,Norwegian Pearl,7/15/2007,100
+Norwegian Cruise Lines,Norwegian Spirit,7/7/2007,96
+Cunard Line,Queen Mary 2,7/6/2007,97
+Holland America Line,Ryndam,7/15/2007,95
+Regent Seven Seas,Seven Seas Mariner,7/15/2007,100
+Holland America Line,Zaandam,7/14/2007,97
+Holland America Line,Zuiderdam,7/9/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,8/25/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Liberty,8/4/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Miracle,8/7/2007,99
+Princess Cruises,Crown Princess,8/10/2007,98
+Disney Cruise Lines,Disney Wonder,8/30/2007,97
+Blount Small Ship Adventures,Grande Caribe,8/7/2007,90
+Blount Small Ship Adventures,Grande Mariner,8/2/2007,86
+Royal Caribbean International,Majesty Of The Seas,8/24/2007,98
+V. Ships Leisure U.S.A.,MV Explorer,8/21/2007,99
+Norwegian Cruise Lines,Norwegian Dawn,8/11/2007,100
+Norwegian Cruise Lines,Norwegian Star,8/18/2007,97
+Lindblad Expeditions,Sea Lion,8/19/2007,97
+Princess Cruises,Sun Princess,8/19/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Paradise,9/10/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Pride,9/16/2007,98
+Celebrity Cruises,Celebrity Infinity,9/6/2007,96
+"Crystal Cruises , Inc.",Crystal Symphony,9/14/2007,98
+Disney Cruise Lines,Disney Magic,9/15/2007,99
+Royal Caribbean International,Liberty of the Seas,9/29/2007,98
+Royal Caribbean International,Mariner Of The Seas,9/16/2007,98
+Princess Cruises,Pacific Princess,9/21/2007,98
+Princess Cruises,Sapphire Princess,9/1/2007,97
+Lindblad Expeditions,Sea Bird,9/12/2007,96
+Holland America Line,Statendam,9/5/2007,95
+Phoenix Reissen Cruise Line,Artania,10/6/2007,95
+Princess Cruises,Caribbean Princess,10/11/2007,99
+"Carnival Cruise Lines, Inc.",Carnival Conquest,10/28/2007,99
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/29/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,10/22/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Triumph,10/23/2007,96
+"Carnival Cruise Lines, Inc.",Carnival Valor,10/10/2007,98
+Celebrity Cruises,Celebrity Summit,10/5/2007,97
+Royal Caribbean International,Enchantment Of The Seas,10/22/2007,98
+Princess Cruises,Grand Princess,10/8/2007,94
+Royal Caribbean International,Grandeur Of The Seas,10/9/2007,95
+Holland America Line,Maasdam,10/30/2007,95
+Holland America Line,Noordam,10/24/2007,100
+Norwegian Cruise Lines,Norwegian Sun,10/27/2007,99
+Holland America Line,Oosterdam,10/20/2007,91
+Royal Caribbean International,Radiance Of The Seas,10/21/2007,95
+"Saga Shipping Company, Ltd",SagaRuby,10/7/2007,95
+Seabourn Cruise Line,Seabourn Pride,10/19/2007,98
+Silversea Cruises Ltd,Silver Wind,10/17/2007,99
+Holland America Line,Westerdam,10/21/2007,98
+P&O Cruises,Arcadia,11/29/2007,97
+Azamara Cruises,Azamara Journey,11/11/2007,98
+Azamara Cruises,Azamara Quest,11/12/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Fascination,11/9/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Imagination,11/19/2007,96
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,11/19/2007,95
+Club Med Marine,Club Med 2,11/17/2007,94
+Costa Crociere S.P.A.,Costa Fortuna,11/17/2007,99
+Princess Cruises,Emerald Princess,11/26/2007,100
+Royal Caribbean International,Explorer Of The Seas,11/19/2007,97
+Royal Caribbean International,Jewel Of The Seas,11/20/2007,99
+Royal Caribbean International,Navigator Of The Seas,11/29/2007,99
+Oceania Cruises,Regatta,11/25/2007,99
+Seabourn Cruise Line,Seabourn Legend,11/21/2007,98
+Sea Dream Yacht Club,Seadream II,11/14/2007,96
+Regent Seven Seas,Seven Seas Voyager,11/23/2007,92
+Silversea Cruises Ltd,Silver Shadow,11/6/2007,97
+Royal Caribbean International,Vision Of The Seas,11/25/2007,99
+Holland America Line,Zuiderdam,11/21/2007,93
+Royal Caribbean International,Adventure Of The Seas,12/9/2007,99
+Holland America Line,Amsterdam,12/11/2007,97
+Royal Caribbean International,Brilliance Of The Seas,12/17/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Elation,12/1/2007,98
+"Carnival Cruise Lines, Inc.",Carnival Legend,12/16/2007,97
+"Carnival Cruise Lines, Inc.",Carnival Liberty,12/10/2007,97
+Princess Cruises,Coral Princess,12/23/2007,99
+Costa Crociere S.P.A.,Costa Mediterranea,12/25/2007,97
+"Crystal Cruises , Inc.",Crystal Serenity,12/21/2007,96
+Princess Cruises,Diamond Princess,12/3/2007,100
+Disney Cruise Lines,Disney Wonder,12/9/2007,95
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,12/24/2007,100
+Norwegian Cruise Lines,Norwegian Jewel,12/2/2007,99
+Holland America Line,Ryndam,12/13/2007,97
+Sea Dream Yacht Club,Seadream I,12/9/2007,100
+Royal Caribbean International,Serenade Of The Seas,12/8/2007,98
+Princess Cruises,Star Princess,12/20/2007,99
+P&O Cruises,Aurora,1/31/2008,100
+"Carnival Cruise Lines, Inc.",Carnival Freedom,1/5/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,1/22/2008,100
+"Carnival Cruise Lines, Inc.",Carnival Miracle,1/18/2008,99
+Celebrity Cruises,Celebrity Century,1/3/2008,99
+Princess Cruises,Crown Princess,1/19/2008,98
+Princess Cruises,Dawn Princess,1/27/2008,99
+Royal Caribbean International,Freedom Of The Seas,1/6/2008,95
+Princess Cruises,Golden Princess,1/26/2008,97
+Royal Caribbean International,Majesty Of The Seas,1/7/2008,96
+Royal Caribbean International,Monarch Of The Seas,1/28/2008,95
+V. Ships Leisure U.S.A.,MV Explorer,1/27/2008,100
+Norwegian Cruise Lines,Norwegian Gem,1/19/2008,100
+Norwegian Cruise Lines,Norwegian Pearl,1/11/2008,100
+Princess Cruises,Pacific Princess,1/10/2008,98
+Holland America Line,Prinsendam,1/3/2008,95
+Cunard Line,Queen Mary 2,1/20/2008,100
+Cunard Line,Queen Victoria,1/30/2008,99
+Princess Cruises,Sea Princess,1/23/2008,98
+Regent Seven Seas,Seven Seas Navigator,1/7/2008,97
+Royal Caribbean International,Voyager Of The Seas,1/13/2008,94
+P&O Cruises,Arcadia,2/1/2008,95
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/24/2008,96
+"Carnival Cruise Lines, Inc.",Carnival Spirit,2/2/2008,98
+Celebrity Cruises,Celebrity Constellation,2/11/2008,98
+Celebrity Cruises,Celebrity Millennium,2/24/2008,99
+Celebrity Cruises,Celebrity Summit,2/9/2008,98
+"Crystal Cruises , Inc.",Crystal Symphony,2/8/2008,99
+Disney Cruise Lines,Disney Magic,2/6/2008,99
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,2/1/2008,97
+Princess Cruises,Island Princess,2/6/2008,96
+Norwegian Cruise Lines,Norwegian Spirit,2/3/2008,96
+Norwegian Cruise Lines,Norwegian Star,2/4/2008,94
+Oceania Cruises,Regatta,2/25/2008,100
+Holland America Line,Volendam,2/11/2008,94
+Holland America Line,Zaandam,2/3/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,3/13/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Paradise,3/3/2008,97
+"Carnival Cruise Lines, Inc.",Carnival Pride,3/2/2008,96
+"Carnival Cruise Lines, Inc.",Carnival Victory,3/23/2008,97
+Princess Cruises,Grand Princess,3/22/2008,91
+Royal Caribbean International,Jewel Of The Seas,3/10/2008,97
+Royal Caribbean International,Liberty of the Seas,3/22/2008,99
+Royal Caribbean International,Mariner Of The Seas,3/23/2008,94
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,3/12/2008,100
+Norwegian Cruise Lines,Norwegian Dawn,3/10/2008,100
+Norwegian Cruise Lines,Norwegian Sun,3/22/2008,100
+Seabourn Cruise Line,Seabourn Legend,3/9/2008,98
+Seabourn Cruise Line,Seabourn Pride,3/17/2008,96
+Sea Dream Yacht Club,Seadream II,3/30/2008,96
+Regent Seven Seas,Seven Seas Mariner,3/14/2008,94
+Silversea Cruises Ltd,Silver Wind,3/8/2008,99
+Holland America Line,Westerdam,3/23/2008,92
+Holland America Line,Zuiderdam,3/11/2008,96
+Phoenix Reissen Cruise Line,Amadea,4/4/2008,84
+Azamara Cruises,Azamara Journey,4/9/2008,92
+Azamara Cruises,Azamara Quest,4/12/2008,94
+Fred Olsen Cruise Line,Balmoral,4/3/2008,91
+Royal Caribbean International,Brilliance Of The Seas,4/4/2008,92
+"Carnival Cruise Lines, Inc.",Carnival Freedom,4/8/2008,90
+"Carnival Cruise Lines, Inc.",Carnival Imagination,4/21/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Valor,4/9/2008,99
+Celebrity Cruises,Celebrity Century,4/24/2008,98
+Celebrity Cruises,Celebrity Infinity,4/28/2008,100
+Costa Crociere S.P.A.,Costa Fortuna,4/6/2008,95
+Costa Crociere S.P.A.,Costa Mediterranea,4/5/2008,99
+Princess Cruises,Crown Princess,4/26/2008,94
+Princess Cruises,Emerald Princess,4/11/2008,100
+Royal Caribbean International,Enchantment Of The Seas,4/28/2008,99
+Royal Caribbean International,Explorer Of The Seas,4/25/2008,95
+Holland America Line,Maasdam,4/24/2008,92
+Royal Caribbean International,Navigator Of The Seas,4/3/2008,95
+Holland America Line,Noordam,4/5/2008,98
+Norwegian Cruise Lines,Norwegian Gem,4/7/2008,96
+Holland America Line,Oosterdam,4/29/2008,100
+Royal Caribbean International,Radiance Of The Seas,4/20/2008,94
+Sea Dream Yacht Club,Seadream I,4/27/2008,96
+Regent Seven Seas,Seven Seas Navigator,4/8/2008,94
+Regent Seven Seas,Seven Seas Voyager,4/30/2008,100
+Holland America Line,Veendam,4/6/2008,96
+Royal Caribbean International,Voyager Of The Seas,4/27/2008,97
+Holland America Line,Amsterdam,5/30/2008,98
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,5/19/2008,98
+Princess Cruises,Caribbean Princess,5/29/2008,100
+"Carnival Cruise Lines, Inc.",Carnival Elation,5/3/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,5/8/2008,94
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,5/10/2008,93
+"Carnival Cruise Lines, Inc.",Carnival Legend,5/11/2008,94
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,5/4/2008,94
+"Carnival Cruise Lines, Inc.",Carnival Triumph,5/24/2008,94
+Princess Cruises,Diamond Princess,5/27/2008,100
+Royal Caribbean International,Grandeur Of The Seas,5/5/2008,97
+Royal Caribbean International,Majesty Of The Seas,5/26/2008,96
+Royal Caribbean International,Rhapsody Of The Seas,5/25/2008,100
+Princess Cruises,Sapphire Princess,5/28/2008,100
+Lindblad Expeditions,Sea Bird,5/25/2008,100
+Holland America Line,Statendam,5/26/2008,92
+Royal Caribbean International,Vision Of The Seas,5/4/2008,98
+"NYK Cruises Co., LTD",Asuka II,6/9/2008,97
+"Carnival Cruise Lines, Inc.",Carnival Conquest,6/15/2008,96
+"Carnival Cruise Lines, Inc.",Carnival Liberty,6/14/2008,96
+Princess Cruises,Coral Princess,6/16/2008,100
+Princess Cruises,Dawn Princess,6/26/2008,92
+Disney Cruise Lines,Disney Wonder,6/1/2008,99
+Princess Cruises,Golden Princess,6/28/2008,98
+Royal Caribbean International,Monarch Of The Seas,6/13/2008,97
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,6/27/2008,86
+Norwegian Cruise Lines,Norwegian Pearl,6/29/2008,91
+"Japan Cruise Line, Inc",Pacific Venus,6/8/2008,89
+Royal Caribbean International,Serenade Of The Seas,6/18/2008,99
+Princess Cruises,Star Princess,6/15/2008,100
+Royal Caribbean International,Adventure Of The Seas,7/6/2008,99
+"Carnival Cruise Lines, Inc.",Carnival Fascination,7/11/2008,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,7/8/2008,100
+"Carnival Cruise Lines, Inc.",Carnival Miracle,7/7/2008,100
+"Carnival Cruise Lines, Inc.",Carnival Spirit,7/26/2008,98
+Celebrity Cruises,Celebrity Millennium,7/28/2008,91
+International Shipping Partners (ISP),MV Ocean Pearl,7/14/2008,84
+Norwegian Cruise Lines,Norwegian Spirit,7/22/2008,98
+Holland America Line,Ryndam,7/26/2008,96
+Lindblad Expeditions,Sea Lion,7/19/2008,98
+Regent Seven Seas,Seven Seas Mariner,7/27/2008,94
+Silversea Cruises Ltd,Silver Shadow,7/18/2008,99
+Holland America Line,Volendam,7/24/2008,95
+"Carnival Cruise Lines, Inc.",Carnival Paradise,8/11/2008,97
+"Carnival Cruise Lines, Inc.",Carnival Pride,8/17/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Sensation,8/31/2008,97
+Celebrity Cruises,Celebrity Infinity,8/15/2008,97
+Royal Caribbean International,Freedom Of The Seas,8/24/2008,100
+Royal Caribbean International,Liberty of the Seas,8/23/2008,100
+Royal Caribbean International,Mariner Of The Seas,8/3/2008,99
+V. Ships Leisure U.S.A.,MV Explorer,8/22/2008,100
+Norwegian Cruise Lines,Norwegian Sky,8/4/2008,93
+Norwegian Cruise Lines,Norwegian Star,8/21/2008,98
+Cunard Line,Queen Mary 2,8/7/2008,100
+Princess Cruises,Sun Princess,8/10/2008,94
+Aida Cruises,AIDAaura,9/17/2008,99
+P&O Cruises,Aurora,9/11/2008,100
+"Carnival Cruise Lines, Inc.",Carnival Victory,9/27/2008,89
+Celebrity Cruises,Celebrity Constellation,9/23/2008,97
+"Crystal Cruises , Inc.",Crystal Symphony,9/18/2008,98
+Disney Cruise Lines,Disney Magic,9/1/2008,98
+Norwegian Cruise Lines,Norwegian Dawn,9/19/2008,98
+Norwegian Cruise Lines,Norwegian Jewel,9/28/2008,99
+Royal Caribbean International,Rhapsody Of The Seas,9/5/2008,98
+Princess Cruises,Sapphire Princess,9/9/2008,99
+Lindblad Expeditions,Sea Bird,9/11/2008,99
+Princess Cruises,Sea Princess,9/30/2008,96
+Holland America Line,Statendam,9/8/2008,90
+Holland America Line,Veendam,9/7/2008,94
+Holland America Line,Zaandam,9/11/2008,99
+"Carnival Cruise Lines, Inc.",Carnival Elation,10/23/2008,99
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/13/2008,94
+"Carnival Cruise Lines, Inc.",Carnival Imagination,10/17/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Legend,10/12/2008,97
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,10/16/2008,94
+"Carnival Cruise Lines, Inc.",Carnival Triumph,10/5/2008,95
+"Carnival Cruise Lines, Inc.",Carnival Valor,10/19/2008,99
+Princess Cruises,Crown Princess,10/30/2008,95
+Royal Caribbean International,Enchantment Of The Seas,10/18/2008,96
+Holland America Line,Eurodam,10/29/2008,95
+Blount Small Ship Adventures,Grande Caribe,10/21/2008,93
+Blount Small Ship Adventures,Grande Mariner,10/8/2008,95
+Princess Cruises,Island Princess,10/27/2008,98
+Royal Caribbean International,Jewel Of The Seas,10/31/2008,98
+Holland America Line,Maasdam,10/28/2008,92
+Lindblad Expeditions,National Geographic Explorer,10/15/2008,92
+Norwegian Cruise Lines,Norwegian Sun,10/24/2008,100
+Holland America Line,Oosterdam,10/25/2008,100
+Royal Caribbean International,Vision Of The Seas,10/26/2008,97
+Holland America Line,Westerdam,10/26/2008,98
+Fred Olsen Cruise Line,Braemar,11/13/2008,97
+Princess Cruises,Caribbean Princess,11/2/2008,100
+"Carnival Cruise Lines, Inc.",Carnival Conquest,11/16/2008,99
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,11/15/2008,99
+"Carnival Cruise Lines, Inc.",Carnival Freedom,11/30/2008,99
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,11/8/2008,97
+"Carnival Cruise Lines, Inc.",Carnival Liberty,11/15/2008,99
+Princess Cruises,Coral Princess,11/19/2008,98
+Disney Cruise Lines,Disney Wonder,11/13/2008,99
+Princess Cruises,Emerald Princess,11/20/2008,98
+Royal Caribbean International,Explorer Of The Seas,11/1/2008,98
+Royal Caribbean International,Grandeur Of The Seas,11/10/2008,99
+Royal Caribbean International,Majesty Of The Seas,11/17/2008,99
+Royal Caribbean International,Navigator Of The Seas,11/22/2008,98
+Holland America Line,Noordam,11/24/2008,98
+Norwegian Cruise Lines,Norwegian Gem,11/29/2008,98
+P&O Cruises,Oriana,11/10/2008,99
+Royal Caribbean International,Radiance Of The Seas,11/9/2008,97
+Holland America Line,Rotterdam,11/20/2008,95
+Royal Caribbean International,Serenade Of The Seas,11/23/2008,98
+Princess Cruises,Star Princess,11/20/2008,99
+ResidenSea,The World,11/12/2008,100
+Holland America Line,Zuiderdam,11/19/2008,94
+Azamara Cruises,Azamara Journey,12/18/2008,98
+"Carnival Cruise Lines, Inc.",Carnival Splendor,12/6/2008,100
+Celebrity Cruises,Celebrity Century,12/20/2008,92
+Celebrity Cruises,Celebrity Infinity,12/3/2008,85
+Celebrity Cruises,Celebrity Summit,12/20/2008,97
+Club Med Marine,Club Med 2,12/16/2008,94
+"Crystal Cruises , Inc.",Crystal Serenity,12/1/2008,97
+Princess Cruises,Golden Princess,12/24/2008,86
+Princess Cruises,Grand Princess,12/29/2008,98
+Royal Caribbean International,Independence of the Seas,12/7/2008,100
+Royal Caribbean International,Monarch Of The Seas,12/19/2008,95
+V. Ships Leisure U.S.A.,MV Explorer,12/14/2008,100
+Norwegian Cruise Lines,Norwegian Pearl,12/7/2008,100
+Holland America Line,Prinsendam,12/19/2008,95
+Oceania Cruises,Regatta,12/21/2008,100
+Princess Cruises,Ruby Princess,12/6/2008,100
+Seabourn Cruise Line,Seabourn Legend,12/22/2008,99
+Seabourn Cruise Line,Seabourn Pride,12/20/2008,89
+Sea Dream Yacht Club,Seadream I,12/21/2008,98
+Sea Dream Yacht Club,Seadream II,12/19/2008,94
+Regent Seven Seas,Seven Seas Navigator,12/29/2008,97
+Regent Seven Seas,Seven Seas Voyager,12/18/2008,92
+Royal Caribbean International,Adventure Of The Seas,1/4/2009,100
+Phoenix Reissen Cruise Line,Artania,1/3/2009,93
+"Carnival Cruise Lines, Inc.",Carnival Fascination,1/19/2009,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,1/17/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Miracle,1/24/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Spirit,1/7/2009,98
+Celebrity Cruises,Celebrity Solstice,1/4/2009,98
+Costa Crociere S.P.A.,Costa Fortuna,1/18/2009,97
+MSC Cruises (Mediterranean Shipping Company),MSC Lirica,1/6/2009,100
+Norwegian Cruise Lines,Norwegian Spirit,1/11/2009,96
+Cunard Line,Queen Victoria,1/10/2009,97
+Holland America Line,Ryndam,1/9/2009,95
+Silversea Cruises Ltd,Silver Shadow,1/3/2009,94
+"Carnival Cruise Lines, Inc.",Carnival Paradise,2/23/2009,96
+"Carnival Cruise Lines, Inc.",Carnival Pride,2/22/2009,98
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/26/2009,98
+"Carnival Cruise Lines, Inc.",Carnival Victory,2/15/2009,95
+Celebrity Cruises,Celebrity Constellation,2/23/2009,94
+Disney Cruise Lines,Disney Magic,2/18/2009,98
+Royal Caribbean International,Freedom Of The Seas,2/1/2009,99
+Royal Caribbean International,Liberty of the Seas,2/16/2009,95
+Royal Caribbean International,Mariner Of The Seas,2/19/2009,93
+MSC Cruises (Mediterranean Shipping Company),MSC Orchestra,2/28/2009,95
+Norwegian Cruise Lines,Norwegian Sky,2/6/2009,98
+Norwegian Cruise Lines,Norwegian Star,2/21/2009,98
+P&O Cruises,Oriana,2/1/2009,94
+Princess Cruises,Pacific Princess,2/27/2009,99
+Holland America Line,Veendam,2/8/2009,98
+P&O Cruises,Aurora,3/24/2009,100
+Azamara Cruises,Azamara Journey,3/16/2009,98
+Fred Olsen Cruise Line,Braemar,3/5/2009,95
+"Carnival Cruise Lines, Inc.",Carnival Imagination,3/6/2009,94
+"Carnival Cruise Lines, Inc.",Carnival Legend,3/8/2009,97
+"Carnival Cruise Lines, Inc.",Carnival Liberty,3/21/2009,94
+"Carnival Cruise Lines, Inc.",Carnival Valor,3/22/2009,94
+Celebrity Cruises,Celebrity Infinity,3/29/2009,95
+"Crystal Cruises , Inc.",Crystal Symphony,3/9/2009,98
+Royal Caribbean International,Independence of the Seas,3/1/2009,96
+Royal Caribbean International,Jewel Of The Seas,3/2/2009,98
+Holland America Line,Noordam,3/4/2009,99
+Norwegian Cruise Lines,Norwegian Dawn,3/7/2009,100
+Norwegian Cruise Lines,Norwegian Jewel,3/6/2009,100
+Holland America Line,Oosterdam,3/14/2009,99
+Oceania Cruises,Regatta,3/9/2009,100
+Princess Cruises,Sapphire Princess,3/21/2009,100
+Rederij Clipper Stad Amsterdam,Stad Amsterdam,3/25/2009,91
+Royal Caribbean International,Voyager Of The Seas,3/15/2009,99
+Holland America Line,Zaandam,3/22/2009,99
+Fred Olsen Cruise Line,Balmoral,4/29/2009,99
+Princess Cruises,Caribbean Princess,4/5/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,4/27/2009,95
+"Carnival Cruise Lines, Inc.",Carnival Freedom,4/25/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,4/20/2009,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,4/20/2009,97
+"Carnival Cruise Lines, Inc.",Carnival Triumph,4/19/2009,88
+Celebrity Cruises,Celebrity Century,4/20/2009,96
+Celebrity Cruises,Celebrity Millennium,4/27/2009,95
+Celebrity Cruises,Celebrity Solstice,4/12/2009,100
+Celebrity Cruises,Celebrity Summit,4/4/2009,98
+Club Med Marine,Club Med 2,4/2/2009,82
+Princess Cruises,Crown Princess,4/26/2009,99
+Disney Cruise Lines,Disney Wonder,4/19/2009,99
+Princess Cruises,Emerald Princess,4/9/2009,96
+Holland America Line,Eurodam,4/7/2009,100
+Royal Caribbean International,Explorer Of The Seas,4/8/2009,99
+Princess Cruises,Grand Princess,4/6/2009,98
+Royal Caribbean International,Grandeur Of The Seas,4/18/2009,97
+Princess Cruises,Island Princess,4/23/2009,95
+Royal Caribbean International,Majesty Of The Seas,4/24/2009,98
+Royal Caribbean International,Navigator Of The Seas,4/11/2009,96
+Norwegian Cruise Lines,Norwegian Sun,4/30/2009,100
+Holland America Line,Prinsendam,4/30/2009,95
+Cunard Line,Queen Mary 2,4/14/2009,100
+Royal Caribbean International,Rhapsody Of The Seas,4/28/2009,99
+Princess Cruises,Ruby Princess,4/11/2009,100
+Lindblad Expeditions,Sea Bird,4/28/2009,100
+Seabourn Cruise Line,Seabourn Legend,4/3/2009,97
+Sea Dream Yacht Club,Seadream I,4/3/2009,97
+Sea Dream Yacht Club,Seadream II,4/5/2009,96
+Silversea Cruises Ltd,Silver Cloud,4/4/2009,95
+"Celebration Cruise Line, Ltd",Bahamas Celebration,5/20/2009,92
+"Carnival Cruise Lines, Inc.",Carnival Elation,5/3/2009,99
+Princess Cruises,Coral Princess,5/21/2009,97
+"Crystal Cruises , Inc.",Crystal Serenity,5/23/2009,99
+Princess Cruises,Dawn Princess,5/5/2009,99
+Princess Cruises,Diamond Princess,5/20/2009,100
+Royal Caribbean International,Enchantment Of The Seas,5/2/2009,97
+Holland America Line,Maasdam,5/30/2009,97
+MSC Cruises (Mediterranean Shipping Company),MSC Orchestra,5/5/2009,96
+Norwegian Cruise Lines,Norwegian Pearl,5/7/2009,100
+Norwegian Cruise Lines,Norwegian Spirit,5/29/2009,96
+Royal Caribbean International,Radiance Of The Seas,5/19/2009,99
+Holland America Line,Rotterdam,5/16/2009,98
+Lindblad Expeditions,Sea Lion,5/17/2009,91
+Royal Caribbean International,Serenade Of The Seas,5/5/2009,97
+Holland America Line,Statendam,5/6/2009,89
+Holland America Line,Volendam,5/22/2009,95
+VSP Office Cruise Line,Vspbeta,5/15/2009,100
+Holland America Line,Westerdam,5/24/2009,100
+Holland America Line,Amsterdam,6/24/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/4/2009,96
+"Carnival Cruise Lines, Inc.",Carnival Glory,6/6/2009,99
+"Carnival Cruise Lines, Inc.",Carnival Miracle,6/25/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Splendor,6/14/2009,100
+Princess Cruises,Golden Princess,6/27/2009,97
+Royal Caribbean International,Monarch Of The Seas,6/5/2009,96
+Princess Cruises,Sea Princess,6/13/2009,97
+ResidenSea,The World,6/23/2009,100
+Japan Grace,TSS Oceanic,6/26/2009,73
+VSP Office Cruise Line,Vspbeta,6/13/2009,100
+Holland America Line,Zuiderdam,6/25/2009,98
+"NYK Cruises Co., LTD",Asuka II,7/7/2009,99
+"Carnival Cruise Lines, Inc.",Carnival Conquest,7/19/2009,99
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,7/11/2009,98
+"Carnival Cruise Lines, Inc.",Carnival Pride,7/6/2009,99
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/5/2009,95
+Royal Caribbean International,Freedom Of The Seas,7/26/2009,99
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,7/20/2009,95
+Royal Caribbean International,Liberty of the Seas,7/25/2009,94
+Holland America Line,Ryndam,7/21/2009,99
+Regent Seven Seas,Seven Seas Mariner,7/18/2009,96
+Silversea Cruises Ltd,Silver Shadow,7/8/2009,93
+Princess Cruises,Star Princess,7/22/2009,100
+Royal Caribbean International,Adventure Of The Seas,8/2/2009,98
+"Carnival Cruise Lines, Inc.",Carnival Spirit,8/23/2009,97
+"Carnival Cruise Lines, Inc.",Carnival Victory,8/3/2009,99
+Princess Cruises,Dawn Princess,8/15/2009,99
+Disney Cruise Lines,Disney Magic,8/5/2009,98
+Royal Caribbean International,Mariner Of The Seas,8/9/2009,97
+V. Ships Leisure U.S.A.,MV Explorer,8/22/2009,99
+Norwegian Cruise Lines,Norwegian Sky,8/10/2009,97
+Princess Cruises,Pacific Princess,8/24/2009,98
+Cunard Line,Queen Mary 2,8/23/2009,98
+Princess Cruises,Sapphire Princess,8/25/2009,99
+Holland America Line,Veendam,8/26/2009,93
+Aida Cruises,AIDAaura,9/22/2009,100
+P&O Cruises,Aurora,9/10/2009,100
+"Celebration Cruise Line, Ltd",Bahamas Celebration,9/14/2009,90
+"Carnival Cruise Lines, Inc.",Carnival Paradise,9/25/2009,99
+Celebrity Cruises,Celebrity Constellation,9/20/2009,90
+Celebrity Cruises,Celebrity Infinity,9/4/2009,98
+Celebrity Cruises,Celebrity Millennium,9/15/2009,96
+Costa Crociere S.P.A.,Costa Atlantica,9/26/2009,100
+Princess Cruises,Diamond Princess,9/15/2009,100
+Norwegian Cruise Lines,Norwegian Dawn,9/11/2009,94
+Norwegian Cruise Lines,Norwegian Jewel,9/30/2009,100
+Norwegian Cruise Lines,Norwegian Star,9/26/2009,99
+Cunard Line,Queen Victoria,9/28/2009,100
+Royal Caribbean International,Rhapsody Of The Seas,9/6/2009,98
+"Saga Shipping Company, Ltd",SagaRuby,9/28/2009,90
+Lindblad Expeditions,Sea Lion,9/10/2009,92
+Princess Cruises,Sea Princess,9/15/2009,88
+Holland America Line,Statendam,9/10/2009,93
+Holland America Line,Volendam,9/11/2009,95
+Holland America Line,Zaandam,9/8/2009,95
+Fred Olsen Cruise Line,Balmoral,10/19/2009,92
+"Carnival Cruise Lines, Inc.",Carnival Imagination,10/19/2009,96
+"Carnival Cruise Lines, Inc.",Carnival Legend,10/18/2009,98
+"Carnival Cruise Lines, Inc.",Carnival Liberty,10/3/2009,97
+"Carnival Cruise Lines, Inc.",Carnival Valor,10/1/2009,96
+Princess Cruises,Crown Princess,10/16/2009,100
+"Crystal Cruises , Inc.",Crystal Symphony,10/21/2009,100
+Royal Caribbean International,Explorer Of The Seas,10/24/2009,99
+Blount Small Ship Adventures,Grande Mariner,10/5/2009,92
+Princess Cruises,Island Princess,10/1/2009,99
+Royal Caribbean International,Jewel Of The Seas,10/22/2009,100
+Royal Caribbean International,Majesty Of The Seas,10/2/2009,94
+Norwegian Cruise Lines,Norwegian Spirit,10/23/2009,99
+Norwegian Cruise Lines,Norwegian Sun,10/23/2009,98
+Princess Cruises,Ruby Princess,10/25/2009,98
+Sea Dream Yacht Club,Seadream II,10/25/2009,96
+Silversea Cruises Ltd,Silver Cloud,10/25/2009,96
+Holland America Line,Westerdam,10/18/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,11/16/2009,89
+"Carnival Cruise Lines, Inc.",Carnival Freedom,11/1/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,11/21/2009,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,11/12/2009,95
+Celebrity Cruises,Celebrity Equinox,11/23/2009,100
+Peter Deilmann Cruises,Deutschland,11/24/2009,84
+Disney Cruise Lines,Disney Wonder,11/22/2009,98
+Princess Cruises,Emerald Princess,11/5/2009,100
+Royal Caribbean International,Enchantment Of The Seas,11/5/2009,95
+Holland America Line,Eurodam,11/14/2009,100
+Royal Caribbean International,Grandeur Of The Seas,11/8/2009,97
+Holland America Line,Maasdam,11/6/2009,97
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,11/7/2009,96
+Royal Caribbean International,Navigator Of The Seas,11/30/2009,99
+Holland America Line,Oosterdam,11/21/2009,97
+Oceania Cruises,Regatta,11/28/2009,99
+Seabourn Cruise Line,Seabourn Legend,11/23/2009,95
+Seabourn Cruise Line,Seabourn Spirit,11/27/2009,94
+Sea Dream Yacht Club,Seadream I,11/7/2009,96
+Princess Cruises,Star Princess,11/22/2009,98
+P&O Cruises,Ventura,11/4/2009,100
+"Carnival Cruise Lines, Inc.",Carnival Elation,12/22/2009,99
+"Carnival Cruise Lines, Inc.",Carnival Fascination,12/3/2009,99
+Celebrity Cruises,Celebrity Century,12/17/2009,98
+Celebrity Cruises,Celebrity Constellation,12/31/2009,94
+Celebrity Cruises,Celebrity Solstice,12/29/2009,100
+Celebrity Cruises,Celebrity Summit,12/20/2009,98
+Club Med Marine,Club Med 2,12/22/2009,92
+Princess Cruises,Coral Princess,12/22/2009,98
+Costa Crociere S.P.A.,Costa Fortuna,12/30/2009,99
+"Crystal Cruises , Inc.",Crystal Serenity,12/21/2009,99
+Peter Deilmann Cruises,Deutschland,12/17/2009,95
+Princess Cruises,Grand Princess,12/21/2009,94
+Royal Caribbean International,Independence of the Seas,12/12/2009,99
+Royal Caribbean International,Monarch Of The Seas,12/4/2009,96
+Holland America Line,Noordam,12/11/2009,97
+Norwegian Cruise Lines,Norwegian Pearl,12/5/2009,100
+P&O Cruises,Oceana,12/18/2009,96
+Royal Caribbean International,Radiance Of The Seas,12/21/2009,99
+Royal Caribbean International,Serenade Of The Seas,12/19/2009,99
+Regent Seven Seas,Seven Seas Navigator,12/28/2009,99
+Regent Seven Seas,Seven Seas Voyager,12/21/2009,91
+Royal Caribbean International,Voyager Of The Seas,12/20/2009,98
+Holland America Line,Zuiderdam,12/13/2009,95
+Royal Caribbean International,Adventure Of The Seas,1/24/2010,98
+Holland America Line,Amsterdam,1/6/2010,99
+Azamara Cruises,Azamara Journey,1/3/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Conquest,1/17/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,1/21/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,1/3/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Miracle,1/7/2010,93
+"Carnival Cruise Lines, Inc.",Carnival Spirit,1/30/2010,95
+Costa Crociere S.P.A.,Costa Atlantica,1/9/2010,96
+Princess Cruises,Golden Princess,1/31/2010,99
+Royal Caribbean International,Liberty of the Seas,1/24/2010,98
+V. Ships Leisure U.S.A.,MV Explorer,1/27/2010,97
+Norwegian Cruise Lines,Norwegian Gem,1/3/2010,99
+Royal Caribbean International,Oasis Of The Seas,1/23/2010,97
+Princess Cruises,Pacific Princess,1/27/2010,95
+Holland America Line,Prinsendam,1/13/2010,97
+Cunard Line,Queen Mary 2,1/4/2010,97
+Cunard Line,Queen Victoria,1/15/2010,100
+Holland America Line,Rotterdam,1/4/2010,92
+Holland America Line,Ryndam,1/17/2010,91
+Seabourn Cruise Line,Seabourn Odyssey,1/28/2010,99
+Regent Seven Seas,Seven Seas Mariner,1/4/2010,100
+Silversea Cruises Ltd,Silver Shadow,1/22/2010,99
+Silversea Cruises Ltd,Silver Spirit,1/21/2010,96
+Phoenix Reissen Cruise Line,Albatross,2/8/2010,69
+P&O Cruises,Arcadia,2/10/2010,95
+"Celebration Cruise Line, Ltd",Bahamas Celebration,2/24/2010,88
+Fred Olsen Cruise Line,Balmoral,2/4/2010,90
+"Carnival Cruise Lines, Inc.",Carnival Dream,2/20/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Pride,2/10/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/11/2010,97
+"Carnival Cruise Lines, Inc.",Carnival Splendor,2/7/2010,100
+Celebrity Cruises,Celebrity Millennium,2/2/2010,95
+"Crystal Cruises , Inc.",Crystal Symphony,2/14/2010,99
+Disney Cruise Lines,Disney Magic,2/17/2010,99
+Royal Caribbean International,Freedom Of The Seas,2/21/2010,97
+Norwegian Cruise Lines,Norwegian Sky,2/26/2010,96
+Princess Cruises,Sapphire Princess,2/6/2010,100
+Princess Cruises,Sea Princess,2/16/2010,98
+Holland America Line,Zaandam,2/5/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Paradise,3/5/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Valor,3/14/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Victory,3/22/2010,100
+Celebrity Cruises,Celebrity Equinox,3/19/2010,100
+Celebrity Cruises,Celebrity Infinity,3/28/2010,99
+Club Med Marine,Club Med 2,3/29/2010,96
+Costa Crociere S.P.A.,Costa Fortuna,3/24/2010,93
+Princess Cruises,Crown Princess,3/27/2010,97
+Holland America Line,Eurodam,3/30/2010,98
+Princess Cruises,Island Princess,3/10/2010,98
+Royal Caribbean International,Mariner Of The Seas,3/7/2010,100
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,3/20/2010,100
+Royal Caribbean International,Navigator Of The Seas,3/18/2010,96
+Norwegian Cruise Lines,Norwegian Jewel,3/21/2010,100
+Norwegian Cruise Lines,Norwegian Star,3/6/2010,99
+P&O Cruises,Oriana,3/3/2010,97
+Oceania Cruises,Regatta,3/9/2010,100
+Princess Cruises,Ruby Princess,3/23/2010,99
+Seabourn Cruise Line,Seabourn Legend,3/25/2010,96
+Seabourn Cruise Line,Seabourn Spirit,3/19/2010,99
+Sea Dream Yacht Club,Seadream I,3/28/2010,98
+Sea Dream Yacht Club,Seadream II,3/21/2010,98
+Silversea Cruises Ltd,Silver Cloud,3/1/2010,98
+Holland America Line,Statendam,3/8/2010,96
+Holland America Line,Westerdam,3/7/2010,99
+Azamara Cruises,Azamara Journey,4/1/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,4/15/2010,95
+"Carnival Cruise Lines, Inc.",Carnival Imagination,4/2/2010,90
+"Carnival Cruise Lines, Inc.",Carnival Legend,4/18/2010,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,4/1/2010,97
+Celebrity Cruises,Celebrity Constellation,4/11/2010,98
+Princess Cruises,Emerald Princess,4/4/2010,100
+Princess Cruises,Grand Princess,4/9/2010,98
+Royal Caribbean International,Independence of the Seas,4/3/2010,95
+Norwegian Cruise Lines,Norwegian Dawn,4/4/2010,100
+Norwegian Cruise Lines,Norwegian Spirit,4/4/2010,99
+Norwegian Cruise Lines,Norwegian Sun,4/26/2010,100
+Lindblad Expeditions,Sea Lion,4/27/2010,96
+Silversea Cruises Ltd,Silver Spirit,4/19/2010,98
+Princess Cruises,Star Princess,4/5/2010,98
+Royal Caribbean International,Voyager Of The Seas,4/11/2010,98
+Royal Caribbean International,Adventure Of The Seas,5/2/2010,98
+Princess Cruises,Caribbean Princess,5/3/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Freedom,5/22/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,5/17/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Liberty,5/4/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Spirit,5/22/2010,97
+"Carnival Cruise Lines, Inc.",Carnival Triumph,5/14/2010,92
+Celebrity Cruises,Celebrity Century,5/10/2010,96
+Costa Crociere S.P.A.,Costa Atlantica,5/9/2010,99
+Princess Cruises,Diamond Princess,5/25/2010,100
+Disney Cruise Lines,Disney Wonder,5/16/2010,95
+Royal Caribbean International,Explorer Of The Seas,5/13/2010,99
+Royal Caribbean International,Grandeur Of The Seas,5/17/2010,98
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,5/15/2010,92
+Royal Caribbean International,Jewel Of The Seas,5/14/2010,100
+Royal Caribbean International,Majesty Of The Seas,5/28/2010,95
+Holland America Line,Noordam,5/5/2010,100
+Holland America Line,Prinsendam,5/14/2010,96
+Lindblad Expeditions,Sea Bird,5/23/2010,98
+Royal Caribbean International,Serenade Of The Seas,5/1/2010,98
+Regent Seven Seas,Seven Seas Voyager,5/15/2010,97
+Holland America Line,Veendam,5/16/2010,96
+Holland America Line,Volendam,5/21/2010,98
+"NYK Cruises Co., LTD",Asuka II,6/4/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,6/6/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Miracle,6/8/2010,99
+Celebrity Cruises,Celebrity Summit,6/20/2010,87
+Royal Caribbean International,Enchantment Of The Seas,6/18/2010,95
+Blount Small Ship Adventures,Grande Mariner,6/22/2010,90
+Holland America Line,Maasdam,6/5/2010,95
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,6/12/2010,97
+Norwegian Cruise Lines,Norwegian Pearl,6/15/2010,100
+Royal Caribbean International,Oasis Of The Seas,6/26/2010,100
+Holland America Line,Oosterdam,6/16/2010,100
+Royal Caribbean International,Radiance Of The Seas,6/13/2010,100
+Royal Caribbean International,Rhapsody Of The Seas,6/11/2010,99
+Holland America Line,Rotterdam,6/19/2010,99
+Holland America Line,Ryndam,6/17/2010,98
+Regent Seven Seas,Seven Seas Navigator,6/12/2010,94
+Holland America Line,Zuiderdam,6/14/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Dream,7/17/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,7/29/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/31/2010,97
+"Carnival Cruise Lines, Inc.",Carnival Fascination,7/19/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Paradise,7/2/2010,95
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/18/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Splendor,7/4/2010,99
+Celebrity Cruises,Celebrity Solstice,7/11/2010,100
+Princess Cruises,Coral Princess,7/9/2010,97
+Princess Cruises,Dawn Princess,7/25/2010,99
+Princess Cruises,Golden Princess,7/17/2010,99
+Royal Caribbean International,Monarch Of The Seas,7/16/2010,96
+Norwegian Cruise Lines,Norwegian Jewel,7/24/2010,98
+Princess Cruises,Ocean Princess,7/13/2010,100
+"Japan Cruise Line, Inc",Pacific Venus,7/1/2010,93
+Cunard Line,Queen Mary 2,7/19/2010,98
+Silversea Cruises Ltd,Silver Discoverer,7/2/2010,87
+Holland America Line,Amsterdam,8/20/2010,96
+"Celebration Cruise Line, Ltd",Bahamas Celebration,8/10/2010,96
+"Carnival Cruise Lines, Inc.",Carnival Conquest,8/29/2010,97
+"Carnival Cruise Lines, Inc.",Carnival Pride,8/22/2010,98
+Celebrity Cruises,Celebrity Infinity,8/6/2010,99
+Royal Caribbean International,Freedom Of The Seas,8/8/2010,99
+Royal Caribbean International,Liberty of the Seas,8/15/2010,97
+V. Ships Leisure U.S.A.,MV Explorer,8/21/2010,100
+Norwegian Cruise Lines,Norwegian Epic,8/18/2010,100
+Norwegian Cruise Lines,Norwegian Sky,8/23/2010,99
+Princess Cruises,Sapphire Princess,8/3/2010,100
+Lindblad Expeditions,Sea Lion,8/21/2010,93
+Princess Cruises,Sea Princess,8/4/2010,98
+Silversea Cruises Ltd,Silver Shadow,8/18/2010,96
+Holland America Line,Statendam,8/19/2010,97
+Holland America Line,Zaandam,8/1/2010,99
+"Carnival Cruise Lines, Inc.",Carnival Triumph,9/2/2010,93
+Celebrity Cruises,Celebrity Millennium,9/12/2010,99
+Princess Cruises,Diamond Princess,9/14/2010,100
+Royal Caribbean International,Mariner Of The Seas,9/26/2010,96
+Norwegian Cruise Lines,Norwegian Star,9/15/2010,99
+Royal Caribbean International,Rhapsody Of The Seas,9/28/2010,97
+Lindblad Expeditions,Sea Bird,9/16/2010,98
+Silversea Cruises Ltd,Silver Whisper,9/17/2010,97
+Holland America Line,Veendam,9/19/2010,91
+VSP Office Cruise Line,Vspbeta,9/30/2010,88
+Aida Cruises,AIDAluna,10/3/2010,95
+Phoenix Reissen Cruise Line,Amadea,10/12/2010,91
+P&O Cruises,Aurora,10/26/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,10/25/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Liberty,10/2/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,10/18/2010,94
+"Carnival Cruise Lines, Inc.",Carnival Valor,10/3/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Victory,10/25/2010,100
+Costa Crociere S.P.A.,Costa Atlantica,10/12/2010,100
+Princess Cruises,Crown Princess,10/7/2010,96
+Disney Cruise Lines,Disney Magic,10/23/2010,99
+Disney Cruise Lines,Disney Wonder,10/31/2010,99
+Holland America Line,Eurodam,10/16/2010,97
+Princess Cruises,Grand Princess,10/25/2010,99
+Royal Caribbean International,Grandeur Of The Seas,10/9/2010,97
+Princess Cruises,Island Princess,10/21/2010,92
+Royal Caribbean International,Jewel Of The Seas,10/11/2010,100
+Norwegian Cruise Lines,Norwegian Spirit,10/10/2010,100
+Norwegian Cruise Lines,Norwegian Sun,10/30/2010,99
+P&O Cruises,Oriana,10/13/2010,100
+Princess Cruises,Ruby Princess,10/28/2010,100
+Holland America Line,Ryndam,10/10/2010,93
+Sea Dream Yacht Club,Seadream I,10/27/2010,94
+ResidenSea,The World,10/8/2010,100
+P&O Cruises,Arcadia,11/14/2010,97
+"Carnival Cruise Lines, Inc.",Carnival Freedom,11/9/2010,90
+"Carnival Cruise Lines, Inc.",Carnival Imagination,11/5/2010,89
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,11/20/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Legend,11/21/2010,94
+"Carnival Cruise Lines, Inc.",Carnival Spirit,11/4/2010,95
+Celebrity Cruises,Celebrity Constellation,11/26/2010,97
+Celebrity Cruises,Celebrity Eclipse,11/17/2010,100
+Celebrity Cruises,Celebrity Solstice,11/28/2010,97
+Royal Caribbean International,Explorer Of The Seas,11/19/2010,95
+Royal Caribbean International,Majesty Of The Seas,11/12/2010,97
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,11/11/2010,95
+Holland America Line,Nieuw Amsterdam,11/10/2010,95
+Norwegian Cruise Lines,Norwegian Gem,11/22/2010,100
+Norwegian Cruise Lines,Norwegian Pearl,11/21/2010,99
+Sea Dream Yacht Club,Seadream II,11/28/2010,97
+Royal Caribbean International,Serenade Of The Seas,11/7/2010,91
+Silversea Cruises Ltd,Silver Spirit,11/26/2010,95
+Holland America Line,Zuiderdam,11/13/2010,96
+Royal Caribbean International,Adventure Of The Seas,12/26/2010,96
+Royal Caribbean International,Allure of the Seas,12/29/2010,99
+Azamara Cruises,Azamara Journey,12/23/2010,99
+P&O Cruises,Azura,12/19/2010,97
+Princess Cruises,Caribbean Princess,12/5/2010,98
+"Carnival Cruise Lines, Inc.",Carnival Dream,12/18/2010,100
+"Carnival Cruise Lines, Inc.",Carnival Paradise,12/10/2010,98
+Celebrity Cruises,Celebrity Infinity,12/5/2010,96
+Celebrity Cruises,Celebrity Summit,12/4/2010,90
+"Crystal Cruises , Inc.",Crystal Serenity,12/11/2010,97
+Princess Cruises,Emerald Princess,12/8/2010,99
+Royal Caribbean International,Enchantment Of The Seas,12/20/2010,98
+Holland America Line,Maasdam,12/6/2010,99
+V. Ships Leisure U.S.A.,MV Explorer,12/13/2010,100
+Royal Caribbean International,Navigator Of The Seas,12/3/2010,99
+Holland America Line,Oosterdam,12/11/2010,99
+Holland America Line,Prinsendam,12/22/2010,98
+"Saga Shipping Company, Ltd",SagaRuby,12/22/2010,93
+Regent Seven Seas,Seven Seas Voyager,12/10/2010,91
+Holland America Line,Westerdam,12/3/2010,100
+Holland America Line,Amsterdam,1/5/2011,100
+P&O Cruises,Arcadia,1/24/2011,87
+"Celebration Cruise Line, Ltd",Bahamas Celebration,1/17/2011,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,1/30/2011,87
+"Carnival Cruise Lines, Inc.",Carnival Miracle,1/6/2011,97
+Celebrity Cruises,Celebrity Century,1/3/2011,100
+Club Med Marine,Club Med 2,1/27/2011,95
+Princess Cruises,Coral Princess,1/24/2011,99
+Peter Deilmann Cruises,Deutschland,1/6/2011,93
+Royal Caribbean International,Freedom Of The Seas,1/16/2011,100
+Princess Cruises,Golden Princess,1/5/2011,99
+Royal Caribbean International,Monarch Of The Seas,1/17/2011,98
+Norwegian Cruise Lines,Norwegian Epic,1/29/2011,89
+Princess Cruises,Pacific Princess,1/19/2011,99
+Oceania Cruises,Regatta,1/12/2011,94
+Holland America Line,Rotterdam,1/3/2011,99
+Seabourn Cruise Line,Seabourn Sojourn,1/4/2011,97
+Regent Seven Seas,Seven Seas Mariner,1/11/2011,99
+Holland America Line,Statendam,1/7/2011,98
+P&O Cruises,Ventura,1/4/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,2/24/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Elation,2/3/2011,95
+"Carnival Cruise Lines, Inc.",Carnival Fascination,2/28/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Pride,2/16/2011,96
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/17/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Triumph,2/5/2011,96
+"Crystal Cruises , Inc.",Crystal Symphony,2/23/2011,99
+Disney Cruise Lines,Disney Dream,2/27/2011,100
+Blount Small Ship Adventures,Grande Mariner,2/24/2011,86
+Royal Caribbean International,Liberty of the Seas,2/13/2011,99
+Holland America Line,Noordam,2/16/2011,96
+Norwegian Cruise Lines,Norwegian Dawn,2/25/2011,100
+Norwegian Cruise Lines,Norwegian Jewel,2/15/2011,100
+Norwegian Cruise Lines,Norwegian Sky,2/14/2011,99
+Norwegian Cruise Lines,Norwegian Star,2/5/2011,94
+Cunard Line,Queen Victoria,2/6/2011,98
+Princess Cruises,Sapphire Princess,2/4/2011,95
+Seabourn Cruise Line,Seabourn Legend,2/25/2011,95
+Regent Seven Seas,Seven Seas Navigator,2/3/2011,94
+Silversea Cruises Ltd,Silver Cloud,2/17/2011,99
+Silversea Cruises Ltd,Silver Whisper,2/23/2011,99
+Holland America Line,Zaandam,2/6/2011,97
+P&O Cruises,Aurora,3/24/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Victory,3/6/2011,87
+Celebrity Cruises,Celebrity Eclipse,3/12/2011,97
+Celebrity Cruises,Celebrity Millennium,3/7/2011,98
+Costa Crociere S.P.A.,Costa Atlantica,3/25/2011,100
+Disney Cruise Lines,Disney Magic,3/12/2011,90
+Holland America Line,Eurodam,3/8/2011,96
+Princess Cruises,Island Princess,3/30/2011,97
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,3/9/2011,93
+Holland America Line,Nieuw Amsterdam,3/20/2011,98
+Norwegian Cruise Lines,Norwegian Sun,3/5/2011,99
+Oceania Cruises,Oceania Marina,3/28/2011,92
+Princess Cruises,Ruby Princess,3/10/2011,94
+Holland America Line,Ryndam,3/6/2011,96
+Seabourn Cruise Line,Seabourn Odyssey,3/18/2011,94
+Sea Dream Yacht Club,Seadream I,3/6/2011,87
+Princess Cruises,Star Princess,3/24/2011,100
+Phoenix Reissen Cruise Line,Amadea,4/20/2011,93
+Azamara Cruises,Azamara Journey,4/4/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Liberty,4/16/2011,92
+"Carnival Cruise Lines, Inc.",Carnival Spirit,4/27/2011,96
+"Carnival Cruise Lines, Inc.",Carnival Splendor,4/3/2011,100
+Celebrity Cruises,Celebrity Constellation,4/9/2011,96
+Celebrity Cruises,Celebrity Equinox,4/11/2011,100
+Celebrity Cruises,Celebrity Solstice,4/6/2011,99
+Princess Cruises,Crown Princess,4/16/2011,99
+Princess Cruises,Emerald Princess,4/7/2011,98
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,4/5/2011,98
+Princess Cruises,Grand Princess,4/11/2011,98
+Blount Small Ship Adventures,Grande Caribe,4/22/2011,96
+Compagnie Du Ponant SA,Le Boreal,4/5/2011,94
+Classic International Cruises,MV Princess Danae,4/3/2011,90
+Royal Caribbean International,Navigator Of The Seas,4/14/2011,99
+Royal Caribbean International,Radiance Of The Seas,4/16/2011,98
+Royal Caribbean International,Rhapsody Of The Seas,4/29/2011,96
+"Saga Shipping Company, Ltd",SagaRuby,4/1/2011,86
+Sea Dream Yacht Club,Seadream II,4/8/2011,99
+Rederij Clipper Stad Amsterdam,Stad Amsterdam,4/22/2011,93
+ResidenSea,The World,4/8/2011,100
+Royal Caribbean International,Voyager Of The Seas,4/17/2011,96
+VSP Office Cruise Line,Vspbeta,4/26/2011,100
+VSP Office Cruise Line,Vspbeta,4/18/2011,97
+Holland America Line,Westerdam,4/8/2011,97
+"Carnival Cruise Lines, Inc.",Carnival Legend,5/8/2011,95
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,5/26/2011,92
+"Carnival Cruise Lines, Inc.",Carnival Valor,5/8/2011,98
+Celebrity Cruises,Celebrity Infinity,5/20/2011,99
+Princess Cruises,Diamond Princess,5/25/2011,97
+Disney Cruise Lines,Disney Wonder,5/21/2011,96
+Royal Caribbean International,Enchantment Of The Seas,5/14/2011,96
+Princess Cruises,Golden Princess,5/21/2011,97
+Holland America Line,Maasdam,5/14/2011,97
+Norwegian Cruise Lines,Norwegian Epic,5/7/2011,98
+Norwegian Cruise Lines,Norwegian Spirit,5/15/2011,97
+Royal Caribbean International,Oasis Of The Seas,5/28/2011,100
+Holland America Line,Prinsendam,5/17/2011,97
+Un-Cruise Adventures,Safari Quest,5/20/2011,100
+Lindblad Expeditions,Sea Bird,5/22/2011,100
+Lindblad Expeditions,Sea Lion,5/21/2011,99
+Princess Cruises,Sea Princess,5/24/2011,99
+Holland America Line,Veendam,5/15/2011,96
+Holland America Line,Volendam,5/20/2011,99
+Holland America Line,Zuiderdam,5/23/2011,99
+"NYK Cruises Co., LTD",Asuka II,6/28/2011,96
+"Carnival Cruise Lines, Inc.",Carnival Conquest,6/15/2011,90
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,6/7/2011,95
+"Carnival Cruise Lines, Inc.",Carnival Glory,6/27/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Imagination,6/20/2011,91
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,6/18/2011,95
+"Carnival Cruise Lines, Inc.",Carnival Miracle,6/7/2011,97
+"Carnival Cruise Lines, Inc.",Carnival Paradise,6/27/2011,100
+Celebrity Cruises,Celebrity Century,6/16/2011,99
+Celebrity Cruises,Celebrity Summit,6/5/2011,96
+Royal Caribbean International,Explorer Of The Seas,6/9/2011,94
+Royal Caribbean International,Freedom Of The Seas,6/19/2011,97
+Royal Caribbean International,Majesty Of The Seas,6/17/2011,99
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,6/8/2011,97
+Norwegian Cruise Lines,Norwegian Gem,6/26/2011,97
+Norwegian Cruise Lines,Norwegian Pearl,6/14/2011,97
+Holland America Line,Oosterdam,6/15/2011,98
+Cunard Line,Queen Mary 2,6/10/2011,84
+Royal Caribbean International,Serenade Of The Seas,6/5/2011,95
+Silversea Cruises Ltd,Silver Shadow,6/13/2011,98
+Royal Caribbean International,Allure of the Seas,7/24/2011,100
+Holland America Line,Amsterdam,7/12/2011,95
+"Celebration Cruise Line, Ltd",Bahamas Celebration,7/20/2011,95
+"Carnival Cruise Lines, Inc.",Carnival Dream,7/9/2011,94
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/21/2011,94
+"Carnival Cruise Lines, Inc.",Carnival Freedom,7/16/2011,100
+Princess Cruises,Coral Princess,7/13/2011,98
+Disney Cruise Lines,Disney Dream,7/10/2011,100
+Royal Caribbean International,Monarch Of The Seas,7/8/2011,97
+Norwegian Cruise Lines,Norwegian Sky,7/11/2011,99
+Cunard Line,Queen Mary 2,7/27/2011,92
+Oceania Cruises,Regatta,7/15/2011,93
+Holland America Line,Rotterdam,7/12/2011,91
+Princess Cruises,Sapphire Princess,7/10/2011,95
+Regent Seven Seas,Seven Seas Navigator,7/27/2011,97
+Holland America Line,Statendam,7/14/2011,98
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,8/2/2011,100
+Princess Cruises,Caribbean Princess,8/6/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,8/11/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Fascination,8/20/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Pride,8/21/2011,96
+"Carnival Cruise Lines, Inc.",Carnival Sensation,8/21/2011,97
+"Carnival Cruise Lines, Inc.",Carnival Triumph,8/11/2011,94
+Celebrity Cruises,Celebrity Millennium,8/21/2011,99
+"Crystal Cruises , Inc.",Crystal Symphony,8/13/2011,99
+V. Ships Leisure U.S.A.,MV Explorer,8/20/2011,100
+Norwegian Cruise Lines,Norwegian Dawn,8/19/2011,95
+Norwegian Cruise Lines,Norwegian Jewel,8/22/2011,100
+Norwegian Cruise Lines,Norwegian Star,8/20/2011,99
+Princess Cruises,Ocean Princess,8/7/2011,95
+Royal Caribbean International,Radiance Of The Seas,8/23/2011,96
+Holland America Line,Zaandam,8/24/2011,96
+Aida Cruises,AIDAaura,9/15/2011,99
+Aida Cruises,AIDAluna,9/17/2011,98
+America Cruise Ferries,Caribbean Fantasy,9/28/2011,86
+"Carnival Cruise Lines, Inc.",Carnival Conquest,9/18/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Splendor,9/11/2011,100
+Princess Cruises,Diamond Princess,9/6/2011,100
+Royal Caribbean International,Jewel Of The Seas,9/25/2011,94
+Compagnie Du Ponant SA,Le Boreal,9/16/2011,95
+Cunard Line,Queen Elizabeth,9/21/2011,100
+Royal Caribbean International,Rhapsody Of The Seas,9/5/2011,99
+Lindblad Expeditions,Sea Bird,9/8/2011,100
+Princess Cruises,Sea Princess,9/10/2011,95
+Seabourn Cruise Line,Seabourn Sojourn,9/28/2011,100
+Silversea Cruises Ltd,Silver Shadow,9/4/2011,97
+Silversea Cruises Ltd,Silver Whisper,9/20/2011,94
+Holland America Line,Veendam,9/18/2011,98
+Holland America Line,Volendam,9/10/2011,97
+Azamara Cruises,Azamara Journey,10/25/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,10/8/2011,88
+"Carnival Cruise Lines, Inc.",Carnival Legend,10/9/2011,97
+"Carnival Cruise Lines, Inc.",Carnival Liberty,10/1/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Miracle,10/5/2011,93
+"Carnival Cruise Lines, Inc.",Carnival Paradise,10/14/2011,91
+"Carnival Cruise Lines, Inc.",Carnival Spirit,10/16/2011,97
+"Carnival Cruise Lines, Inc.",Carnival Victory,10/24/2011,97
+Celebrity Cruises,Celebrity Century,10/17/2011,97
+Holland America Line,Eurodam,10/3/2011,100
+Princess Cruises,Golden Princess,10/12/2011,98
+Holland America Line,Maasdam,10/28/2011,98
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,10/8/2011,95
+Norwegian Cruise Lines,Norwegian Gem,10/9/2011,100
+Norwegian Cruise Lines,Norwegian Pearl,10/23/2011,100
+Norwegian Cruise Lines,Norwegian Spirit,10/18/2011,92
+P&O Cruises,Oriana,10/15/2011,95
+Oceania Cruises,Regatta,10/4/2011,95
+Royal Caribbean International,Serenade Of The Seas,10/23/2011,96
+Royal Caribbean International,Adventure Of The Seas,11/19/2011,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,11/1/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Magic,11/13/2011,100
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,11/10/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Valor,11/6/2011,98
+Celebrity Cruises,Celebrity Eclipse,11/21/2011,92
+Club Med Marine,Club Med 2,11/14/2011,92
+Princess Cruises,Crown Princess,11/19/2011,100
+Princess Cruises,Emerald Princess,11/11/2011,89
+Princess Cruises,Grand Princess,11/26/2011,98
+Royal Caribbean International,Monarch Of The Seas,11/18/2011,85
+V. Ships Leisure U.S.A.,MV Explorer,11/24/2011,96
+Royal Caribbean International,Navigator Of The Seas,11/20/2011,96
+Norwegian Cruise Lines,Norwegian Epic,11/5/2011,97
+Norwegian Cruise Lines,Norwegian Sky,11/18/2011,100
+Norwegian Cruise Lines,Norwegian Sun,11/19/2011,98
+Cunard Line,Queen Mary 2,11/17/2011,100
+Princess Cruises,Ruby Princess,11/10/2011,100
+Princess Cruises,Sapphire Princess,11/26/2011,98
+Holland America Line,Westerdam,11/27/2011,99
+Holland America Line,Zaandam,11/7/2011,93
+Holland America Line,Amsterdam,12/5/2011,99
+"Carnival Cruise Lines, Inc.",Carnival Fascination,12/19/2011,99
+Celebrity Cruises,Celebrity Constellation,12/3/2011,100
+Celebrity Cruises,Celebrity Equinox,12/12/2011,99
+Celebrity Cruises,Celebrity Silhouette,12/18/2011,100
+Costa Crociere S.P.A.,Costa Atlantica,12/29/2011,100
+Disney Cruise Lines,Disney Dream,12/18/2011,100
+Disney Cruise Lines,Disney Wonder,12/4/2011,99
+Hapag Lloyd Kreuzfahrten Gmbh,Europa,12/8/2011,98
+Royal Caribbean International,Explorer Of The Seas,12/7/2011,96
+Royal Caribbean International,Freedom Of The Seas,12/30/2011,99
+Princess Cruises,Island Princess,12/9/2011,98
+Royal Caribbean International,Majesty Of The Seas,12/2/2011,97
+Holland America Line,Nieuw Amsterdam,12/4/2011,100
+Norwegian Cruise Lines,Norwegian Jewel,12/19/2011,98
+Holland America Line,Oosterdam,12/3/2011,100
+Holland America Line,Prinsendam,12/21/2011,89
+Holland America Line,Rotterdam,12/21/2011,99
+Holland America Line,Ryndam,12/4/2011,99
+Seabourn Cruise Line,Seabourn Spirit,12/9/2011,96
+Sea Dream Yacht Club,Seadream I,12/17/2011,95
+Regent Seven Seas,Seven Seas Mariner,12/4/2011,96
+Silversea Cruises Ltd,Silver Cloud,12/22/2011,98
+Silversea Cruises Ltd,Silver Spirit,12/2/2011,100
+Royal Caribbean International,Voyager Of The Seas,12/10/2011,97
+Holland America Line,Zuiderdam,12/5/2011,99
+Aida Cruises,AIDAaura,1/9/2012,90
+Fred Olsen Cruise Line,Balmoral,1/23/2012,90
+Princess Cruises,Caribbean Princess,1/22/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Conquest,1/22/2012,92
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,1/30/2012,89
+"Carnival Cruise Lines, Inc.",Carnival Elation,1/28/2012,99
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,1/30/2012,99
+"Carnival Cruise Lines, Inc.",Carnival Imagination,1/10/2012,94
+"Carnival Cruise Lines, Inc.",Carnival Pride,1/29/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Splendor,1/22/2012,98
+Celebrity Cruises,Celebrity Millennium,1/14/2012,98
+Princess Cruises,Coral Princess,1/17/2012,98
+"Crystal Cruises , Inc.",Crystal Serenity,1/18/2012,97
+"Crystal Cruises , Inc.",Crystal Symphony,1/20/2012,100
+Disney Cruise Lines,Disney Magic,1/8/2012,99
+Royal Caribbean International,Liberty of the Seas,1/7/2012,98
+Royal Caribbean International,Mariner Of The Seas,1/29/2012,100
+Royal Caribbean International,Monarch Of The Seas,1/6/2012,96
+Norwegian Cruise Lines,Norwegian Dawn,1/4/2012,97
+Norwegian Cruise Lines,Norwegian Star,1/29/2012,98
+P&O Cruises,Oceana,1/31/2012,95
+Oceania Cruises,Oceania Marina,1/13/2012,96
+Cunard Line,Queen Victoria,1/4/2012,98
+Seabourn Cruise Line,Seabourn Odyssey,1/5/2012,96
+Seabourn Cruise Line,Seabourn Quest,1/5/2012,97
+Sea Dream Yacht Club,Seadream II,1/21/2012,100
+Silversea Cruises Ltd,Silver Whisper,1/6/2012,91
+Royal Caribbean International,Allure of the Seas,2/5/2012,95
+Phoenix Reissen Cruise Line,Artania,2/25/2012,94
+P&O Cruises,Aurora,2/1/2012,100
+"Celebration Cruise Line, Ltd",Bahamas Celebration,2/21/2012,93
+America Cruise Ferries,Caribbean Fantasy,2/27/2012,86
+"Carnival Cruise Lines, Inc.",Carnival Dream,2/28/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Freedom,2/25/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/19/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Spirit,2/17/2012,97
+"Carnival Cruise Lines, Inc.",Carnival Valor,2/27/2012,95
+Celebrity Cruises,Celebrity Solstice,2/26/2012,95
+Celebrity Cruises,Celebrity Summit,2/24/2012,97
+Costa Crociere S.P.A.,Costa Deliziosa,2/2/2012,100
+Holland America Line,Noordam,2/13/2012,99
+Royal Caribbean International,Oasis Of The Seas,2/11/2012,100
+Princess Cruises,Ocean Princess,2/15/2012,96
+Princess Cruises,Pacific Princess,2/3/2012,95
+Seabourn Cruise Line,Seabourn Sojourn,2/23/2012,98
+Regent Seven Seas,Seven Seas Navigator,2/28/2012,95
+Holland America Line,Statendam,2/3/2012,100
+P&O Cruises,Adonia,3/22/2012,96
+Royal Caribbean International,Adventure Of The Seas,3/19/2012,99
+Azamara Cruises,Azamara Journey,3/18/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Magic,3/4/2012,97
+"Carnival Cruise Lines, Inc.",Carnival Miracle,3/1/2012,97
+"Carnival Cruise Lines, Inc.",Carnival Triumph,3/3/2012,98
+"Carnival Cruise Lines, Inc.",Carnival Victory,3/4/2012,96
+Celebrity Cruises,Celebrity Eclipse,3/3/2012,96
+Celebrity Cruises,Celebrity Equinox,3/16/2012,97
+Celebrity Cruises,Celebrity Infinity,3/26/2012,96
+Club Med Marine,Club Med 2,3/5/2012,91
+Costa Crociere S.P.A.,Costa Atlantica,3/8/2012,100
+Holland America Line,Eurodam,3/6/2012,100
+Princess Cruises,Grand Princess,3/31/2012,99
+Blount Small Ship Adventures,Grande Caribe,3/23/2012,91
+Holland America Line,Maasdam,3/12/2012,95
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,3/7/2012,94
+Royal Caribbean International,Navigator Of The Seas,3/20/2012,98
+Holland America Line,Nieuw Amsterdam,3/25/2012,100
+Norwegian Cruise Lines,Norwegian Epic,3/21/2012,92
+Norwegian Cruise Lines,Norwegian Spirit,3/25/2012,97
+Oceania Cruises,Oceania Marina,3/16/2012,100
+Princess Cruises,Ruby Princess,3/22/2012,97
+Seabourn Cruise Line,Seabourn Spirit,3/2/2012,93
+Sea Dream Yacht Club,Seadream I,3/3/2012,92
+Sea Dream Yacht Club,Seadream II,3/31/2012,99
+Royal Caribbean International,Serenade Of The Seas,3/17/2012,100
+Regent Seven Seas,Seven Seas Mariner,3/18/2012,97
+Silversea Cruises Ltd,Silver Cloud,3/7/2012,98
+Silversea Cruises Ltd,Silver Spirit,3/23/2012,97
+Royal Caribbean International,Voyager Of The Seas,3/24/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,4/24/2012,96
+Celebrity Cruises,Celebrity Constellation,4/7/2012,99
+Celebrity Cruises,Celebrity Silhouette,4/14/2012,97
+Princess Cruises,Crown Princess,4/21/2012,99
+Princess Cruises,Dawn Princess,4/27/2012,97
+Princess Cruises,Emerald Princess,4/26/2012,92
+Royal Caribbean International,Freedom Of The Seas,4/22/2012,96
+Princess Cruises,Golden Princess,4/25/2012,98
+Royal Caribbean International,Grandeur Of The Seas,4/18/2012,97
+Royal Caribbean International,Jewel Of The Seas,4/23/2012,100
+Royal Caribbean International,Liberty of the Seas,4/9/2012,99
+Norwegian Cruise Lines,Norwegian Gem,4/24/2012,97
+Norwegian Cruise Lines,Norwegian Sun,4/14/2012,100
+Royal Caribbean International,Radiance Of The Seas,4/21/2012,98
+Holland America Line,Rotterdam,4/17/2012,86
+Holland America Line,Ryndam,4/1/2012,97
+Rederij Clipper Stad Amsterdam,Stad Amsterdam,4/17/2012,90
+Princess Cruises,Star Princess,4/20/2012,100
+Holland America Line,Veendam,4/19/2012,93
+Holland America Line,Amsterdam,5/23/2012,94
+"Carnival Cruise Lines, Inc.",Carnival Glory,5/6/2012,94
+"Carnival Cruise Lines, Inc.",Carnival Liberty,5/5/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Paradise,5/19/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,5/5/2012,93
+"Crystal Cruises , Inc.",Crystal Serenity,5/4/2012,98
+Princess Cruises,Diamond Princess,5/24/2012,100
+Disney Cruise Lines,Disney Dream,5/10/2012,100
+Disney Cruise Lines,Disney Fantasy,5/12/2012,100
+Royal Caribbean International,Enchantment Of The Seas,5/11/2012,96
+Princess Cruises,Island Princess,5/26/2012,96
+Royal Caribbean International,Monarch Of The Seas,5/11/2012,95
+Holland America Line,Noordam,5/2/2012,99
+Holland America Line,Prinsendam,5/13/2012,98
+Un-Cruise Adventures,Safari Quest,5/25/2012,98
+Princess Cruises,Sea Princess,5/27/2012,99
+Silversea Cruises Ltd,Silver Shadow,5/29/2012,99
+ResidenSea,The World,5/31/2012,95
+Holland America Line,Volendam,5/25/2012,100
+"NYK Cruises Co., LTD",Asuka II,6/25/2012,98
+"Carnival Cruise Lines, Inc.",Carnival Conquest,6/3/2012,95
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,6/18/2012,95
+"Carnival Cruise Lines, Inc.",Carnival Legend,6/17/2012,95
+"Carnival Cruise Lines, Inc.",Carnival Pride,6/27/2012,100
+Celebrity Cruises,Celebrity Century,6/8/2012,97
+Disney Cruise Lines,Disney Wonder,6/4/2012,95
+"Mitsui O.S.K. Passenger Line, Ltd",Nippon Maru,6/10/2012,95
+Norwegian Cruise Lines,Norwegian Dawn,6/1/2012,98
+Holland America Line,Oosterdam,6/3/2012,99
+Royal Caribbean International,Rhapsody Of The Seas,6/22/2012,97
+Princess Cruises,Sapphire Princess,6/26/2012,98
+Lindblad Expeditions,Sea Bird,6/24/2012,97
+Lindblad Expeditions,Sea Lion,6/23/2012,98
+Holland America Line,Westerdam,6/9/2012,95
+"Carnival Cruise Lines, Inc.",Carnival Dream,7/14/2012,93
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/19/2012,98
+"Carnival Cruise Lines, Inc.",Carnival Fascination,7/16/2012,93
+"Carnival Cruise Lines, Inc.",Carnival Freedom,7/23/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Imagination,7/24/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/15/2012,93
+"Carnival Cruise Lines, Inc.",Carnival Splendor,7/8/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Triumph,7/7/2012,96
+Celebrity Cruises,Celebrity Infinity,7/9/2012,98
+Celebrity Cruises,Celebrity Millennium,7/17/2012,90
+Celebrity Cruises,Celebrity Summit,7/22/2012,90
+Princess Cruises,Coral Princess,7/16/2012,100
+Disney Cruise Lines,Disney Magic,7/20/2012,91
+Royal Caribbean International,Explorer Of The Seas,7/5/2012,99
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,7/15/2012,94
+Royal Caribbean International,Majesty Of The Seas,7/26/2012,99
+V. Ships Leisure U.S.A.,MV Yorktown,7/14/2012,74
+Norwegian Cruise Lines,Norwegian Jewel,7/11/2012,100
+Norwegian Cruise Lines,Norwegian Pearl,7/10/2012,100
+Norwegian Cruise Lines,Norwegian Sky,7/13/2012,97
+Norwegian Cruise Lines,Norwegian Star,7/8/2012,97
+Cunard Line,Queen Mary 2,7/6/2012,100
+Holland America Line,Statendam,7/12/2012,98
+ResidenSea,The World,7/31/2012,97
+Royal Caribbean International,Allure of the Seas,8/5/2012,97
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,8/24/2012,98
+Princess Cruises,Diamond Princess,8/25/2012,100
+V. Ships Leisure U.S.A.,MV Explorer,8/18/2012,98
+Royal Caribbean International,Oasis Of The Seas,8/11/2012,97
+Royal Caribbean International,Radiance Of The Seas,8/26/2012,99
+Regent Seven Seas,Seven Seas Navigator,8/4/2012,92
+Princess Cruises,Star Princess,8/1/2012,93
+Holland America Line,Veendam,8/19/2012,77
+Holland America Line,Volendam,8/3/2012,99
+Holland America Line,Zaandam,8/2/2012,98
+Holland America Line,Zuiderdam,8/27/2012,100
+Aida Cruises,AIDAaura,9/13/2012,100
+Aida Cruises,AIDAluna,9/23/2012,93
+P&O Cruises,Arcadia,9/26/2012,94
+P&O Cruises,Aurora,9/12/2012,100
+"Celebration Cruise Line, Ltd",Bahamas Celebration,9/26/2012,96
+Royal Caribbean International,Brilliance Of The Seas,9/21/2012,97
+America Cruise Ferries,Caribbean Fantasy,9/7/2012,87
+Princess Cruises,Caribbean Princess,9/22/2012,99
+"Crystal Cruises , Inc.",Crystal Symphony,9/24/2012,96
+Royal Caribbean International,Enchantment Of The Seas,9/20/2012,97
+Blount Small Ship Adventures,Grande Caribe,9/28/2012,81
+Blount Small Ship Adventures,Grande Mariner,9/18/2012,75
+Royal Caribbean International,Jewel Of The Seas,9/23/2012,100
+Compagnie Du Ponant SA,Le Boreal,9/14/2012,100
+V. Ships Leisure U.S.A.,MV Yorktown,9/8/2012,69
+Oceania Cruises,Regatta,9/24/2012,96
+Princess Cruises,Sea Princess,9/5/2012,98
+Silversea Cruises Ltd,Silver Shadow,9/3/2012,95
+Phoenix Reissen Cruise Line,Artania,10/9/2012,76
+Salen Ship Management AB,Caledonian Sky,10/7/2012,93
+"Carnival Cruise Lines, Inc.",Carnival Conquest,10/28/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Dream,10/20/2012,93
+"Carnival Cruise Lines, Inc.",Carnival Magic,10/14/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Miracle,10/24/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,10/1/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Valor,10/13/2012,99
+Celebrity Cruises,Celebrity Infinity,10/8/2012,97
+Disney Cruise Lines,Disney Dream,10/21/2012,100
+Disney Cruise Lines,Disney Magic,10/13/2012,95
+Princess Cruises,Emerald Princess,10/18/2012,100
+Royal Caribbean International,Explorer Of The Seas,10/21/2012,95
+Blount Small Ship Adventures,Grande Mariner,10/17/2012,91
+Holland America Line,Maasdam,10/18/2012,93
+Royal Caribbean International,Monarch Of The Seas,10/19/2012,90
+Norwegian Cruise Lines,Norwegian Dawn,10/19/2012,100
+Norwegian Cruise Lines,Norwegian Star,10/25/2012,99
+Seabourn Cruise Line,Seabourn Sojourn,10/10/2012,90
+Silversea Cruises Ltd,Silver Whisper,10/20/2012,98
+Holland America Line,Veendam,10/7/2012,92
+Royal Caribbean International,Vision Of The Seas,10/5/2012,95
+Aida Cruises,AIDAaura,11/12/2012,89
+Phoenix Reissen Cruise Line,Amadea,11/12/2012,63
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,11/10/2012,98
+"Carnival Cruise Lines, Inc.",Carnival Elation,11/17/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Imagination,11/5/2012,96
+"Carnival Cruise Lines, Inc.",Carnival Legend,11/11/2012,94
+Princess Cruises,Grand Princess,11/24/2012,100
+Royal Caribbean International,Liberty of the Seas,11/10/2012,98
+Royal Caribbean International,Mariner Of The Seas,11/18/2012,97
+Royal Caribbean International,Navigator Of The Seas,11/17/2012,100
+Holland America Line,Noordam,11/13/2012,100
+Norwegian Cruise Lines,Norwegian Epic,11/14/2012,99
+Norwegian Cruise Lines,Norwegian Gem,11/16/2012,93
+Princess Cruises,Ruby Princess,11/4/2012,99
+Royal Caribbean International,Adventure Of The Seas,12/16/2012,100
+Royal Caribbean International,Allure of the Seas,12/12/2012,98
+Royal Caribbean International,Brilliance Of The Seas,12/15/2012,88
+"Carnival Cruise Lines, Inc.",Carnival Breeze,12/2/2012,100
+"Carnival Cruise Lines, Inc.",Carnival Freedom,12/18/2012,99
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,12/7/2012,94
+Celebrity Cruises,Celebrity Eclipse,12/1/2012,96
+Celebrity Cruises,Celebrity Reflection,12/1/2012,99
+Costa Crociere S.P.A.,Costa Mediterranea,12/5/2012,94
+"Crystal Cruises , Inc.",Crystal Serenity,12/21/2012,93
+Royal Caribbean International,Independence of the Seas,12/13/2012,95
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,12/14/2012,94
+Holland America Line,Nieuw Amsterdam,12/30/2012,98
+Oceania Cruises,Oceania Riviera,12/10/2012,98
+Holland America Line,Ryndam,12/2/2012,95
+Seabourn Cruise Line,Seabourn Legend,12/17/2012,97
+Seabourn Cruise Line,Seabourn Quest,12/19/2012,98
+Sea Dream Yacht Club,Seadream I,12/17/2012,98
+Silversea Cruises Ltd,Silver Spirit,12/20/2012,100
+Holland America Line,Amsterdam,1/5/2013,97
+America Cruise Ferries,Caribbean Fantasy,1/18/2013,81
+"Carnival Cruise Lines, Inc.",Carnival Glory,1/17/2013,98
+"Carnival Cruise Lines, Inc.",Carnival Pride,1/23/2013,98
+Celebrity Cruises,Celebrity Silhouette,1/16/2013,99
+Celebrity Cruises,Celebrity Summit,1/19/2013,81
+Disney Cruise Lines,Disney Fantasy,1/16/2013,100
+Holland America Line,Eurodam,1/22/2013,100
+Royal Caribbean International,Jewel Of The Seas,1/24/2013,88
+Royal Caribbean International,Monarch Of The Seas,1/25/2013,92
+Royal Caribbean International,Oasis Of The Seas,1/15/2013,100
+Princess Cruises,Pacific Princess,1/17/2013,93
+Holland America Line,Prinsendam,1/5/2013,96
+Cunard Line,Queen Victoria,1/21/2013,89
+Oceania Cruises,Regatta,1/4/2013,93
+Sea Dream Yacht Club,Seadream II,1/20/2013,84
+Regent Seven Seas,Seven Seas Mariner,1/7/2013,95
+Phoenix Reissen Cruise Line,Amadea,2/19/2013,94
+"Celebration Cruise Line, Ltd",Bahamas Celebration,2/13/2013,96
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,2/23/2013,98
+"Carnival Cruise Lines, Inc.",Carnival Fascination,2/21/2013,84
+"Carnival Cruise Lines, Inc.",Carnival Liberty,2/16/2013,99
+"Carnival Cruise Lines, Inc.",Carnival Paradise,2/18/2013,96
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/3/2013,100
+Celebrity Cruises,Celebrity Century,2/8/2013,78
+Princess Cruises,Coral Princess,2/21/2013,99
+Costa Crociere S.P.A.,Costa Deliziosa,2/11/2013,87
+Costa Crociere S.P.A.,Costa Mediterranea,2/28/2013,95
+Disney Cruise Lines,Disney Wonder,2/2/2013,92
+Royal Caribbean International,Freedom Of The Seas,2/17/2013,96
+Princess Cruises,Golden Princess,2/7/2013,81
+Royal Caribbean International,Navigator Of The Seas,2/16/2013,100
+Holland America Line,Noordam,2/18/2013,91
+Norwegian Cruise Lines,Norwegian Jewel,2/19/2013,99
+Norwegian Cruise Lines,Norwegian Sky,2/15/2013,96
+Cunard Line,Queen Elizabeth,2/9/2013,97
+Regent Seven Seas,Seven Seas Navigator,2/16/2013,98
+Holland America Line,Zuiderdam,2/25/2013,97
+Aida Cruises,AIDAaura,3/19/2013,86
+P&O Cruises,Arcadia,3/17/2013,93
+Azamara Cruises,Azamara Quest,3/14/2013,90
+Celebrity Cruises,Celebrity Constellation,3/4/2013,99
+Celebrity Cruises,Celebrity Reflection,3/23/2013,100
+Celebrity Cruises,Celebrity Silhouette,3/24/2013,99
+Club Med Marine,Club Med 2,3/25/2013,87
+"Crystal Cruises , Inc.",Crystal Serenity,3/30/2013,94
+Princess Cruises,Emerald Princess,3/7/2013,95
+Royal Caribbean International,Liberty of the Seas,3/25/2013,97
+Hamburg Cruise SA,MS Hamburg,3/3/2013,89
+MSC Cruises (Mediterranean Shipping Company),MSC Poesia,3/2/2013,87
+Norwegian Cruise Lines,Norwegian Epic,3/30/2013,91
+P&O Cruises,Oriana,3/5/2013,92
+Holland America Line,Ryndam,3/10/2013,94
+Sea Dream Yacht Club,Seadream I,3/17/2013,99
+Silversea Cruises Ltd,Silver Cloud,3/15/2013,96
+Royal Caribbean International,Adventure Of The Seas,4/7/2013,88
+Princess Cruises,Caribbean Princess,4/20/2013,94
+"Carnival Cruise Lines, Inc.",Carnival Freedom,4/28/2013,100
+"Carnival Cruise Lines, Inc.",Carnival Splendor,4/16/2013,95
+"Carnival Cruise Lines, Inc.",Carnival Victory,4/29/2013,99
+Celebrity Cruises,Celebrity Eclipse,4/9/2013,100
+Disney Cruise Lines,Disney Magic,4/20/2013,96
+Blount Small Ship Adventures,Grande Caribe,4/18/2013,95
+Royal Caribbean International,Independence of the Seas,4/7/2013,100
+Princess Cruises,Island Princess,4/5/2013,97
+Royal Caribbean International,Jewel Of The Seas,4/4/2013,99
+Royal Caribbean International,Mariner Of The Seas,4/21/2013,98
+V. Ships Leisure U.S.A.,MV Yorktown,4/25/2013,69
+Norwegian Cruise Lines,Norwegian Star,4/23/2013,89
+Princess Cruises,Ruby Princess,4/7/2013,100
+Silversea Cruises Ltd,Silver Spirit,4/5/2013,100
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,5/30/2013,98
+"Carnival Cruise Lines, Inc.",Carnival Fascination,5/23/2013,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,5/5/2013,96
+Celebrity Cruises,Celebrity Solstice,5/8/2013,99
+Celebrity Cruises,Celebrity Summit,5/5/2013,95
+Disney Cruise Lines,Disney Fantasy,5/25/2013,100
+Blount Small Ship Adventures,Grande Mariner,5/20/2013,92
+Royal Caribbean International,Grandeur Of The Seas,5/26/2013,94
+Royal Caribbean International,Majesty Of The Seas,5/31/2013,97
+Norwegian Cruise Lines,Norwegian Pearl,5/5/2013,92
+Norwegian Cruise Lines,Norwegian Sky,5/6/2013,96
+Oceania Cruises,Oceania Marina,5/24/2013,96
+Holland America Line,Prinsendam,5/17/2013,97
+Cunard Line,Queen Mary 2,5/3/2013,92
+Royal Caribbean International,Radiance Of The Seas,5/10/2013,97
+Royal Caribbean International,Rhapsody Of The Seas,5/11/2013,100
+Princess Cruises,Sapphire Princess,5/4/2013,92
+Silversea Cruises Ltd,Silver Whisper,5/4/2013,94
+Princess Cruises,Star Princess,5/7/2013,99
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,6/20/2013,80
+"Carnival Cruise Lines, Inc.",Carnival Breeze,6/30/2013,90
+"Carnival Cruise Lines, Inc.",Carnival Conquest,6/30/2013,97
+"Carnival Cruise Lines, Inc.",Carnival Dream,6/22/2013,100
+"Carnival Cruise Lines, Inc.",Carnival Imagination,6/28/2013,99
+"Carnival Cruise Lines, Inc.",Carnival Liberty,6/29/2013,93
+"Carnival Cruise Lines, Inc.",Carnival Miracle,6/22/2013,90
+"Carnival Cruise Lines, Inc.",Carnival Paradise,6/24/2013,95
+Celebrity Cruises,Celebrity Century,6/13/2013,94
+Celebrity Cruises,Celebrity Millennium,6/11/2013,95
+Disney Cruise Lines,Disney Dream,6/23/2013,100
+Princess Cruises,Golden Princess,6/9/2013,95
+V. Ships Leisure U.S.A.,MV Yorktown,6/3/2013,85
+Norwegian Cruise Lines,Norwegian Jewel,6/8/2013,94
+Norwegian Cruise Lines,Norwegian Sun,6/21/2013,96
+Holland America Line,Oosterdam,6/23/2013,99
+Un-Cruise Adventures,Safari Endeavour,6/16/2013,81
+Un-Cruise Adventures,Safari Quest,6/14/2013,94
+Lindblad Expeditions,Sea Lion,6/15/2013,95
+Regent Seven Seas,Seven Seas Navigator,6/16/2013,79
+Silversea Cruises Ltd,Silver Shadow,6/17/2013,82
+Holland America Line,Volendam,6/14/2013,96
+Holland America Line,Westerdam,6/10/2013,99
+Royal Caribbean International,Allure of the Seas,7/28/2013,99
+"Celebration Cruise Line, Ltd",Bahamas Celebration,7/31/2013,82
+Salen Ship Management AB,Caledonian Sky,7/12/2013,95
+America Cruise Ferries,Caribbean Fantasy,7/26/2013,81
+"Carnival Cruise Lines, Inc.",Carnival Elation,7/27/2013,99
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,7/26/2013,99
+"Carnival Cruise Lines, Inc.",Carnival Magic,7/21/2013,94
+"Carnival Cruise Lines, Inc.",Carnival Valor,7/28/2013,94
+"Carnival Cruise Lines, Inc.",Carnival Victory,7/27/2013,100
+Princess Cruises,Diamond Princess,7/13/2013,97
+Royal Caribbean International,Explorer Of The Seas,7/25/2013,98
+Princess Cruises,Island Princess,7/15/2013,95
+Norwegian Cruise Lines,Norwegian Breakaway,7/21/2013,97
+Norwegian Cruise Lines,Norwegian Dawn,7/19/2013,89
+Norwegian Cruise Lines,Norwegian Gem,7/20/2013,100
+Oceania Cruises,Regatta,7/17/2013,89
+Princess Cruises,Sea Princess,7/25/2013,93
+Holland America Line,Zaandam,7/14/2013,100
+Holland America Line,Amsterdam,8/27/2013,94
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,8/6/2013,85
+"Carnival Cruise Lines, Inc.",Carnival Fascination,8/24/2013,95
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,8/19/2013,93
+"Carnival Cruise Lines, Inc.",Carnival Pride,8/21/2013,98
+"Carnival Cruise Lines, Inc.",Carnival Sensation,8/22/2013,98
+"Carnival Cruise Lines, Inc.",Carnival Splendor,8/21/2013,92
+Celebrity Cruises,Celebrity Solstice,8/26/2013,100
+Celebrity Cruises,Celebrity Summit,8/25/2013,99
+Princess Cruises,Coral Princess,8/21/2013,93
+Royal Caribbean International,Enchantment Of The Seas,8/23/2013,86
+Royal Caribbean International,Freedom Of The Seas,8/25/2013,97
+Blount Small Ship Adventures,Grande Caribe,8/22/2013,81
+Holland America Line,Maasdam,8/31/2013,97
+Royal Caribbean International,Majesty Of The Seas,8/21/2013,98
+V. Ships Leisure U.S.A.,MV Yorktown,8/22/2013,86
+Norwegian Cruise Lines,Norwegian Pearl,8/11/2013,92
+Royal Caribbean International,Oasis Of The Seas,8/31/2013,100
+Cunard Line,Queen Mary 2,8/15/2013,92
+Royal Caribbean International,Rhapsody Of The Seas,8/2/2013,98
+Un-Cruise Adventures,Safari Endeavour,8/25/2013,98
+Lindblad Expeditions,Sea Bird,8/25/2013,97
+Regent Seven Seas,Seven Seas Navigator,8/24/2013,95
+Silversea Cruises Ltd,Silver Shadow,8/22/2013,97
+Princess Cruises,Star Princess,8/10/2013,100
+Holland America Line,Veendam,8/24/2013,96
+Holland America Line,Westerdam,8/3/2013,89
+Aida Cruises,AIDAluna,9/15/2013,93
+"Celebration Cruise Line, Ltd",Bahamas Celebration,9/19/2013,99
+Bimini SuperFast,Bimini Superfast,9/24/2013,97
+Royal Caribbean International,Brilliance Of The Seas,9/17/2013,94
+Princess Cruises,Caribbean Princess,9/28/2013,98
+"Carnival Cruise Lines, Inc.",Carnival Triumph,9/19/2013,95
+"Crystal Cruises , Inc.",Crystal Symphony,9/16/2013,97
+Princess Cruises,Diamond Princess,9/17/2013,98
+Disney Cruise Lines,Disney Wonder,9/14/2013,91
+Holland America Line,Eurodam,9/14/2013,100
+Blount Small Ship Adventures,Grande Mariner,9/2/2013,89
+Royal Caribbean International,Grandeur Of The Seas,9/19/2013,92
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,9/9/2013,91
+Compagnie Du Ponant SA,Le Boreal,9/29/2013,93
+Holland America Line,Oosterdam,9/18/2013,87
+Royal Caribbean International,Radiance Of The Seas,9/11/2013,95
+Holland America Line,Statendam,9/15/2013,99
+Holland America Line,Volendam,9/20/2013,100
+Aida Cruises,AIDABella,10/16/2013,95
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,10/21/2013,99
+"Carnival Cruise Lines, Inc.",Carnival Freedom,10/14/2013,100
+"Carnival Cruise Lines, Inc.",Carnival Victory,10/24/2013,94
+Celebrity Cruises,Celebrity Century,10/6/2013,98
+Celebrity Cruises,Celebrity Solstice,10/3/2013,100
+Princess Cruises,Coral Princess,10/24/2013,96
+Princess Cruises,Emerald Princess,10/17/2013,96
+Princess Cruises,Golden Princess,10/7/2013,99
+V. Ships Leisure U.S.A.,MV Yorktown,10/31/2013,78
+Holland America Line,Nieuw Amsterdam,10/27/2013,100
+Norwegian Cruise Lines,Norwegian Breakaway,10/22/2013,97
+Norwegian Cruise Lines,Norwegian Jewel,10/27/2013,98
+Norwegian Cruise Lines,Norwegian Sky,10/11/2013,100
+Norwegian Cruise Lines,Norwegian Star,10/13/2013,94
+Norwegian Cruise Lines,Norwegian Sun,10/9/2013,93
+Oceania Cruises,Regatta,10/27/2013,87
+Princess Cruises,Royal Princess,10/29/2013,100
+Seabourn Cruise Line,Seabourn Sojourn,10/28/2013,100
+Holland America Line,Zuiderdam,10/28/2013,99
+Royal Caribbean International,Adventure Of The Seas,11/17/2013,100
+Azamara Cruises,Azamara Quest,11/26/2013,98
+"Carnival Cruise Lines, Inc.",Carnival Dream,11/19/2013,99
+"Carnival Cruise Lines, Inc.",Carnival Glory,11/1/2013,99
+"Carnival Cruise Lines, Inc.",Carnival Liberty,11/2/2013,100
+"Carnival Cruise Lines, Inc.",Carnival Paradise,11/7/2013,100
+Celebrity Cruises,Celebrity Infinity,11/22/2013,96
+Celebrity Cruises,Celebrity Millennium,11/2/2013,96
+Princess Cruises,Crown Princess,11/9/2013,95
+Disney Cruise Lines,Disney Magic,11/10/2013,91
+Royal Caribbean International,Enchantment Of The Seas,11/8/2013,94
+Holland America Line,Eurodam,11/21/2013,100
+Royal Caribbean International,Freedom Of The Seas,11/20/2013,99
+Princess Cruises,Grand Princess,11/1/2013,92
+Royal Caribbean International,Independence of the Seas,11/15/2013,100
+Royal Caribbean International,Jewel Of The Seas,11/16/2013,97
+Royal Caribbean International,Majesty Of The Seas,11/4/2013,96
+Norwegian Cruise Lines,Norwegian Epic,11/16/2013,100
+Holland America Line,Ryndam,11/22/2013,99
+Princess Cruises,Sapphire Princess,11/23/2013,96
+Silversea Cruises Ltd,Silver Spirit,11/25/2013,93
+Royal Caribbean International,Vision Of The Seas,11/11/2013,98
+Holland America Line,Amsterdam,12/18/2013,95
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,12/3/2013,90
+Celebrity Cruises,Celebrity Constellation,12/19/2013,99
+Celebrity Cruises,Celebrity Eclipse,12/14/2013,94
+Celebrity Cruises,Celebrity Equinox,12/20/2013,97
+Celebrity Cruises,Celebrity Reflection,12/17/2013,90
+Celebrity Cruises,Celebrity Summit,12/14/2013,98
+Costa Crociere S.P.A.,Costa Luminosa,12/17/2013,100
+Disney Cruise Lines,Disney Fantasy,12/18/2013,94
+Royal Caribbean International,Grandeur Of The Seas,12/6/2013,94
+Princess Cruises,Island Princess,12/21/2013,99
+Royal Caribbean International,Liberty of the Seas,12/7/2013,96
+Holland America Line,Maasdam,12/6/2013,99
+V. Ships Leisure U.S.A.,MV Explorer,12/16/2013,100
+Holland America Line,Noordam,12/19/2013,99
+Norwegian Cruise Lines,Norwegian Dawn,12/8/2013,98
+Norwegian Cruise Lines,Norwegian Pearl,12/8/2013,97
+Oceania Cruises,Oceania Riviera,12/12/2013,100
+Holland America Line,Prinsendam,12/22/2013,94
+Princess Cruises,Ruby Princess,12/18/2013,100
+Seabourn Cruise Line,Seabourn Pride,12/15/2013,90
+Royal Caribbean International,Serenade Of The Seas,12/12/2013,98
+Silversea Cruises Ltd,Silver Whisper,12/6/2013,96
+P&O Cruises,Aurora,1/25/2014,97
+Royal Caribbean International,Brilliance Of The Seas,1/13/2014,97
+America Cruise Ferries,Caribbean Fantasy,1/17/2014,93
+"Carnival Cruise Lines, Inc.",Carnival Elation,1/23/2014,98
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,1/24/2014,95
+"Carnival Cruise Lines, Inc.",Carnival Miracle,1/26/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Splendor,1/15/2014,94
+Celebrity Cruises,Celebrity Silhouette,1/26/2014,92
+Disney Cruise Lines,Disney Dream,1/16/2014,100
+Royal Caribbean International,Explorer Of The Seas,1/16/2014,95
+Royal Caribbean International,Legend Of The Seas,1/24/2014,94
+MSC Cruises (Mediterranean Shipping Company),MSC Divina,1/4/2014,94
+Royal Caribbean International,Oasis Of The Seas,1/14/2014,97
+Princess Cruises,Ocean Princess,1/27/2014,81
+Cunard Line,Queen Elizabeth,1/21/2014,99
+Cunard Line,Queen Mary 2,1/3/2014,99
+Seabourn Cruise Line,Seabourn Sojourn,1/15/2014,97
+Sea Dream Yacht Club,Seadream I,1/18/2014,83
+Regent Seven Seas,Seven Seas Mariner,1/25/2014,97
+Regent Seven Seas,Seven Seas Navigator,1/17/2014,95
+Princess Cruises,Star Princess,1/11/2014,92
+Holland America Line,Veendam,1/15/2014,99
+Holland America Line,Westerdam,1/11/2014,98
+P&O Cruises,Arcadia,2/1/2014,94
+Princess Cruises,Caribbean Princess,2/22/2014,91
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,2/26/2014,99
+"Carnival Cruise Lines, Inc.",Carnival Imagination,2/13/2014,96
+"Carnival Cruise Lines, Inc.",Carnival Legend,2/16/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Sensation,2/13/2014,98
+Costa Crociere S.P.A.,Costa Deliziosa,2/11/2014,94
+Disney Cruise Lines,Disney Wonder,2/7/2014,91
+Royal Caribbean International,Enchantment Of The Seas,2/14/2014,99
+Holland America Line,Eurodam,2/22/2014,100
+Royal Caribbean International,Navigator Of The Seas,2/23/2014,91
+Holland America Line,Nieuw Amsterdam,2/20/2014,99
+Norwegian Cruise Lines,Norwegian Star,2/16/2014,82
+Norwegian Cruise Lines,Norwegian Sun,2/21/2014,86
+Seabourn Cruise Line,Seabourn Pride,2/23/2014,96
+Holland America Line,Statendam,2/14/2014,94
+ResidenSea,The World,2/12/2014,98
+Holland America Line,Zuiderdam,2/24/2014,96
+Royal Caribbean International,Adventure Of The Seas,3/3/2014,93
+Azamara Cruises,Azamara Quest,3/13/2014,94
+"Carnival Cruise Lines, Inc.",Carnival Breeze,3/15/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Fascination,3/17/2014,95
+"Carnival Cruise Lines, Inc.",Carnival Magic,3/11/2014,93
+"Carnival Cruise Lines, Inc.",Carnival Pride,3/19/2014,96
+"Carnival Cruise Lines, Inc.",Carnival Valor,3/2/2014,91
+Celebrity Cruises,Celebrity Constellation,3/27/2014,99
+Celebrity Cruises,Celebrity Eclipse,3/10/2014,97
+Celebrity Cruises,Celebrity Equinox,3/14/2014,92
+Celebrity Cruises,Celebrity Reflection,3/4/2014,95
+Costa Crociere S.P.A.,Costa Luminosa,3/7/2014,95
+Princess Cruises,Emerald Princess,3/7/2014,94
+Princess Cruises,Grand Princess,3/22/2014,99
+Royal Caribbean International,Liberty of the Seas,3/24/2014,93
+Holland America Line,Noordam,3/21/2014,99
+Norwegian Cruise Lines,Norwegian Breakaway,3/18/2014,89
+Norwegian Cruise Lines,Norwegian Epic,3/30/2014,96
+Norwegian Cruise Lines,Norwegian Gem,3/3/2014,97
+Norwegian Cruise Lines,Norwegian Getaway,3/8/2014,96
+Cunard Line,Queen Victoria,3/24/2014,93
+Princess Cruises,Royal Princess,3/9/2014,86
+Holland America Line,Ryndam,3/16/2014,96
+Seabourn Cruise Line,Seabourn Quest,3/22/2014,94
+Sea Dream Yacht Club,Seadream I,3/1/2014,93
+Silversea Cruises Ltd,Silver Cloud,3/17/2014,89
+Silversea Cruises Ltd,Silver Spirit,3/13/2014,97
+Rederij Clipper Stad Amsterdam,Stad Amsterdam,3/18/2014,89
+"Carnival Cruise Lines, Inc.",Carnival Dream,4/5/2014,96
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,4/27/2014,91
+"Carnival Cruise Lines, Inc.",Carnival Triumph,4/26/2014,94
+Celebrity Cruises,Celebrity Century,4/29/2014,99
+Celebrity Cruises,Celebrity Silhouette,4/13/2014,97
+Princess Cruises,Crown Princess,4/30/2014,91
+Disney Cruise Lines,Disney Magic,4/4/2014,92
+Royal Caribbean International,Freedom Of The Seas,4/6/2014,100
+Blount Small Ship Adventures,Grande Caribe,4/27/2014,97
+Royal Caribbean International,Legend Of The Seas,4/1/2014,96
+Norwegian Cruise Lines,Norwegian Sky,4/14/2014,96
+Norwegian Cruise Lines,Norwegian Star,4/25/2014,95
+Oceania Cruises,Oceania Riviera,4/7/2014,99
+Princess Cruises,Pacific Princess,4/25/2014,89
+Royal Caribbean International,Radiance Of The Seas,4/26/2014,89
+Un-Cruise Adventures,Safari Quest,4/19/2014,84
+Princess Cruises,Star Princess,4/24/2014,87
+Holland America Line,Zaandam,4/28/2014,95
+Royal Caribbean International,Allure of the Seas,5/18/2014,98
+Holland America Line,Amsterdam,5/13/2014,98
+"NYK Cruises Co., LTD",Asuka II,5/30/2014,90
+"Celebration Cruise Line, Ltd",Bahamas Celebration,5/19/2014,82
+"Carnival Cruise Lines, Inc.",Carnival Conquest,5/11/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,5/5/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Freedom,5/19/2014,94
+"Carnival Cruise Lines, Inc.",Carnival Victory,5/17/2014,99
+Celebrity Cruises,Celebrity Infinity,5/2/2014,100
+"Crystal Cruises , Inc.",Crystal Symphony,5/30/2014,96
+Disney Cruise Lines,Disney Fantasy,5/10/2014,97
+Royal Caribbean International,Explorer Of The Seas,5/31/2014,96
+Royal Caribbean International,Independence of the Seas,5/4/2014,95
+Holland America Line,Maasdam,5/24/2014,91
+Norwegian Cruise Lines,Norwegian Jewel,5/31/2014,100
+Holland America Line,Oosterdam,5/28/2014,99
+Royal Caribbean International,Rhapsody Of The Seas,5/30/2014,93
+Un-Cruise Adventures,Safari Endeavour,5/25/2014,68
+Lindblad Expeditions,Sea Bird,5/24/2014,89
+Lindblad Expeditions,Sea Lion,5/25/2014,87
+Silversea Cruises Ltd,Silver Shadow,5/27/2014,96
+Royal Caribbean International,Vision Of The Seas,5/8/2014,100
+Holland America Line,Volendam,5/23/2014,95
+"Carnival Cruise Lines, Inc.",Carnival Breeze,6/7/2014,95
+"Carnival Cruise Lines, Inc.",Carnival Elation,6/14/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Glory,6/21/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Imagination,6/1/2014,98
+Celebrity Cruises,Celebrity Millennium,6/18/2014,100
+Celebrity Cruises,Celebrity Solstice,6/30/2014,100
+Princess Cruises,Coral Princess,6/16/2014,94
+Disney Cruise Lines,Disney Wonder,6/20/2014,97
+Princess Cruises,Golden Princess,6/23/2014,100
+Blount Small Ship Adventures,Grande Caribe,6/2/2014,92
+Blount Small Ship Adventures,Grande Mariner,6/18/2014,87
+Hapag Lloyd Kreuzfahrten Gmbh,Hanseatic,6/27/2014,88
+Princess Cruises,Island Princess,6/21/2014,100
+Royal Caribbean International,Jewel Of The Seas,6/29/2014,100
+Royal Caribbean International,Majesty Of The Seas,6/9/2014,97
+Norwegian Cruise Lines,Norwegian Pearl,6/24/2014,95
+Royal Caribbean International,Oasis Of The Seas,6/7/2014,97
+Oceania Cruises,Regatta,6/19/2014,92
+Regent Seven Seas,Seven Seas Navigator,6/29/2014,99
+Holland America Line,Statendam,6/17/2014,100
+"Celebration Cruise Line, Ltd",Bahamas Celebration,7/28/2014,84
+Bimini SuperFast,Bimini Superfast,7/27/2014,89
+Princess Cruises,Caribbean Princess,7/15/2014,92
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,7/29/2014,94
+"Carnival Cruise Lines, Inc.",Carnival Fascination,7/14/2014,93
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,7/22/2014,96
+"Carnival Cruise Lines, Inc.",Carnival Legend,7/8/2014,99
+"Carnival Cruise Lines, Inc.",Carnival Paradise,7/12/2014,94
+"Carnival Cruise Lines, Inc.",Carnival Splendor,7/31/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Valor,7/13/2014,98
+Celebrity Cruises,Celebrity Summit,7/20/2014,95
+Princess Cruises,Dawn Princess,7/21/2014,91
+Disney Cruise Lines,Disney Dream,7/13/2014,100
+Royal Caribbean International,Grandeur Of The Seas,7/27/2014,98
+Norwegian Cruise Lines,Norwegian Dawn,7/4/2014,95
+Norwegian Cruise Lines,Norwegian Gem,7/5/2014,95
+FleetPro Ocean Inc,Nova Star,7/13/2014,52
+Japan Grace,Ocean Dream,7/20/2014,89
+Holland America Line,Oosterdam,7/17/2014,99
+V. Ships Leisure U.S.A.,Pearl Mist,7/15/2014,61
+Cunard Line,Queen Mary 2,7/6/2014,98
+Un-Cruise Adventures,Safari Endeavour,7/20/2014,89
+Un-Cruise Adventures,Safari Quest,7/18/2014,87
+Silversea Cruises Ltd,Silver Discoverer,7/19/2014,75
+Holland America Line,Veendam,7/11/2014,98
+Holland America Line,Westerdam,7/21/2014,100
+Royal Caribbean International,Allure of the Seas,8/31/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Miracle,8/16/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Pride,8/20/2014,100
+Blount Small Ship Adventures,Grande Mariner,8/3/2014,94
+MSC Cruises (Mediterranean Shipping Company),MSC Divina,8/27/2014,96
+Royal Caribbean International,Navigator Of The Seas,8/3/2014,90
+Norwegian Cruise Lines,Norwegian Getaway,8/23/2014,97
+Princess Cruises,Pacific Princess,8/8/2014,93
+Royal Caribbean International,Radiance Of The Seas,8/20/2014,99
+Royal Caribbean International,Rhapsody Of The Seas,8/17/2014,100
+Un-Cruise Adventures,Safari Quest,8/15/2014,98
+Lindblad Expeditions,Sea Bird,8/9/2014,95
+Lindblad Expeditions,Sea Lion,8/17/2014,96
+Silversea Cruises Ltd,Silver Shadow,8/10/2014,92
+Holland America Line,Volendam,8/11/2014,97
+Holland America Line,Zaandam,8/18/2014,97
+Aida Cruises,AIDAluna,9/28/2014,99
+Phoenix Reissen Cruise Line,Amadea,9/7/2014,92
+P&O Cruises,Arcadia,9/30/2014,93
+"Celebration Cruise Line, Ltd",Bahamas Celebration,9/3/2014,90
+Fred Olsen Cruise Line,Balmoral,9/20/2014,85
+Royal Caribbean International,Brilliance Of The Seas,9/28/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Conquest,9/14/2014,91
+"Carnival Cruise Lines, Inc.",Carnival Liberty,9/24/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Magic,9/28/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Sensation,9/4/2014,96
+"Carnival Cruise Lines, Inc.",Carnival Triumph,9/27/2014,100
+"Crystal Cruises , Inc.",Crystal Serenity,9/19/2014,93
+Compagnie Du Ponant SA,Le Boreal,9/27/2014,92
+FleetPro Ocean Inc,Nova Star,9/26/2014,89
+V. Ships Leisure U.S.A.,Pearl Mist,9/10/2014,74
+Princess Cruises,Ruby Princess,9/25/2014,99
+Un-Cruise Adventures,Safari Endeavour,9/7/2014,93
+Seabourn Cruise Line,Seabourn Quest,9/11/2014,98
+Aida Cruises,AIDABella,10/28/2014,98
+America Cruise Ferries,Caribbean Fantasy,10/22/2014,86
+"Carnival Cruise Lines, Inc.",Carnival Dream,10/26/2014,93
+"Carnival Cruise Lines, Inc.",Carnival Elation,10/27/2014,95
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,10/17/2014,94
+Celebrity Cruises,Celebrity Solstice,10/4/2014,98
+Princess Cruises,Coral Princess,10/29/2014,97
+Disney Cruise Lines,Disney Dream,10/19/2014,100
+Disney Cruise Lines,Disney Fantasy,10/18/2014,100
+Holland America Line,Eurodam,10/22/2014,100
+Royal Caribbean International,Explorer Of The Seas,10/23/2014,99
+Blount Small Ship Adventures,Grande Caribe,10/26/2014,87
+Royal Caribbean International,Majesty Of The Seas,10/6/2014,98
+Norwegian Cruise Lines,Norwegian Star,10/20/2014,91
+Oceania Cruises,Oceania Insignia,10/31/2014,96
+Holland America Line,Oosterdam,10/5/2014,99
+Oceania Cruises,Regatta,10/25/2014,97
+Royal Caribbean International,Adventure Of The Seas,11/16/2014,97
+Royal Caribbean International,Allure of the Seas,11/9/2014,100
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,11/7/2014,96
+"Carnival Cruise Lines, Inc.",Carnival Freedom,11/24/2014,98
+"Carnival Cruise Lines, Inc.",Carnival Glory,11/1/2014,99
+"Carnival Cruise Lines, Inc.",Carnival Imagination,11/5/2014,95
+"Carnival Cruise Lines, Inc.",Carnival Splendor,11/30/2014,94
+Celebrity Cruises,Celebrity Equinox,11/10/2014,97
+Celebrity Cruises,Celebrity Reflection,11/17/2014,100
+Disney Cruise Lines,Disney Magic,11/9/2014,99
+Disney Cruise Lines,Disney Wonder,11/5/2014,99
+Royal Caribbean International,Freedom Of The Seas,11/23/2014,86
+Princess Cruises,Island Princess,11/26/2014,100
+Hamburg Cruise SA,MS Hamburg,11/22/2014,90
+MSC Cruises (Mediterranean Shipping Company),MSC Divina,11/8/2014,97
+Norwegian Cruise Lines,Norwegian Pearl,11/20/2014,95
+Oceania Cruises,Oceania Riviera,11/29/2014,97
+Regent Seven Seas,Seven Seas Navigator,11/16/2014,97
+Silversea Cruises Ltd,Silver Spirit,11/24/2014,93
+Princess Cruises,Star Princess,11/4/2014,97
+Aida Cruises,AIDAVITA,12/4/2014,96
+Holland America Line,Amsterdam,12/8/2014,99
+"Carnival Cruise Lines, Inc.",Carnival Paradise,12/18/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Valor,12/14/2014,97
+"Carnival Cruise Lines, Inc.",Carnival Victory,12/8/2014,100
+Celebrity Cruises,Celebrity Constellation,12/8/2014,88
+Celebrity Cruises,Celebrity Eclipse,12/7/2014,100
+Club Med Marine,Club Med 2,12/15/2014,80
+Costa Crociere S.P.A.,Costa Luminosa,12/20/2014,100
+Costa Crociere S.P.A.,Costa Mediterranea,12/11/2014,91
+Princess Cruises,Crown Princess,12/6/2014,96
+Princess Cruises,Grand Princess,12/10/2014,94
+Royal Caribbean International,Grandeur Of The Seas,12/19/2014,99
+Royal Caribbean International,Liberty of the Seas,12/1/2014,95
+Holland America Line,Maasdam,12/12/2014,95
+Princess Cruises,Ocean Princess,12/22/2014,99
+Holland America Line,Prinsendam,12/18/2014,94
+Royal Caribbean International,Quantum of the Seas,12/20/2014,98
+Cunard Line,Queen Mary 2,12/22/2014,96
+Princess Cruises,Regal Princess,12/10/2014,100
+Holland America Line,Ryndam,12/7/2014,94
+Sea Dream Yacht Club,Seadream I,12/14/2014,96
+Sea Dream Yacht Club,Seadream II,12/13/2014,95
+Silversea Cruises Ltd,Silver Cloud,12/12/2014,99
+Silversea Cruises Ltd,Silver Whisper,12/19/2014,100
+Holland America Line,Zuiderdam,12/19/2014,100
+P&O Cruises,Arcadia,1/31/2015,91
+America Cruise Ferries,Caribbean Fantasy,1/23/2015,84
+Princess Cruises,Caribbean Princess,1/12/2015,91
+"Carnival Cruise Lines, Inc.",Carnival Breeze,1/22/2015,92
+"Carnival Cruise Lines, Inc.",Carnival Conquest,1/4/2015,98
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,1/30/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Liberty,1/24/2015,92
+Celebrity Cruises,Celebrity Silhouette,1/20/2015,95
+"Crystal Cruises , Inc.",Crystal Serenity,1/15/2015,95
+Princess Cruises,Emerald Princess,1/11/2015,99
+Royal Caribbean International,Jewel Of The Seas,1/24/2015,99
+V. Ships Leisure U.S.A.,MV Explorer,1/14/2015,97
+Holland America Line,Nieuw Amsterdam,1/25/2015,96
+Holland America Line,Noordam,1/5/2015,100
+Norwegian Cruise Lines,Norwegian Breakaway,1/21/2015,91
+Norwegian Cruise Lines,Norwegian Epic,1/11/2015,92
+Norwegian Cruise Lines,Norwegian Getaway,1/31/2015,92
+Norwegian Cruise Lines,Norwegian Sky,1/2/2015,100
+Norwegian Cruise Lines,Norwegian Sun,1/9/2015,97
+Princess Cruises,Pacific Princess,1/15/2015,97
+Princess Cruises,Royal Princess,1/8/2015,96
+Princess Cruises,Ruby Princess,1/3/2015,100
+Royal Caribbean International,Serenade Of The Seas,1/10/2015,99
+Silversea Cruises Ltd,Silver Shadow,1/7/2015,95
+Holland America Line,Veendam,1/13/2015,99
+Royal Caribbean International,Vision Of The Seas,1/3/2015,99
+Bimini SuperFast,Bimini Superfast,2/20/2015,92
+Royal Caribbean International,Brilliance Of The Seas,2/9/2015,99
+"Carnival Cruise Lines, Inc.",Carnival Dream,2/15/2015,92
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,2/19/2015,99
+"Carnival Cruise Lines, Inc.",Carnival Fascination,2/5/2015,95
+"Carnival Cruise Lines, Inc.",Carnival Glory,2/28/2015,92
+"Carnival Cruise Lines, Inc.",Carnival Miracle,2/1/2015,100
+"Carnival Cruise Lines, Inc.",Carnival Pride,2/8/2015,100
+Club Med Marine,Club Med 2,2/3/2015,86
+Holland America Line,Eurodam,2/1/2015,100
+Royal Caribbean International,Explorer Of The Seas,2/7/2015,99
+Royal Caribbean International,Independence of the Seas,2/22/2015,98
+Royal Caribbean International,Legend Of The Seas,2/27/2015,96
+Norwegian Cruise Lines,Norwegian Gem,2/4/2015,96
+Norwegian Cruise Lines,Norwegian Jewel,2/14/2015,100
+Royal Caribbean International,Oasis Of The Seas,2/21/2015,99
+Oceania Cruises,Oceania Riviera,2/23/2015,94
+Cunard Line,Queen Elizabeth,2/8/2015,95
+Cunard Line,Queen Victoria,2/2/2015,89
+Holland America Line,Statendam,2/19/2015,100
+Holland America Line,Westerdam,2/28/2015,95
+Aida Cruises,AIDAVITA,3/9/2015,98
+Royal Caribbean International,Allure of the Seas,3/18/2015,92
+"NYK Cruises Co., LTD",Asuka II,3/8/2015,93
+P&O Cruises,Aurora,3/25/2015,89
+Azamara Cruises,Azamara Journey,3/30/2015,96
+America Cruise Ferries,Caribbean Fantasy,3/13/2015,90
+"Carnival Cruise Lines, Inc.",Carnival Elation,3/11/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Magic,3/29/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Sensation,3/29/2015,98
+"Carnival Cruise Lines, Inc.",Carnival Triumph,3/28/2015,100
+"Carnival Cruise Lines, Inc.",Carnival Valor,3/16/2015,87
+Celebrity Cruises,Celebrity Constellation,3/16/2015,97
+Celebrity Cruises,Celebrity Eclipse,3/15/2015,98
+Celebrity Cruises,Celebrity Infinity,3/29/2015,100
+Celebrity Cruises,Celebrity Reflection,3/14/2015,97
+Celebrity Cruises,Celebrity Silhouette,3/15/2015,98
+Celebrity Cruises,Celebrity Summit,3/14/2015,99
+Costa Crociere S.P.A.,Costa Mediterranea,3/20/2015,94
+Princess Cruises,Emerald Princess,3/22/2015,96
+Hapag Lloyd Kreuzfahrten Gmbh,Europa 2,3/18/2015,86
+Princess Cruises,Golden Princess,3/30/2015,98
+Princess Cruises,Island Princess,3/6/2015,100
+MSC Cruises (Mediterranean Shipping Company),MSC Divina,3/16/2015,89
+Holland America Line,Nieuw Amsterdam,3/1/2015,100
+Norwegian Cruise Lines,Norwegian Dawn,3/8/2015,97
+Royal Caribbean International,Quantum of the Seas,3/31/2015,94
+Holland America Line,Ryndam,3/8/2015,100
+Seabourn Cruise Line,Seabourn Legend,3/22/2015,96
+Seabourn Cruise Line,Seabourn Quest,3/31/2015,96
+Sea Dream Yacht Club,Seadream I,3/21/2015,100
+Silversea Cruises Ltd,Silver Cloud,3/20/2015,99
+Silversea Cruises Ltd,Silver Spirit,3/27/2015,97
+Princess Cruises,Star Princess,3/26/2015,96
+Royal Caribbean International,Vision Of The Seas,3/7/2015,97
+Holland America Line,Zuiderdam,3/16/2015,95
+Phoenix Reissen Cruise Line,Amadea,4/16/2015,95
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,4/13/2015,100
+"Carnival Cruise Lines, Inc.",Carnival Freedom,4/25/2015,94
+"Carnival Cruise Lines, Inc.",Carnival Sunshine,4/18/2015,100
+Celebrity Cruises,Celebrity Equinox,4/27/2015,100
+Costa Crociere S.P.A.,Costa Atlantica,4/15/2015,97
+Disney Cruise Lines,Disney Magic,4/19/2015,99
+Royal Caribbean International,Legend Of The Seas,4/29/2015,94
+Royal Caribbean International,Navigator Of The Seas,4/26/2015,98
+Norwegian Cruise Lines,Norwegian Epic,4/19/2015,91
+Norwegian Cruise Lines,Norwegian Star,4/5/2015,91
+P&O Cruises,Oriana,4/17/2015,98
+Cunard Line,Queen Victoria,4/6/2015,95
+Princess Cruises,Regal Princess,4/12/2015,100
+Princess Cruises,Sea Princess,4/29/2015,92
+Sea Dream Yacht Club,Seadream II,4/5/2015,91
+Silversea Cruises Ltd,Silver Shadow,4/16/2015,82
+Silversea Cruises Ltd,Silver Whisper,4/28/2015,95
+Rederij Clipper Stad Amsterdam,Stad Amsterdam,4/14/2015,93
+Holland America Line,Westerdam,4/27/2015,95
+Holland America Line,Zaandam,4/29/2015,99
+Royal Caribbean International,Adventure Of The Seas,5/14/2015,98
+Holland America Line,Amsterdam,5/31/2015,99
+"Carnival Cruise Lines, Inc.",Carnival Breeze,5/9/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Conquest,5/10/2015,95
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,5/11/2015,91
+"Carnival Cruise Lines, Inc.",Carnival Legend,5/28/2015,94
+Celebrity Cruises,Celebrity Millennium,5/26/2015,100
+Celebrity Cruises,Celebrity Solstice,5/8/2015,99
+Princess Cruises,Coral Princess,5/11/2015,96
+Princess Cruises,Crown Princess,5/25/2015,97
+"Crystal Cruises , Inc.",Crystal Serenity,5/4/2015,88
+"Crystal Cruises , Inc.",Crystal Symphony,5/9/2015,96
+Disney Cruise Lines,Disney Fantasy,5/30/2015,98
+Royal Caribbean International,Enchantment Of The Seas,5/29/2015,95
+Princess Cruises,Grand Princess,5/12/2015,96
+Royal Caribbean International,Grandeur Of The Seas,5/31/2015,99
+Royal Caribbean International,Liberty of the Seas,5/6/2015,94
+Norwegian Cruise Lines,Norwegian Pearl,5/4/2015,97
+Oceania Cruises,Oceania Marina,5/3/2015,95
+Holland America Line,Oosterdam,5/27/2015,94
+V. Ships Leisure U.S.A.,Pearl Mist,5/24/2015,92
+Princess Cruises,Ruby Princess,5/6/2015,100
+Un-Cruise Adventures,Safari Endeavour,5/5/2015,95
+Lindblad Expeditions,Sea Lion,5/3/2015,99
+Regent Seven Seas,Seven Seas Navigator,5/7/2015,100
+Holland America Line,Volendam,5/29/2015,97
+"NYK Cruises Co., LTD",Asuka II,6/8/2015,91
+Balearia Caribbean Ltda,Bahama Mama,6/11/2015,69
+"Carnival Cruise Lines, Inc.",Carnival Fantasy,6/8/2015,93
+"Carnival Cruise Lines, Inc.",Carnival Fascination,6/29/2015,100
+"Carnival Cruise Lines, Inc.",Carnival Magic,6/7/2015,96
+"Carnival Cruise Lines, Inc.",Carnival Triumph,6/6/2015,92
+Disney Cruise Lines,Disney Wonder,6/4/2015,99
+"Celebration Cruise Line, Ltd",Grand Celebration,6/13/2015,80
+Royal Caribbean International,Independence of the Seas,6/21/2015,97
+Royal Caribbean International,Jewel Of The Seas,6/8/2015,96
+Norwegian Cruise Lines,Norwegian Breakaway,6/7/2015,100
+Norwegian Cruise Lines,Norwegian Sky,6/19/2015,90
+Royal Caribbean International,Oasis Of The Seas,6/20/2015,97
+Royal Caribbean International,Radiance Of The Seas,6/7/2015,100
+Holland America Line,Statendam,6/5/2015,100
+Holland America Line,Zaandam,6/3/2015,90
+Bimini SuperFast,Bimini Superfast,7/3/2015,86
+"Carnival Cruise Lines, Inc.",Carnival Paradise,7/11/2015,96
+"Carnival Cruise Lines, Inc.",Carnival Pride,7/26/2015,95
+"Carnival Cruise Lines, Inc.",Carnival Sensation,7/9/2015,95
+"Carnival Cruise Lines, Inc.",Carnival Splendor,7/16/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Victory,7/30/2015,92
+Celebrity Cruises,Celebrity Infinity,7/23/2015,100
+Celebrity Cruises,Celebrity Summit,7/12/2015,100
+Disney Cruise Lines,Disney Dream,7/10/2015,100
+Princess Cruises,Golden Princess,7/24/2015,100
+Royal Caribbean International,Majesty Of The Seas,7/20/2015,95
+Holland America Line,Noordam,7/21/2015,100
+Norwegian Cruise Lines,Norwegian Sun,7/22/2015,94
+FleetPro Ocean Inc,Nova Star,7/3/2015,88
+Oceania Cruises,Oceania Insignia,7/13/2015,92
+Princess Cruises,Pacific Princess,7/23/2015,99
+Cunard Line,Queen Mary 2,7/14/2015,91
+Un-Cruise Adventures,Safari Quest,7/24/2015,88
+Lindblad Expeditions,Sea Bird,7/25/2015,99
+Princess Cruises,Sea Princess,7/25/2015,96
+Silversea Cruises Ltd,Silver Discoverer,7/22/2015,99
+Silversea Cruises Ltd,Silver Shadow,7/25/2015,99
+Princess Cruises,Sun Princess,7/27/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Imagination,8/23/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Legend,8/8/2015,93
+"Carnival Cruise Lines, Inc.",Carnival Liberty,8/30/2015,97
+"Carnival Cruise Lines, Inc.",Carnival Miracle,8/22/2015,99
+Royal Caribbean International,Enchantment Of The Seas,8/21/2015,100
+Royal Caribbean International,Freedom Of The Seas,8/23/2015,98
+Blount Small Ship Adventures,Grande Mariner,8/8/2015,94
+Compagnie Du Ponant SA,L'Austral,8/6/2015,92
+Norwegian Cruise Lines,Norwegian Dawn,8/28/2015,95
+Norwegian Cruise Lines,Norwegian Gem,8/24/2015,97
+Norwegian Cruise Lines,Norwegian Jewel,8/15/2015,94
+V. Ships Leisure U.S.A.,Pearl Mist,8/31/2015,92
+Royal Caribbean International,Radiance Of The Seas,8/16/2015,99
+Un-Cruise Adventures,Safari Endeavour,8/9/2015,89
+Lindblad Expeditions,Sea Lion,8/16/2015,97
+Holland America Line,Veendam,8/29/2015,100
+Holland America Line,Volendam,8/14/2015,99
+Aida Cruises,AIDAluna,9/20/2015,87
+P&O Cruises,Aurora,9/26/2015,99
+Fred Olsen Cruise Line,Balmoral,9/30/2015,96
+Hapag Lloyd Kreuzfahrten Gmbh,Bremen,9/8/2015,89
+Royal Caribbean International,Brilliance Of The Seas,9/18/2015,100
+Princess Cruises,Caribbean Princess,9/24/2015,99
+Celebrity Cruises,Celebrity Millennium,9/4/2015,100
+"Crystal Cruises , Inc.",Crystal Symphony,9/13/2015,96
+Princess Cruises,Dawn Princess,9/30/2015,90
+"Celebration Cruise Line, Ltd",Grand Celebration,9/3/2015,98
+Compagnie Du Ponant SA,Le Boreal,9/28/2015,89
+Holland America Line,Maasdam,9/12/2015,96
+Hamburg Cruise SA,MS Hamburg,9/15/2015,87
+Royal Caribbean International,Navigator Of The Seas,9/6/2015,97
+Norwegian Cruise Lines,Norwegian Getaway,9/26/2015,100
+FleetPro Ocean Inc,Nova Star,9/16/2015,95
+Oceania Cruises,Regatta,9/2/2015,99
+Princess Cruises,Royal Princess,9/21/2015,97
+Seabourn Cruise Line,Seabourn Quest,9/11/2015,97
+Royal Caribbean International,Serenade Of The Seas,9/17/2015,100
+ResidenSea,The World,9/27/2015,99
+Royal Caribbean International,Adventure Of The Seas,10/17/2015,84
+Phoenix Reissen Cruise Line,Albatross,10/16/2015,91
+Holland America Line,Amsterdam,10/11/2015,99
+America Cruise Ferries,Caribbean Fantasy,10/16/2015,86
+"Carnival Cruise Lines, Inc.",Carnival Conquest,10/25/2015,92
+"Carnival Cruise Lines, Inc.",Carnival Ecstasy,10/5/2015,92
+"Carnival Cruise Lines, Inc.",Carnival Freedom,10/29/2015,100
+Costa Crociere S.P.A.,Costa Luminosa,10/14/2015,100
+Disney Cruise Lines,Disney Fantasy,10/3/2015,100
+Disney Cruise Lines,Disney Magic,10/4/2015,96
+Princess Cruises,Emerald Princess,10/24/2015,93
+Holland America Line,Eurodam,10/25/2015,100
+Royal Caribbean International,Liberty of the Seas,10/22/2015,99
+Royal Caribbean International,Majesty Of The Seas,10/26/2015,91
+Holland America Line,Noordam,10/10/2015,99
+Norwegian Cruise Lines,Norwegian Star,10/19/2015,94
+Princess Cruises,Ruby Princess,10/9/2015,96
+Silversea Cruises Ltd,Silver Whisper,10/6/2015,99
+Holland America Line,Westerdam,10/24/2015,96
+Holland America Line,Zaandam,10/7/2015,97
+Aida Cruises,AIDAdiva,11/3/2015,100
+Royal Caribbean International,Brilliance Of The Seas,11/12/2015,92
+"Carnival Cruise Lines, Inc.",Carnival Inspiration,11/9/2015,94
+Celebrity Cruises,Celebrity Constellation,11/23/2015,98
+Celebrity Cruises,Celebrity Eclipse,11/15/2015,99
+Disney Cruise Lines,Disney Dream,11/13/2015,94
+Princess Cruises,Grand Princess,11/16/2015,100
+Royal Caribbean International,Jewel Of The Seas,11/23/2015,95
+Holland America Line,Nieuw Amsterdam,11/22/2015,98
+Norwegian Cruise Lines,Norwegian Breakaway,11/8/2015,95
+Norwegian Cruise Lines,Norwegian Jewel,11/8/2015,100
+Norwegian Cruise Lines,Norwegian Sky,11/9/2015,97
+Norwegian Cruise Lines,Norwegian Sun,11/4/2015,91
+V. Ships Leisure U.S.A.,Pearl Mist,11/8/2015,88
+Holland America Line,Prinsendam,11/24/2015,96
+Sea Dream Yacht Club,Seadream II,11/22/2015,98
+Princess Cruises,Star Princess,11/3/2015,100
+Holland America Line,Zuiderdam,11/30/2015,100
+Azamara Cruises,Azamara Journey,12/11/2015,91
+Celebrity Cruises,Celebrity Infinity,12/5/2015,99
+Celebrity Cruises,Celebrity Silhouette,12/6/2015,97
+Celebrity Cruises,Celebrity Summit,12/12/2015,95
+Club Med Marine,Club Med 2,12/14/2015,88
+Norwegian Cruise Lines,Norwegian Pearl,12/10/2015,95
+Norwegian Cruise Lines,Norwegian Spirit,12/5/2015,100
+Oceania Cruises,Oceania Riviera,12/22/2015,94
+Regent Seven Seas,Seven Seas Navigator,12/17/2015,94
+Silversea Cruises Ltd,Silver Wind,12/11/2015,95
+Silversea Cruises Ltd,Silver Whisper,1/5/2016,97
